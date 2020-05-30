@@ -1,0 +1,2000 @@
+bill_number,bill_date,customer_name,service_name,staff_name,customer_id,staff_id,service_id,service_category,service_cost
+101,01-02-2017,Tommi Minett,Shampoo,Cloris Dudeney,1087,57,5,STYLE,100
+102,01-03-2017,Gusta Guichard,Color full color,Cristine Bosman,1109,51,1,COLOR,200
+103,01-03-2017,Milt Underwood,Hair Cut,Jackie Leggate,1134,52,3,STYLE,100
+104,01-03-2017,Rosabelle Merrifield,Hair Spa,Cloris Dudeney,1034,57,4,STYLE,200
+105,01-03-2017,Nathanael Grigoliis,Hair Cut,June Pynn,1136,53,3,STYLE,100
+106,01-03-2017,Gregor Tolley,Shaving,June Pynn,1039,53,6,STYLE,100
+107,01-04-2017,Carce Francklin,Blowdry + style,June Pynn,1036,53,2,STYLE,50
+108,01-04-2017,Shayna Borrowman,Hair Cut,Munroe Cumes,1148,55,3,STYLE,100
+109,01-04-2017,Pavia Maynard,Hair Spa,Munroe Cumes,1166,55,4,STYLE,200
+110,01-05-2017,Mari Clifford,Hair Cut,June Pynn,1101,53,3,STYLE,100
+111,01-05-2017,Oby Downey,Hair Cut,Cristine Bosman,1107,51,3,STYLE,100
+112,01-05-2017,Gabie Smalls,Shampoo,June Pynn,1086,53,5,STYLE,100
+113,01-06-2017,Heddie Chatainier,Color full color,Munroe Cumes,1038,55,1,COLOR,200
+114,01-06-2017,Alisun Mityashin,Hair Spa,Cloris Dudeney,1055,57,4,STYLE,200
+115,01-06-2017,Trace Larenson,Blowdry + style,Cristine Bosman,1026,51,2,STYLE,50
+116,01-07-2017,Archibold Woltering,Color full color,Cristine Bosman,1145,51,1,COLOR,200
+117,01-08-2017,Rossie Kumar,Shaving,Cristine Bosman,1140,51,6,STYLE,100
+118,01-09-2017,Boycey Robart,Hair Spa,Cloris Dudeney,1077,57,4,STYLE,200
+119,01-10-2017,Walton Hulse,Shampoo,Munroe Cumes,1052,55,5,STYLE,100
+120,01-10-2017,Marla Ainley,Blowdry + style,Jackie Leggate,1146,52,2,STYLE,50
+121,01-11-2017,Sigvard Sheahan,Blowdry + style,June Pynn,1126,53,2,STYLE,50
+122,01-11-2017,Hi Gregori,Shampoo,Jackie Leggate,1069,52,5,STYLE,100
+123,01-11-2017,Mitchell Dockwra,Blowdry + style,Ralina Pollicatt,1141,54,2,STYLE,50
+124,01-12-2017,Charo Jermey,Blowdry + style,Cloris Dudeney,1128,57,2,STYLE,50
+125,01-12-2017,Maddalena Mitchell,Hair Spa,Jackie Leggate,1037,52,4,STYLE,200
+126,01-12-2017,Sigvard Sheahan,Shaving,Ralina Pollicatt,1126,54,6,STYLE,100
+127,1/13/2017,Ted Boshere,Shaving,Ralina Pollicatt,1064,54,6,STYLE,100
+128,1/13/2017,Enrichetta Sircomb,Hair Cut,June Pynn,1105,53,3,STYLE,100
+129,1/14/2017,Sabine Gioan,Color full color,Dayle Pfeffle,1154,56,1,COLOR,200
+130,1/15/2017,Boycey Robart,Hair Cut,Ralina Pollicatt,1077,54,3,STYLE,100
+131,1/16/2017,Gusta Guichard,Hair Spa,Dayle Pfeffle,1109,56,4,STYLE,200
+132,1/16/2017,Ezra Dudman,Hair Spa,Ralina Pollicatt,1103,54,4,STYLE,200
+133,1/16/2017,Stanley Wheelband,Shaving,June Pynn,1120,53,6,STYLE,100
+134,1/17/2017,Calhoun Cutteridge,Shampoo,Ralina Pollicatt,1110,54,5,STYLE,100
+135,1/17/2017,Trueman Eiler,Shaving,Ralina Pollicatt,1024,54,6,STYLE,100
+136,1/17/2017,Dav Uccelli,Hair Spa,Ralina Pollicatt,1149,54,4,STYLE,200
+137,1/17/2017,Sayer McClay,Color full color,Munroe Cumes,1019,55,1,COLOR,200
+138,1/18/2017,Aleece O'Fergus,Shaving,June Pynn,1020,53,6,STYLE,100
+139,1/18/2017,Benjy Bewley,Hair Cut,Cloris Dudeney,1068,57,3,STYLE,100
+140,1/18/2017,Arleta Corss,Hair Cut,Dayle Pfeffle,1170,56,3,STYLE,100
+141,1/19/2017,Wheeler Human,Shampoo,Dayle Pfeffle,1058,56,5,STYLE,100
+142,1/19/2017,Paddy Pandie,Color full color,Ralina Pollicatt,1044,54,1,COLOR,200
+143,1/20/2017,Web Addionisio,Shaving,June Pynn,1027,53,6,STYLE,100
+144,1/21/2017,Sylvia Yersin,Hair Cut,Jackie Leggate,1168,52,3,STYLE,100
+145,1/21/2017,Lura Stellino,Blowdry + style,Cristine Bosman,1025,51,2,STYLE,50
+146,1/22/2017,Shara Garey,Hair Cut,Ralina Pollicatt,1004,54,3,STYLE,100
+147,1/22/2017,Patin Crowd,Color full color,June Pynn,1100,53,1,COLOR,200
+148,1/22/2017,Claudelle Jarritt,Hair Spa,Munroe Cumes,1083,55,4,STYLE,200
+149,1/23/2017,Alexandro Wheatcroft,Shaving,Munroe Cumes,1130,55,6,STYLE,100
+150,1/23/2017,Susanetta Petzold,Blowdry + style,Cristine Bosman,1001,51,2,STYLE,50
+151,1/23/2017,Claudelle Jarritt,Hair Spa,Ralina Pollicatt,1083,54,4,STYLE,200
+152,1/24/2017,Holden Ventum,Hair Cut,Cristine Bosman,1112,51,3,STYLE,100
+153,1/24/2017,Alexandro Wheatcroft,Hair Spa,Ralina Pollicatt,1130,54,4,STYLE,200
+154,1/24/2017,Amity Chisholm,Shaving,Jackie Leggate,1139,52,6,STYLE,100
+155,1/24/2017,Boycey Robart,Blowdry + style,Jackie Leggate,1077,52,2,STYLE,50
+156,1/24/2017,Quint Flear,Color full color,Jackie Leggate,1050,52,1,COLOR,200
+157,1/24/2017,Ramsay Thome,Shampoo,Dayle Pfeffle,1015,56,5,STYLE,100
+158,1/24/2017,Wheeler Human,Blowdry + style,Munroe Cumes,1058,55,2,STYLE,50
+159,1/25/2017,Konstantin Carillo,Shampoo,Cristine Bosman,1063,51,5,STYLE,100
+160,1/25/2017,Drusy Saurat,Hair Cut,Jackie Leggate,1118,52,3,STYLE,100
+161,1/25/2017,Calhoun Cutteridge,Blowdry + style,Ralina Pollicatt,1110,54,2,STYLE,50
+162,1/27/2017,Aleksandr Branford,Blowdry + style,Dayle Pfeffle,1022,56,2,STYLE,50
+163,1/28/2017,Drusy Saurat,Shaving,Cloris Dudeney,1118,57,6,STYLE,100
+164,1/28/2017,Domini Kintish,Shaving,June Pynn,1056,53,6,STYLE,100
+165,1/29/2017,Claudelle Jarritt,Hair Cut,June Pynn,1083,53,3,STYLE,100
+166,1/29/2017,Pierce Hryskiewicz,Hair Spa,Dayle Pfeffle,1067,56,4,STYLE,200
+167,1/30/2017,Laney Pontain,Shaving,Ralina Pollicatt,1124,54,6,STYLE,100
+168,1/30/2017,Leanor McAuslene,Hair Cut,Jackie Leggate,1080,52,3,STYLE,100
+169,1/31/2017,Starlene Rubinshtein,Color full color,Ralina Pollicatt,1040,54,1,COLOR,200
+170,1/31/2017,Francine Kunkler,Hair Cut,Ralina Pollicatt,1089,54,3,STYLE,100
+171,02-01-2017,Umberto Gotecliffe,Hair Spa,June Pynn,1147,53,4,STYLE,200
+172,02-01-2017,Heddie Chatainier,Shaving,June Pynn,1038,53,6,STYLE,100
+173,02-01-2017,Hamnet Sacase,Blowdry + style,Cloris Dudeney,1071,57,2,STYLE,50
+174,02-02-2017,Hamnet Sacase,Hair Spa,Dayle Pfeffle,1071,56,4,STYLE,200
+175,02-02-2017,Walton Hulse,Blowdry + style,Cloris Dudeney,1052,57,2,STYLE,50
+176,02-02-2017,Robinett Dawidsohn,Hair Cut,Jackie Leggate,1072,52,3,STYLE,100
+177,02-02-2017,Nathanael Grigoliis,Hair Spa,Dayle Pfeffle,1136,56,4,STYLE,200
+178,02-02-2017,Domini Kintish,Blowdry + style,Cristine Bosman,1056,51,2,STYLE,50
+179,02-02-2017,Gabriell Ballham,Shampoo,Munroe Cumes,1070,55,5,STYLE,100
+180,02-03-2017,Klement Arnaudot,Blowdry + style,Jackie Leggate,1043,52,2,STYLE,50
+181,02-03-2017,Arleta Corss,Shaving,Cloris Dudeney,1170,57,6,STYLE,100
+182,02-03-2017,Isiahi Fowgies,Color full color,Dayle Pfeffle,1125,56,1,COLOR,200
+183,02-04-2017,Sharline Pawlicki,Hair Cut,June Pynn,1059,53,3,STYLE,100
+184,02-04-2017,Pierce Hryskiewicz,Shampoo,Dayle Pfeffle,1067,56,5,STYLE,100
+185,02-05-2017,King Harsent,Blowdry + style,June Pynn,1157,53,2,STYLE,50
+186,02-05-2017,Hi Gregori,Blowdry + style,Jackie Leggate,1069,52,2,STYLE,50
+187,02-05-2017,Sylvia Yersin,Blowdry + style,Jackie Leggate,1168,52,2,STYLE,50
+188,02-05-2017,Aleksandr Branford,Shampoo,June Pynn,1022,53,5,STYLE,100
+189,02-06-2017,Toby Shiliton,Color full color,Munroe Cumes,1062,55,1,COLOR,200
+190,02-06-2017,Royce Bowater,Hair Spa,Cloris Dudeney,1017,57,4,STYLE,200
+191,02-06-2017,Conny Matveichev,Blowdry + style,Cristine Bosman,1016,51,2,STYLE,50
+192,02-07-2017,Francine Kunkler,Hair Spa,Munroe Cumes,1089,55,4,STYLE,200
+193,02-08-2017,Eb Levay,Shampoo,Cloris Dudeney,1092,57,5,STYLE,100
+194,02-08-2017,Charo Jermey,Color full color,Cloris Dudeney,1128,57,1,COLOR,200
+195,02-08-2017,Nonah Pavinese,Shampoo,Jackie Leggate,1104,52,5,STYLE,100
+196,02-08-2017,Robinett Dawidsohn,Shaving,June Pynn,1072,53,6,STYLE,100
+197,02-09-2017,Bibi Morritt,Blowdry + style,Cristine Bosman,1165,51,2,STYLE,50
+198,02-09-2017,Courtenay Shyre,Shaving,Ralina Pollicatt,1114,54,6,STYLE,100
+199,02-09-2017,Domini Kintish,Shampoo,Munroe Cumes,1056,55,5,STYLE,100
+200,02-09-2017,Torrie Dalgarnowch,Blowdry + style,Jackie Leggate,1116,52,2,STYLE,50
+201,02-09-2017,King Harsent,Blowdry + style,Cristine Bosman,1157,51,2,STYLE,50
+202,02-09-2017,Archibold Woltering,Color full color,June Pynn,1145,53,1,COLOR,200
+203,02-10-2017,Lonnard Hounsham,Color full color,Cristine Bosman,1078,51,1,COLOR,200
+204,02-10-2017,Lotty Danbye,Shampoo,June Pynn,1119,53,5,STYLE,100
+205,02-10-2017,Gerta Willmetts,Blowdry + style,Dayle Pfeffle,1158,56,2,STYLE,50
+206,02-10-2017,Bevon De Carolis,Shaving,Jackie Leggate,1144,52,6,STYLE,100
+207,02-11-2017,Gabie Smalls,Color full color,June Pynn,1086,53,1,COLOR,200
+208,02-11-2017,Ilysa Hansen,Hair Spa,Cloris Dudeney,1097,57,4,STYLE,200
+209,02-11-2017,Nani Gravey,Color full color,Munroe Cumes,1094,55,1,COLOR,200
+210,02-12-2017,Tommi Minett,Blowdry + style,Cristine Bosman,1087,51,2,STYLE,50
+211,02-12-2017,Nathanael Grigoliis,Shaving,Jackie Leggate,1136,52,6,STYLE,100
+212,02-12-2017,Boycey Robart,Blowdry + style,Dayle Pfeffle,1077,56,2,STYLE,50
+213,02-12-2017,Torrie Dalgarnowch,Color full color,Ralina Pollicatt,1116,54,1,COLOR,200
+214,2/13/2017,Natala Hammatt,Hair Spa,Cristine Bosman,1090,51,4,STYLE,200
+215,2/13/2017,Web Addionisio,Hair Cut,Ralina Pollicatt,1027,54,3,STYLE,100
+216,2/13/2017,Mab Limb,Shaving,June Pynn,1113,53,6,STYLE,100
+217,2/13/2017,Bobinette Boothe,Shampoo,Cloris Dudeney,1088,57,5,STYLE,100
+218,2/13/2017,Lurlene Cristofvao,Hair Cut,Cristine Bosman,1005,51,3,STYLE,100
+219,2/13/2017,Royce Bowater,Shampoo,Jackie Leggate,1017,52,5,STYLE,100
+220,2/14/2017,Trace Larenson,Hair Spa,Cristine Bosman,1026,51,4,STYLE,200
+221,2/14/2017,Rollins Cosely,Blowdry + style,Dayle Pfeffle,1129,56,2,STYLE,50
+222,2/15/2017,Drusy Saurat,Shampoo,Cristine Bosman,1118,51,5,STYLE,100
+223,2/15/2017,Enrichetta Sircomb,Blowdry + style,Jackie Leggate,1105,52,2,STYLE,50
+224,2/16/2017,Andras Sterre,Hair Spa,Ralina Pollicatt,1049,54,4,STYLE,200
+225,2/16/2017,Carol-jean Blacker,Hair Spa,Munroe Cumes,1057,55,4,STYLE,200
+226,2/16/2017,Laney Pontain,Shaving,Munroe Cumes,1124,55,6,STYLE,100
+227,2/16/2017,Gregor Tolley,Shampoo,Jackie Leggate,1039,52,5,STYLE,100
+228,2/17/2017,Lindsay Worsell,Shaving,Jackie Leggate,1133,52,6,STYLE,100
+229,2/17/2017,Ezra Dudman,Shampoo,Cristine Bosman,1103,51,5,STYLE,100
+230,2/17/2017,Hi Gregori,Shaving,Munroe Cumes,1069,55,6,STYLE,100
+231,2/18/2017,Gilburt Marchment,Color full color,Ralina Pollicatt,1091,54,1,COLOR,200
+232,2/18/2017,Carce Francklin,Color full color,Cloris Dudeney,1036,57,1,COLOR,200
+233,2/18/2017,Hephzibah Orteu,Hair Cut,Munroe Cumes,1035,55,3,STYLE,100
+234,2/19/2017,Dav Uccelli,Hair Cut,Cristine Bosman,1149,51,3,STYLE,100
+235,2/20/2017,Francine Kunkler,Hair Spa,Dayle Pfeffle,1089,56,4,STYLE,200
+236,2/20/2017,Gabbi Bagshaw,Blowdry + style,Munroe Cumes,1106,55,2,STYLE,50
+237,2/22/2017,Elroy Evered,Color full color,June Pynn,1150,53,1,COLOR,200
+238,2/22/2017,Rubie Kremer,Hair Spa,Jackie Leggate,1160,52,4,STYLE,200
+239,2/22/2017,Archibold Woltering,Blowdry + style,Cristine Bosman,1145,51,2,STYLE,50
+240,2/23/2017,Hinda Duddell,Blowdry + style,June Pynn,1115,53,2,STYLE,50
+241,2/24/2017,Stanley Wheelband,Color full color,Munroe Cumes,1120,55,1,COLOR,200
+242,2/25/2017,Audrie Quickfall,Hair Cut,June Pynn,1169,53,3,STYLE,100
+243,2/25/2017,Patin Crowd,Blowdry + style,Cristine Bosman,1100,51,2,STYLE,50
+244,2/25/2017,Holden Ventum,Shampoo,June Pynn,1112,53,5,STYLE,100
+245,2/25/2017,Nathanael Grigoliis,Shaving,Cristine Bosman,1136,51,6,STYLE,100
+246,2/25/2017,Heddie Chatainier,Hair Spa,Jackie Leggate,1038,52,4,STYLE,200
+247,2/25/2017,Sigvard Sheahan,Blowdry + style,Cristine Bosman,1126,51,2,STYLE,50
+248,2/25/2017,Pavia Maynard,Shampoo,Cloris Dudeney,1166,57,5,STYLE,100
+249,2/25/2017,Amabel Yanez,Shaving,June Pynn,1084,53,6,STYLE,100
+250,2/26/2017,Lotty Danbye,Color full color,Jackie Leggate,1119,52,1,COLOR,200
+251,2/26/2017,Oby Downey,Blowdry + style,Cristine Bosman,1107,51,2,STYLE,50
+252,2/26/2017,Wheeler Human,Shampoo,Dayle Pfeffle,1058,56,5,STYLE,100
+253,2/27/2017,Gabie Smalls,Hair Cut,Munroe Cumes,1086,55,3,STYLE,100
+254,2/28/2017,Stanley Wheelband,Color full color,Cloris Dudeney,1120,57,1,COLOR,200
+255,03-01-2017,Don Giorio,Shaving,Jackie Leggate,1167,52,6,STYLE,100
+256,03-02-2017,Holden Ventum,Hair Spa,June Pynn,1112,53,4,STYLE,200
+257,03-02-2017,Amity Chisholm,Shampoo,Jackie Leggate,1139,52,5,STYLE,100
+258,03-02-2017,Mari Clifford,Shampoo,Cloris Dudeney,1101,57,5,STYLE,100
+259,03-04-2017,Egon Waistell,Shaving,June Pynn,1121,53,6,STYLE,100
+260,03-04-2017,Carce Francklin,Shampoo,June Pynn,1036,53,5,STYLE,100
+261,03-04-2017,Mab Limb,Shampoo,Dayle Pfeffle,1113,56,5,STYLE,100
+262,03-04-2017,Ken Simonot,Shampoo,Cristine Bosman,1075,51,5,STYLE,100
+263,03-05-2017,Ara Maykin,Shampoo,Munroe Cumes,1161,55,5,STYLE,100
+264,03-05-2017,Suki Ebbers,Shampoo,Cloris Dudeney,1021,57,5,STYLE,100
+265,03-05-2017,Boycey Robart,Hair Spa,Jackie Leggate,1077,52,4,STYLE,200
+266,03-06-2017,Toby MacDwyer,Color full color,Cristine Bosman,1122,51,1,COLOR,200
+267,03-06-2017,Tommi Minett,Hair Spa,Cloris Dudeney,1087,57,4,STYLE,200
+268,03-06-2017,Sayer McClay,Blowdry + style,Ralina Pollicatt,1019,54,2,STYLE,50
+269,03-06-2017,Sindee Chevins,Hair Spa,Dayle Pfeffle,1127,56,4,STYLE,200
+270,03-06-2017,Bibi Morritt,Shampoo,Cristine Bosman,1165,51,5,STYLE,100
+271,03-07-2017,Web Addionisio,Shampoo,Jackie Leggate,1027,52,5,STYLE,100
+272,03-07-2017,Natala Hammatt,Shampoo,Munroe Cumes,1090,55,5,STYLE,100
+273,03-09-2017,Isiahi Fowgies,Blowdry + style,Cloris Dudeney,1125,57,2,STYLE,50
+274,03-09-2017,Ilysa Hansen,Blowdry + style,Ralina Pollicatt,1097,54,2,STYLE,50
+275,03-10-2017,Benjy Bewley,Blowdry + style,Jackie Leggate,1068,52,2,STYLE,50
+276,03-10-2017,Carol-jean Blacker,Hair Cut,Munroe Cumes,1057,55,3,STYLE,100
+277,03-10-2017,Nani Gravey,Hair Spa,Ralina Pollicatt,1094,54,4,STYLE,200
+278,03-10-2017,Ara Maykin,Shampoo,Ralina Pollicatt,1161,54,5,STYLE,100
+279,03-10-2017,Haleigh Mainland,Hair Spa,Cristine Bosman,1151,51,4,STYLE,200
+280,03-11-2017,Rubie Kremer,Shaving,Ralina Pollicatt,1160,54,6,STYLE,100
+281,03-11-2017,Eb Levay,Hair Cut,Cloris Dudeney,1092,57,3,STYLE,100
+282,03-11-2017,Ewen McCaskell,Color full color,Dayle Pfeffle,1018,56,1,COLOR,200
+283,03-11-2017,Dale Jonk,Color full color,June Pynn,1079,53,1,COLOR,200
+284,03-12-2017,Gusta Guichard,Color full color,Cristine Bosman,1109,51,1,COLOR,200
+285,03-12-2017,Stacie Klaiser,Hair Cut,Dayle Pfeffle,1164,56,3,STYLE,100
+286,03-12-2017,Sylvia Yersin,Shaving,Jackie Leggate,1168,52,6,STYLE,100
+287,03-12-2017,Royce Bowater,Color full color,Ralina Pollicatt,1017,54,1,COLOR,200
+288,3/13/2017,Audrie Quickfall,Hair Cut,Munroe Cumes,1169,55,3,STYLE,100
+289,3/13/2017,Lurlene Cristofvao,Shampoo,June Pynn,1005,53,5,STYLE,100
+290,3/13/2017,Gabbi Bagshaw,Blowdry + style,Ralina Pollicatt,1106,54,2,STYLE,50
+291,3/14/2017,Rosabelle Merrifield,Color full color,Cloris Dudeney,1034,57,1,COLOR,200
+292,3/16/2017,Anton Mulcock,Hair Spa,Jackie Leggate,1142,52,4,STYLE,200
+293,3/16/2017,Walton Hulse,Shaving,Cloris Dudeney,1052,57,6,STYLE,100
+294,3/17/2017,Rosabelle Merrifield,Shaving,Cloris Dudeney,1034,57,6,STYLE,100
+295,3/17/2017,Alisun Mityashin,Shampoo,June Pynn,1055,53,5,STYLE,100
+296,3/17/2017,Mari Clifford,Hair Cut,Cristine Bosman,1101,51,3,STYLE,100
+297,3/17/2017,Eb Levay,Hair Cut,Dayle Pfeffle,1092,56,3,STYLE,100
+298,3/18/2017,Gusta Guichard,Blowdry + style,Jackie Leggate,1109,52,2,STYLE,50
+299,3/18/2017,Torie Soff,Hair Spa,Ralina Pollicatt,1137,54,4,STYLE,200
+300,3/18/2017,Sadella Fligg,Blowdry + style,June Pynn,1155,53,2,STYLE,50
+301,3/19/2017,Ewen McCaskell,Color full color,Munroe Cumes,1018,55,1,COLOR,200
+302,3/19/2017,Claudelle Jarritt,Hair Spa,Cristine Bosman,1083,51,4,STYLE,200
+303,3/19/2017,Allx Ogborn,Shaving,Ralina Pollicatt,1099,54,6,STYLE,100
+304,3/19/2017,Nathanael Grigoliis,Hair Cut,Ralina Pollicatt,1136,54,3,STYLE,100
+305,3/20/2017,Domini Kintish,Shaving,Cristine Bosman,1056,51,6,STYLE,100
+306,3/20/2017,Vida Peddie,Color full color,Cloris Dudeney,1153,57,1,COLOR,200
+307,3/21/2017,Andriana Rieme,Shaving,Munroe Cumes,1006,55,6,STYLE,100
+308,3/21/2017,Milt Underwood,Blowdry + style,Munroe Cumes,1134,55,2,STYLE,50
+309,3/21/2017,Ezra Dudman,Shaving,Cloris Dudeney,1103,57,6,STYLE,100
+310,3/21/2017,Dori Killoran,Hair Cut,June Pynn,1014,53,3,STYLE,100
+311,3/22/2017,Aleece O'Fergus,Hair Cut,Jackie Leggate,1020,52,3,STYLE,100
+312,3/22/2017,Robinett Dawidsohn,Blowdry + style,Munroe Cumes,1072,55,2,STYLE,50
+313,3/22/2017,Tammi Covolini,Color full color,Cristine Bosman,1060,51,1,COLOR,200
+314,3/23/2017,Tommi Minett,Shampoo,Jackie Leggate,1087,52,5,STYLE,100
+315,3/23/2017,Hi Gregori,Blowdry + style,Jackie Leggate,1069,52,2,STYLE,50
+316,3/23/2017,Anton Mulcock,Hair Spa,June Pynn,1142,53,4,STYLE,200
+317,3/24/2017,Gene Gommes,Shampoo,Cloris Dudeney,1029,57,5,STYLE,100
+318,3/25/2017,Trace Larenson,Shampoo,June Pynn,1026,53,5,STYLE,100
+319,3/25/2017,Tobe Elstub,Color full color,Munroe Cumes,1007,55,1,COLOR,200
+320,3/26/2017,Carol-jean Blacker,Hair Cut,Ralina Pollicatt,1057,54,3,STYLE,100
+321,3/26/2017,Cos Maryan,Shampoo,Dayle Pfeffle,1031,56,5,STYLE,100
+322,3/27/2017,Andriana Rieme,Color full color,Cristine Bosman,1006,51,1,COLOR,200
+323,3/28/2017,Haleigh Mainland,Blowdry + style,June Pynn,1151,53,2,STYLE,50
+324,3/28/2017,Kahaleel Roseaman,Hair Cut,Cloris Dudeney,1061,57,3,STYLE,100
+325,3/28/2017,Benton Isacq,Blowdry + style,Jackie Leggate,1002,52,2,STYLE,50
+326,3/29/2017,Velvet Napoli,Hair Cut,Ralina Pollicatt,1051,54,3,STYLE,100
+327,3/29/2017,Dori Killoran,Hair Spa,Ralina Pollicatt,1014,54,4,STYLE,200
+328,3/29/2017,Kristofer Ezzle,Shampoo,Cloris Dudeney,1045,57,5,STYLE,100
+329,3/29/2017,Annadiane Tattersdill,Shampoo,Cristine Bosman,1093,51,5,STYLE,100
+330,3/30/2017,Nike Risborough,Shampoo,Ralina Pollicatt,1032,54,5,STYLE,100
+331,3/30/2017,Domini Kintish,Color full color,Dayle Pfeffle,1056,56,1,COLOR,200
+332,3/31/2017,Ramsay Thome,Hair Cut,Ralina Pollicatt,1015,54,3,STYLE,100
+333,3/31/2017,Francine Kunkler,Blowdry + style,Cloris Dudeney,1089,57,2,STYLE,50
+334,3/31/2017,Sayer McClay,Shampoo,June Pynn,1019,53,5,STYLE,100
+335,04-01-2017,Starlene Rubinshtein,Color full color,Jackie Leggate,1040,52,1,COLOR,200
+336,04-01-2017,Bucky Kealey,Shampoo,Dayle Pfeffle,1042,56,5,STYLE,100
+337,04-01-2017,Alejandra Lapworth,Shampoo,Munroe Cumes,1138,55,5,STYLE,100
+338,04-01-2017,Florella Van den Broek,Color full color,Dayle Pfeffle,1023,56,1,COLOR,200
+339,04-01-2017,Allx Ogborn,Shaving,Dayle Pfeffle,1099,56,6,STYLE,100
+340,04-01-2017,Leanor McAuslene,Shaving,Cloris Dudeney,1080,57,6,STYLE,100
+341,04-02-2017,Ara Maykin,Hair Cut,Dayle Pfeffle,1161,56,3,STYLE,100
+342,04-02-2017,Diann Leedes,Color full color,Jackie Leggate,1076,52,1,COLOR,200
+343,04-02-2017,Gregor Tolley,Hair Cut,June Pynn,1039,53,3,STYLE,100
+344,04-02-2017,Theda Wanderschek,Color full color,Cristine Bosman,1065,51,1,COLOR,200
+345,04-02-2017,Audrie Quickfall,Hair Spa,June Pynn,1169,53,4,STYLE,200
+346,04-03-2017,Ewen McCaskell,Shaving,Dayle Pfeffle,1018,56,6,STYLE,100
+347,04-03-2017,Carol-jean Blacker,Hair Cut,Cristine Bosman,1057,51,3,STYLE,100
+348,04-04-2017,Umberto Gotecliffe,Color full color,Dayle Pfeffle,1147,56,1,COLOR,200
+349,04-04-2017,Hamnet Sacase,Blowdry + style,June Pynn,1071,53,2,STYLE,50
+350,04-04-2017,Bevon De Carolis,Blowdry + style,Cloris Dudeney,1144,57,2,STYLE,50
+351,04-05-2017,Walliw Monelli,Blowdry + style,Dayle Pfeffle,1111,56,2,STYLE,50
+352,04-06-2017,Shayna Borrowman,Hair Spa,Munroe Cumes,1148,55,4,STYLE,200
+353,04-07-2017,Josi Masser,Shaving,Munroe Cumes,1048,55,6,STYLE,100
+354,04-07-2017,Adamo Prudence,Shaving,Munroe Cumes,1085,55,6,STYLE,100
+355,04-08-2017,Allx Ogborn,Hair Spa,Ralina Pollicatt,1099,54,4,STYLE,200
+356,04-08-2017,Nathanael Grigoliis,Hair Spa,Dayle Pfeffle,1136,56,4,STYLE,200
+357,04-09-2017,Benjy Bewley,Color full color,Jackie Leggate,1068,52,1,COLOR,200
+358,04-10-2017,Sylvia Yersin,Hair Cut,Jackie Leggate,1168,52,3,STYLE,100
+359,04-10-2017,Theda Wanderschek,Color full color,June Pynn,1065,53,1,COLOR,200
+360,04-10-2017,Holden Ventum,Color full color,June Pynn,1112,53,1,COLOR,200
+361,04-10-2017,Aurthur Bavridge,Blowdry + style,Jackie Leggate,1098,52,2,STYLE,50
+362,04-11-2017,Ted Boshere,Shampoo,Jackie Leggate,1064,52,5,STYLE,100
+363,04-11-2017,Gerta Willmetts,Shampoo,Munroe Cumes,1158,55,5,STYLE,100
+364,04-11-2017,Bevon Bohl,Shaving,Munroe Cumes,1096,55,6,STYLE,100
+365,04-11-2017,Rebecka Iddins,Color full color,Cristine Bosman,1074,51,1,COLOR,200
+366,04-11-2017,Alisun Mityashin,Blowdry + style,Cloris Dudeney,1055,57,2,STYLE,50
+367,04-12-2017,Hamnet Sacase,Hair Cut,Dayle Pfeffle,1071,56,3,STYLE,100
+368,04-12-2017,Dale Jonk,Blowdry + style,Cristine Bosman,1079,51,2,STYLE,50
+369,4/13/2017,Starlene Rubinshtein,Shampoo,Cristine Bosman,1040,51,5,STYLE,100
+370,4/13/2017,Rubie Kremer,Color full color,Dayle Pfeffle,1160,56,1,COLOR,200
+371,4/15/2017,Lucilia Morkham,Shaving,Cristine Bosman,1030,51,6,STYLE,100
+372,4/15/2017,Meyer Ellcock,Shaving,June Pynn,1162,53,6,STYLE,100
+373,4/15/2017,Sylvia Yersin,Shaving,Jackie Leggate,1168,52,6,STYLE,100
+374,4/15/2017,Drusy Saurat,Hair Spa,Cloris Dudeney,1118,57,4,STYLE,200
+375,4/15/2017,Meir Corbyn,Shampoo,Munroe Cumes,1047,55,5,STYLE,100
+376,4/15/2017,Sarette Graser,Color full color,Dayle Pfeffle,1131,56,1,COLOR,200
+377,4/16/2017,Benton Isacq,Blowdry + style,Cristine Bosman,1002,51,2,STYLE,50
+378,4/17/2017,King Harsent,Color full color,Jackie Leggate,1157,52,1,COLOR,200
+379,4/17/2017,Marty Creighton,Hair Cut,Jackie Leggate,1028,52,3,STYLE,100
+380,4/18/2017,Umberto Gotecliffe,Shampoo,Munroe Cumes,1147,55,5,STYLE,100
+381,4/18/2017,Tommi Minett,Hair Cut,June Pynn,1087,53,3,STYLE,100
+382,4/18/2017,Winn Dongles,Shaving,Jackie Leggate,1152,52,6,STYLE,100
+383,4/18/2017,Tobe Elstub,Hair Spa,Cloris Dudeney,1007,57,4,STYLE,200
+384,4/19/2017,Laney Pontain,Shaving,Munroe Cumes,1124,55,6,STYLE,100
+385,4/20/2017,Ted Boshere,Shaving,Munroe Cumes,1064,55,6,STYLE,100
+386,4/21/2017,Haleigh Mainland,Hair Cut,Ralina Pollicatt,1151,54,3,STYLE,100
+387,4/21/2017,Alejandra Lapworth,Hair Cut,Cloris Dudeney,1138,57,3,STYLE,100
+388,4/21/2017,Trueman Eiler,Shaving,Cristine Bosman,1024,51,6,STYLE,100
+389,4/22/2017,Winn Dongles,Hair Cut,Munroe Cumes,1152,55,3,STYLE,100
+390,4/23/2017,Tammi Covolini,Hair Spa,Dayle Pfeffle,1060,56,4,STYLE,200
+391,4/23/2017,Rebecka Iddins,Shaving,Ralina Pollicatt,1074,54,6,STYLE,100
+392,4/23/2017,Allx Ogborn,Shampoo,Cloris Dudeney,1099,57,5,STYLE,100
+393,4/24/2017,Hi Gregori,Hair Cut,Ralina Pollicatt,1069,54,3,STYLE,100
+394,4/25/2017,Angy Verdy,Shaving,Cloris Dudeney,1135,57,6,STYLE,100
+395,4/25/2017,Rex Sturdgess,Hair Spa,Dayle Pfeffle,1033,56,4,STYLE,200
+396,4/26/2017,Sarette Graser,Hair Cut,Dayle Pfeffle,1131,56,3,STYLE,100
+397,4/26/2017,Byrle Rushman,Color full color,Cloris Dudeney,1108,57,1,COLOR,200
+398,4/26/2017,Josi Masser,Hair Spa,Cristine Bosman,1048,51,4,STYLE,200
+399,4/26/2017,Gregor Tolley,Shampoo,Cloris Dudeney,1039,57,5,STYLE,100
+400,4/26/2017,Florella Van den Broek,Color full color,Ralina Pollicatt,1023,54,1,COLOR,200
+401,4/27/2017,Lotty Danbye,Color full color,Ralina Pollicatt,1119,54,1,COLOR,200
+402,4/27/2017,Benton Isacq,Hair Cut,June Pynn,1002,53,3,STYLE,100
+403,4/27/2017,Rex Sturdgess,Shaving,Jackie Leggate,1033,52,6,STYLE,100
+404,4/27/2017,Charo Jermey,Blowdry + style,June Pynn,1128,53,2,STYLE,50
+405,4/28/2017,Laney Pontain,Shampoo,Ralina Pollicatt,1124,54,5,STYLE,100
+406,4/28/2017,Haleigh Mainland,Shampoo,Cristine Bosman,1151,51,5,STYLE,100
+407,4/29/2017,Angy Verdy,Shaving,Dayle Pfeffle,1135,56,6,STYLE,100
+408,4/29/2017,Alisun Mityashin,Hair Spa,Cloris Dudeney,1055,57,4,STYLE,200
+409,4/30/2017,Athena McClean,Color full color,Jackie Leggate,1012,52,1,COLOR,200
+410,4/30/2017,Bevon Bohl,Shaving,June Pynn,1096,53,6,STYLE,100
+411,05-01-2017,Lari Swayland,Shaving,Munroe Cumes,1081,55,6,STYLE,100
+412,05-01-2017,Oby Downey,Shaving,June Pynn,1107,53,6,STYLE,100
+413,05-01-2017,Trace Larenson,Blowdry + style,Cristine Bosman,1026,51,2,STYLE,50
+414,05-01-2017,Jenilee Chaves,Hair Spa,Dayle Pfeffle,1010,56,4,STYLE,200
+415,05-02-2017,Bucky Kealey,Shaving,Ralina Pollicatt,1042,54,6,STYLE,100
+416,05-02-2017,Bucky Kealey,Hair Spa,June Pynn,1042,53,4,STYLE,200
+417,05-03-2017,Allx Ogborn,Shampoo,Ralina Pollicatt,1099,54,5,STYLE,100
+418,05-03-2017,Bucky Kealey,Color full color,Cloris Dudeney,1042,57,1,COLOR,200
+419,05-03-2017,Angy Verdy,Blowdry + style,Munroe Cumes,1135,55,2,STYLE,50
+420,05-04-2017,Allan MacLeod,Shampoo,Dayle Pfeffle,1011,56,5,STYLE,100
+421,05-04-2017,Kahaleel Roseaman,Blowdry + style,Dayle Pfeffle,1061,56,2,STYLE,50
+422,05-05-2017,Ken Simonot,Blowdry + style,Dayle Pfeffle,1075,56,2,STYLE,50
+423,05-05-2017,Rex Sturdgess,Hair Cut,June Pynn,1033,53,3,STYLE,100
+424,05-05-2017,Nathanael Grigoliis,Color full color,Ralina Pollicatt,1136,54,1,COLOR,200
+425,05-07-2017,Tommi Minett,Shampoo,June Pynn,1087,53,5,STYLE,100
+426,05-07-2017,Klement Arnaudot,Shampoo,Cristine Bosman,1043,51,5,STYLE,100
+427,05-07-2017,Leanor McAuslene,Shampoo,Munroe Cumes,1080,55,5,STYLE,100
+428,05-07-2017,Josi Masser,Hair Cut,Cloris Dudeney,1048,57,3,STYLE,100
+429,05-07-2017,Tammi Covolini,Blowdry + style,Jackie Leggate,1060,52,2,STYLE,50
+430,05-08-2017,Rex Sturdgess,Shampoo,Dayle Pfeffle,1033,56,5,STYLE,100
+431,05-08-2017,Florella Van den Broek,Shaving,Dayle Pfeffle,1023,56,6,STYLE,100
+432,05-08-2017,Lura Stellino,Shaving,Ralina Pollicatt,1025,54,6,STYLE,100
+433,05-09-2017,Aleksandr Branford,Shampoo,Dayle Pfeffle,1022,56,5,STYLE,100
+434,05-09-2017,Carce Francklin,Hair Cut,Cristine Bosman,1036,51,3,STYLE,100
+435,05-09-2017,Gusta Guichard,Hair Cut,Jackie Leggate,1109,52,3,STYLE,100
+436,05-09-2017,Indira Vallentin,Blowdry + style,Jackie Leggate,1073,52,2,STYLE,50
+437,05-10-2017,Lucilia Morkham,Hair Spa,Dayle Pfeffle,1030,56,4,STYLE,200
+438,05-10-2017,Francine Kunkler,Hair Cut,Cristine Bosman,1089,51,3,STYLE,100
+439,05-10-2017,Maddalena Mitchell,Hair Spa,Jackie Leggate,1037,52,4,STYLE,200
+440,05-10-2017,Natala Hammatt,Shampoo,Munroe Cumes,1090,55,5,STYLE,100
+441,05-10-2017,Boycey Robart,Shaving,Jackie Leggate,1077,52,6,STYLE,100
+442,05-11-2017,Klement Arnaudot,Shampoo,Jackie Leggate,1043,52,5,STYLE,100
+443,05-11-2017,Rollins Cosely,Shampoo,June Pynn,1129,53,5,STYLE,100
+444,05-11-2017,Gregor Tolley,Shampoo,June Pynn,1039,53,5,STYLE,100
+445,05-12-2017,Vida Peddie,Blowdry + style,Cristine Bosman,1153,51,2,STYLE,50
+446,5/13/2017,Gabbi Bagshaw,Blowdry + style,Munroe Cumes,1106,55,2,STYLE,50
+447,5/14/2017,Hephzibah Orteu,Hair Cut,Jackie Leggate,1035,52,3,STYLE,100
+448,5/14/2017,Dale Jonk,Hair Spa,Cristine Bosman,1079,51,4,STYLE,200
+449,5/14/2017,Carol-jean Blacker,Color full color,Cristine Bosman,1057,51,1,COLOR,200
+450,5/15/2017,Eb Levay,Shaving,Ralina Pollicatt,1092,54,6,STYLE,100
+451,5/15/2017,Sabine Gioan,Blowdry + style,Cristine Bosman,1154,51,2,STYLE,50
+452,5/16/2017,Web Addionisio,Shampoo,June Pynn,1027,53,5,STYLE,100
+453,5/16/2017,Gerta Willmetts,Shaving,Cristine Bosman,1158,51,6,STYLE,100
+454,5/16/2017,Domini Kintish,Blowdry + style,Munroe Cumes,1056,55,2,STYLE,50
+455,5/16/2017,Hi Gregori,Blowdry + style,Jackie Leggate,1069,52,2,STYLE,50
+456,5/16/2017,Paddy Pandie,Color full color,June Pynn,1044,53,1,COLOR,200
+457,5/17/2017,Sylvia Yersin,Hair Spa,Ralina Pollicatt,1168,54,4,STYLE,200
+458,5/17/2017,Bobinette Boothe,Hair Cut,Cloris Dudeney,1088,57,3,STYLE,100
+459,5/17/2017,Josefa Gwinnell,Shaving,Cristine Bosman,1102,51,6,STYLE,100
+460,5/18/2017,Boycey Robart,Hair Cut,Ralina Pollicatt,1077,54,3,STYLE,100
+461,5/18/2017,Amity Chisholm,Hair Cut,June Pynn,1139,53,3,STYLE,100
+462,5/18/2017,Ewen McCaskell,Hair Cut,Jackie Leggate,1018,52,3,STYLE,100
+463,5/18/2017,Dav Uccelli,Shaving,Dayle Pfeffle,1149,56,6,STYLE,100
+464,5/18/2017,Mitchell Dockwra,Hair Cut,Jackie Leggate,1141,52,3,STYLE,100
+465,5/20/2017,Gabbi Bagshaw,Shaving,June Pynn,1106,53,6,STYLE,100
+466,5/20/2017,Toby MacDwyer,Blowdry + style,Ralina Pollicatt,1122,54,2,STYLE,50
+467,5/21/2017,Cos Maryan,Hair Cut,Munroe Cumes,1031,55,3,STYLE,100
+468,5/21/2017,Sabine Gioan,Hair Cut,Cloris Dudeney,1154,57,3,STYLE,100
+469,5/21/2017,Egon Waistell,Blowdry + style,June Pynn,1121,53,2,STYLE,50
+470,5/22/2017,Marla Ainley,Shampoo,Dayle Pfeffle,1146,56,5,STYLE,100
+471,5/22/2017,Walliw Monelli,Hair Cut,Dayle Pfeffle,1111,56,3,STYLE,100
+472,5/22/2017,Allan MacLeod,Shaving,Munroe Cumes,1011,55,6,STYLE,100
+473,5/22/2017,Marla Ainley,Hair Cut,Cloris Dudeney,1146,57,3,STYLE,100
+474,5/22/2017,Ebony Izkovicz,Color full color,June Pynn,1008,53,1,COLOR,200
+475,5/24/2017,Benjy Bewley,Shaving,Ralina Pollicatt,1068,54,6,STYLE,100
+476,5/24/2017,Quint Flear,Shaving,Jackie Leggate,1050,52,6,STYLE,100
+477,5/25/2017,Indira Vallentin,Blowdry + style,Dayle Pfeffle,1073,56,2,STYLE,50
+478,5/25/2017,King Harsent,Shaving,June Pynn,1157,53,6,STYLE,100
+479,5/25/2017,Mab Limb,Shaving,Jackie Leggate,1113,52,6,STYLE,100
+480,5/25/2017,Bibi Morritt,Shaving,Ralina Pollicatt,1165,54,6,STYLE,100
+481,5/26/2017,Josi Masser,Hair Spa,Cloris Dudeney,1048,57,4,STYLE,200
+482,5/26/2017,King Harsent,Hair Cut,Cloris Dudeney,1157,57,3,STYLE,100
+483,5/26/2017,Sharline Pawlicki,Shampoo,Ralina Pollicatt,1059,54,5,STYLE,100
+484,5/26/2017,Francine Kunkler,Color full color,June Pynn,1089,53,1,COLOR,200
+485,5/26/2017,Benjy Bewley,Hair Spa,Munroe Cumes,1068,55,4,STYLE,200
+486,5/26/2017,Jenilee Chaves,Hair Spa,June Pynn,1010,53,4,STYLE,200
+487,5/27/2017,Sayer McClay,Shampoo,Dayle Pfeffle,1019,56,5,STYLE,100
+488,5/27/2017,Allx Ogborn,Color full color,Dayle Pfeffle,1099,56,1,COLOR,200
+489,5/28/2017,Ara Maykin,Shampoo,Ralina Pollicatt,1161,54,5,STYLE,100
+490,5/28/2017,Laney Pontain,Shampoo,Cloris Dudeney,1124,57,5,STYLE,100
+491,5/29/2017,Gene Gommes,Color full color,Cristine Bosman,1029,51,1,COLOR,200
+492,5/29/2017,Sabine Gioan,Hair Spa,Cloris Dudeney,1154,57,4,STYLE,200
+493,5/30/2017,Ewen McCaskell,Blowdry + style,June Pynn,1018,53,2,STYLE,50
+494,5/30/2017,Dav Uccelli,Hair Spa,Cristine Bosman,1149,51,4,STYLE,200
+495,5/30/2017,Tobe Elstub,Hair Cut,Jackie Leggate,1007,52,3,STYLE,100
+496,5/31/2017,Kahaleel Roseaman,Color full color,Cristine Bosman,1061,51,1,COLOR,200
+497,06-01-2017,Stacie Klaiser,Blowdry + style,Cristine Bosman,1164,51,2,STYLE,50
+498,06-01-2017,Holden Ventum,Shampoo,Jackie Leggate,1112,52,5,STYLE,100
+499,06-02-2017,Winn Dongles,Shaving,June Pynn,1152,53,6,STYLE,100
+500,06-02-2017,Starlene Rubinshtein,Blowdry + style,Dayle Pfeffle,1040,56,2,STYLE,50
+501,06-03-2017,Annadiane Tattersdill,Blowdry + style,Cristine Bosman,1093,51,2,STYLE,50
+502,06-03-2017,Ulrica Petti,Hair Cut,Cloris Dudeney,1123,57,3,STYLE,100
+503,06-04-2017,Jenilee Chaves,Color full color,Jackie Leggate,1010,52,1,COLOR,200
+504,06-04-2017,Stanley Wheelband,Shampoo,Ralina Pollicatt,1120,54,5,STYLE,100
+505,06-04-2017,Ara Maykin,Blowdry + style,Ralina Pollicatt,1161,54,2,STYLE,50
+506,06-05-2017,Zenia McKie,Hair Spa,Ralina Pollicatt,1095,54,4,STYLE,200
+507,06-05-2017,Lari Swayland,Hair Cut,Ralina Pollicatt,1081,54,3,STYLE,100
+508,06-05-2017,Sindee Chevins,Shampoo,Dayle Pfeffle,1127,56,5,STYLE,100
+509,06-05-2017,Meyer Ellcock,Hair Cut,Cristine Bosman,1162,51,3,STYLE,100
+510,06-05-2017,Suki Ebbers,Color full color,June Pynn,1021,53,1,COLOR,200
+511,06-05-2017,Conny Matveichev,Blowdry + style,Cloris Dudeney,1016,57,2,STYLE,50
+512,06-06-2017,Aleece O'Fergus,Shaving,Dayle Pfeffle,1020,56,6,STYLE,100
+513,06-06-2017,Andriana Rieme,Blowdry + style,Ralina Pollicatt,1006,54,2,STYLE,50
+514,06-07-2017,Shara Garey,Shaving,Cristine Bosman,1004,51,6,STYLE,100
+515,06-07-2017,Sabine Gioan,Shaving,Dayle Pfeffle,1154,56,6,STYLE,100
+516,06-07-2017,Calhoun Cutteridge,Color full color,Dayle Pfeffle,1110,56,1,COLOR,200
+517,06-07-2017,Kahaleel Roseaman,Color full color,Cloris Dudeney,1061,57,1,COLOR,200
+518,06-09-2017,Heddie Chatainier,Shampoo,June Pynn,1038,53,5,STYLE,100
+519,06-09-2017,Ilysa Hansen,Hair Spa,Dayle Pfeffle,1097,56,4,STYLE,200
+520,06-09-2017,Mari Clifford,Blowdry + style,Cristine Bosman,1101,51,2,STYLE,50
+521,06-09-2017,Mab Limb,Shaving,Dayle Pfeffle,1113,56,6,STYLE,100
+522,06-09-2017,Shayna Borrowman,Shampoo,Jackie Leggate,1148,52,5,STYLE,100
+523,06-09-2017,Sharline Pawlicki,Hair Spa,June Pynn,1059,53,4,STYLE,200
+524,06-10-2017,Marty Creighton,Hair Spa,Dayle Pfeffle,1028,56,4,STYLE,200
+525,06-10-2017,Lurlene Cristofvao,Shampoo,Cristine Bosman,1005,51,5,STYLE,100
+526,06-10-2017,Quint Flear,Shampoo,Cloris Dudeney,1050,57,5,STYLE,100
+527,06-10-2017,Byrle Rushman,Hair Cut,Munroe Cumes,1108,55,3,STYLE,100
+528,06-11-2017,Eb Levay,Color full color,June Pynn,1092,53,1,COLOR,200
+529,06-12-2017,Trace Larenson,Hair Cut,Dayle Pfeffle,1026,56,3,STYLE,100
+530,06-12-2017,Rossie Kumar,Shampoo,Jackie Leggate,1140,52,5,STYLE,100
+531,6/13/2017,Carce Francklin,Hair Spa,Cristine Bosman,1036,51,4,STYLE,200
+532,6/14/2017,Eward Jilkes,Blowdry + style,Cristine Bosman,1013,51,2,STYLE,50
+533,6/14/2017,Paddy Pandie,Blowdry + style,Dayle Pfeffle,1044,56,2,STYLE,50
+534,6/14/2017,Kienan O'Dwyer,Hair Spa,Ralina Pollicatt,1132,54,4,STYLE,200
+535,6/15/2017,Alexandro Wheatcroft,Color full color,Cristine Bosman,1130,51,1,COLOR,200
+536,6/15/2017,Aurthur Bavridge,Hair Spa,Dayle Pfeffle,1098,56,4,STYLE,200
+537,6/16/2017,Shara Garey,Color full color,Cloris Dudeney,1004,57,1,COLOR,200
+538,6/16/2017,Chiquita Benet,Shaving,Jackie Leggate,1117,52,6,STYLE,100
+539,6/16/2017,Hi Gregori,Shampoo,Ralina Pollicatt,1069,54,5,STYLE,100
+540,6/16/2017,Rebecka Iddins,Shaving,Munroe Cumes,1074,55,6,STYLE,100
+541,6/17/2017,Toby MacDwyer,Hair Spa,Cloris Dudeney,1122,57,4,STYLE,200
+542,6/17/2017,Josefa Gwinnell,Blowdry + style,Cloris Dudeney,1102,57,2,STYLE,50
+543,6/17/2017,Daffy Fleischmann,Hair Spa,Jackie Leggate,1066,52,4,STYLE,200
+544,6/18/2017,Perry McClurg,Shampoo,Cristine Bosman,1163,51,5,STYLE,100
+545,6/18/2017,Web Addionisio,Shaving,Jackie Leggate,1027,52,6,STYLE,100
+546,6/19/2017,Torie Soff,Blowdry + style,Dayle Pfeffle,1137,56,2,STYLE,50
+547,6/21/2017,Shara Garey,Hair Spa,Cristine Bosman,1004,51,4,STYLE,200
+548,6/21/2017,Lari Swayland,Color full color,Cristine Bosman,1081,51,1,COLOR,200
+549,6/21/2017,Trace Larenson,Shaving,Dayle Pfeffle,1026,56,6,STYLE,100
+550,6/22/2017,Daffy Fleischmann,Shaving,Ralina Pollicatt,1066,54,6,STYLE,100
+551,6/22/2017,Trueman Eiler,Hair Spa,Dayle Pfeffle,1024,56,4,STYLE,200
+552,6/22/2017,Bobinette Boothe,Shampoo,Munroe Cumes,1088,55,5,STYLE,100
+553,6/23/2017,Kahaleel Roseaman,Hair Cut,Dayle Pfeffle,1061,56,3,STYLE,100
+554,6/23/2017,Meir Corbyn,Shampoo,Cristine Bosman,1047,51,5,STYLE,100
+555,6/24/2017,Don Giorio,Shaving,June Pynn,1167,53,6,STYLE,100
+556,6/25/2017,Velvet Napoli,Hair Cut,Cristine Bosman,1051,51,3,STYLE,100
+557,6/25/2017,Isiahi Fowgies,Hair Cut,Ralina Pollicatt,1125,54,3,STYLE,100
+558,6/26/2017,Toby Shiliton,Shampoo,June Pynn,1062,53,5,STYLE,100
+559,6/26/2017,Conny Matveichev,Blowdry + style,Jackie Leggate,1016,52,2,STYLE,50
+560,6/27/2017,Enrichetta Sircomb,Blowdry + style,Ralina Pollicatt,1105,54,2,STYLE,50
+561,6/27/2017,Haleigh Mainland,Shaving,Ralina Pollicatt,1151,54,6,STYLE,100
+562,6/28/2017,Calhoun Cutteridge,Hair Spa,Dayle Pfeffle,1110,56,4,STYLE,200
+563,6/29/2017,Theda Wanderschek,Blowdry + style,Cristine Bosman,1065,51,2,STYLE,50
+564,6/29/2017,Carol-jean Blacker,Color full color,Cristine Bosman,1057,51,1,COLOR,200
+565,6/29/2017,Josefa Gwinnell,Blowdry + style,Cristine Bosman,1102,51,2,STYLE,50
+566,6/30/2017,Pierce Hryskiewicz,Shaving,June Pynn,1067,53,6,STYLE,100
+567,6/30/2017,Alexandro Wheatcroft,Hair Cut,Ralina Pollicatt,1130,54,3,STYLE,100
+568,6/30/2017,Courtenay Shyre,Hair Cut,Munroe Cumes,1114,55,3,STYLE,100
+569,07-01-2017,Trueman Eiler,Hair Cut,Ralina Pollicatt,1024,54,3,STYLE,100
+570,07-01-2017,Florella Van den Broek,Shampoo,Cloris Dudeney,1023,57,5,STYLE,100
+571,07-01-2017,Rubie Kremer,Hair Spa,June Pynn,1160,53,4,STYLE,200
+572,07-01-2017,Heddie Chatainier,Color full color,Jackie Leggate,1038,52,1,COLOR,200
+573,07-02-2017,Trace Larenson,Hair Spa,Munroe Cumes,1026,55,4,STYLE,200
+574,07-03-2017,Leanor McAuslene,Hair Spa,Ralina Pollicatt,1080,54,4,STYLE,200
+575,07-03-2017,Cos Maryan,Hair Cut,Dayle Pfeffle,1031,56,3,STYLE,100
+576,07-04-2017,Alejandra Lapworth,Color full color,Jackie Leggate,1138,52,1,COLOR,200
+577,07-04-2017,Mab Limb,Shaving,June Pynn,1113,53,6,STYLE,100
+578,07-04-2017,Indira Vallentin,Blowdry + style,Cloris Dudeney,1073,57,2,STYLE,50
+579,07-05-2017,Vida Peddie,Color full color,Cloris Dudeney,1153,57,1,COLOR,200
+580,07-05-2017,Starlene Rubinshtein,Hair Spa,Cloris Dudeney,1040,57,4,STYLE,200
+581,07-05-2017,Lurlene Cristofvao,Shampoo,Cloris Dudeney,1005,57,5,STYLE,100
+582,07-06-2017,Ilysa Hansen,Blowdry + style,June Pynn,1097,53,2,STYLE,50
+583,07-06-2017,Allan MacLeod,Hair Spa,Cristine Bosman,1011,51,4,STYLE,200
+584,07-07-2017,Suki Ebbers,Color full color,Munroe Cumes,1021,55,1,COLOR,200
+585,07-07-2017,Wheeler Human,Hair Spa,June Pynn,1058,53,4,STYLE,200
+586,07-07-2017,Starlene Rubinshtein,Blowdry + style,Jackie Leggate,1040,52,2,STYLE,50
+587,07-08-2017,Amabel Yanez,Blowdry + style,Dayle Pfeffle,1084,56,2,STYLE,50
+588,07-08-2017,Natala Hammatt,Shampoo,Cristine Bosman,1090,51,5,STYLE,100
+589,07-08-2017,Meyer Ellcock,Color full color,Cloris Dudeney,1162,57,1,COLOR,200
+590,07-08-2017,Lotty Danbye,Hair Spa,June Pynn,1119,53,4,STYLE,200
+591,07-08-2017,Ilysa Hansen,Shaving,Jackie Leggate,1097,52,6,STYLE,100
+592,07-08-2017,Drusy Saurat,Shampoo,Cloris Dudeney,1118,57,5,STYLE,100
+593,07-09-2017,Sadella Fligg,Hair Cut,Cloris Dudeney,1155,57,3,STYLE,100
+594,07-09-2017,Feliza Salt,Shaving,Ralina Pollicatt,1159,54,6,STYLE,100
+595,07-09-2017,Dav Uccelli,Hair Spa,Dayle Pfeffle,1149,56,4,STYLE,200
+596,07-09-2017,Nathanael Grigoliis,Hair Cut,June Pynn,1136,53,3,STYLE,100
+597,07-09-2017,Ted Boshere,Hair Spa,Munroe Cumes,1064,55,4,STYLE,200
+598,07-10-2017,Lotty Danbye,Hair Spa,Munroe Cumes,1119,55,4,STYLE,200
+599,07-10-2017,Gene Gommes,Color full color,Jackie Leggate,1029,52,1,COLOR,200
+600,07-10-2017,Jarid Crut,Hair Spa,Cristine Bosman,1054,51,4,STYLE,200
+601,07-10-2017,Klement Arnaudot,Color full color,Munroe Cumes,1043,55,1,COLOR,200
+602,07-10-2017,Nani Gravey,Hair Spa,Cloris Dudeney,1094,57,4,STYLE,200
+603,07-11-2017,Zenia McKie,Shaving,Munroe Cumes,1095,55,6,STYLE,100
+604,07-11-2017,Walton Hulse,Shaving,Cloris Dudeney,1052,57,6,STYLE,100
+605,07-11-2017,Stanley Wheelband,Blowdry + style,Munroe Cumes,1120,55,2,STYLE,50
+606,07-11-2017,Rubie Kremer,Shaving,Cristine Bosman,1160,51,6,STYLE,100
+607,07-11-2017,Andras Sterre,Hair Cut,Ralina Pollicatt,1049,54,3,STYLE,100
+608,07-12-2017,Alejandra Lapworth,Shaving,Munroe Cumes,1138,55,6,STYLE,100
+609,07-12-2017,Marne Simanek,Shaving,June Pynn,1053,53,6,STYLE,100
+610,07-12-2017,Aurthur Bavridge,Color full color,Cloris Dudeney,1098,57,1,COLOR,200
+611,07-12-2017,Audrie Quickfall,Hair Spa,Dayle Pfeffle,1169,56,4,STYLE,200
+612,7/13/2017,Konstantin Carillo,Color full color,Cristine Bosman,1063,51,1,COLOR,200
+613,7/13/2017,Calhoun Cutteridge,Color full color,Dayle Pfeffle,1110,56,1,COLOR,200
+614,7/13/2017,Josi Masser,Hair Spa,Dayle Pfeffle,1048,56,4,STYLE,200
+615,7/13/2017,Sharline Pawlicki,Shampoo,Cloris Dudeney,1059,57,5,STYLE,100
+616,7/13/2017,Gabriell Ballham,Blowdry + style,Dayle Pfeffle,1070,56,2,STYLE,50
+617,7/14/2017,Bibi Morritt,Shampoo,Jackie Leggate,1165,52,5,STYLE,100
+618,7/14/2017,Patin Crowd,Shaving,Dayle Pfeffle,1100,56,6,STYLE,100
+619,7/14/2017,Marne Simanek,Blowdry + style,Dayle Pfeffle,1053,56,2,STYLE,50
+620,7/14/2017,Enrichetta Sircomb,Shaving,Munroe Cumes,1105,55,6,STYLE,100
+621,7/15/2017,Sylvia Yersin,Hair Spa,June Pynn,1168,53,4,STYLE,200
+622,7/15/2017,Andras Sterre,Blowdry + style,June Pynn,1049,53,2,STYLE,50
+623,7/15/2017,Francine Kunkler,Color full color,June Pynn,1089,53,1,COLOR,200
+624,7/16/2017,Cos Maryan,Shaving,Ralina Pollicatt,1031,54,6,STYLE,100
+625,7/17/2017,Rex Sturdgess,Color full color,Munroe Cumes,1033,55,1,COLOR,200
+626,7/18/2017,Shara Garey,Shaving,Ralina Pollicatt,1004,54,6,STYLE,100
+627,7/18/2017,Susanetta Petzold,Blowdry + style,Dayle Pfeffle,1001,56,2,STYLE,50
+628,7/18/2017,Tammi Covolini,Shaving,Dayle Pfeffle,1060,56,6,STYLE,100
+629,7/18/2017,Feliza Salt,Shampoo,Jackie Leggate,1159,52,5,STYLE,100
+630,7/18/2017,Tommi Minett,Color full color,Ralina Pollicatt,1087,54,1,COLOR,200
+631,7/20/2017,Eb Levay,Color full color,Munroe Cumes,1092,55,1,COLOR,200
+632,7/20/2017,Josi Masser,Color full color,Dayle Pfeffle,1048,56,1,COLOR,200
+633,7/21/2017,Klement Arnaudot,Color full color,Cristine Bosman,1043,51,1,COLOR,200
+634,7/21/2017,Rubie Kremer,Color full color,Ralina Pollicatt,1160,54,1,COLOR,200
+635,7/21/2017,Rosabelle Merrifield,Shaving,Munroe Cumes,1034,55,6,STYLE,100
+636,7/22/2017,Perry McClurg,Shampoo,Cloris Dudeney,1163,57,5,STYLE,100
+637,7/22/2017,Gilburt Marchment,Hair Cut,Cloris Dudeney,1091,57,3,STYLE,100
+638,7/22/2017,Jarid Crut,Blowdry + style,Dayle Pfeffle,1054,56,2,STYLE,50
+639,7/23/2017,Toby MacDwyer,Color full color,Jackie Leggate,1122,52,1,COLOR,200
+640,7/23/2017,Courtenay Shyre,Hair Spa,June Pynn,1114,53,4,STYLE,200
+641,7/23/2017,Cornelle Sodo,Hair Cut,Jackie Leggate,1143,52,3,STYLE,100
+642,7/25/2017,Umberto Gotecliffe,Blowdry + style,Jackie Leggate,1147,52,2,STYLE,50
+643,7/25/2017,Rubie Kremer,Blowdry + style,Jackie Leggate,1160,52,2,STYLE,50
+644,7/26/2017,Sindee Chevins,Shaving,Dayle Pfeffle,1127,56,6,STYLE,100
+645,7/26/2017,Milt Underwood,Shampoo,Dayle Pfeffle,1134,56,5,STYLE,100
+646,7/26/2017,Isiahi Fowgies,Hair Cut,June Pynn,1125,53,3,STYLE,100
+647,7/27/2017,Heddie Chatainier,Shaving,Munroe Cumes,1038,55,6,STYLE,100
+648,7/27/2017,Aleksandr Branford,Blowdry + style,June Pynn,1022,53,2,STYLE,50
+649,7/27/2017,Lari Swayland,Shampoo,Cloris Dudeney,1081,57,5,STYLE,100
+650,7/28/2017,Tammi Covolini,Color full color,Ralina Pollicatt,1060,54,1,COLOR,200
+651,7/28/2017,Umberto Gotecliffe,Color full color,Dayle Pfeffle,1147,56,1,COLOR,200
+652,7/28/2017,Feliza Salt,Color full color,Cloris Dudeney,1159,57,1,COLOR,200
+653,7/28/2017,Lotty Danbye,Shaving,Munroe Cumes,1119,55,6,STYLE,100
+654,7/29/2017,Sadella Fligg,Blowdry + style,Jackie Leggate,1155,52,2,STYLE,50
+655,7/29/2017,Jarid Crut,Shampoo,Cristine Bosman,1054,51,5,STYLE,100
+656,7/29/2017,Calhoun Cutteridge,Shaving,Munroe Cumes,1110,55,6,STYLE,100
+657,7/29/2017,Annadiane Tattersdill,Hair Cut,Dayle Pfeffle,1093,56,3,STYLE,100
+658,7/29/2017,Klement Arnaudot,Hair Cut,Ralina Pollicatt,1043,54,3,STYLE,100
+659,7/30/2017,Dav Uccelli,Shampoo,Ralina Pollicatt,1149,54,5,STYLE,100
+660,7/31/2017,Laney Pontain,Shampoo,Cloris Dudeney,1124,57,5,STYLE,100
+661,7/31/2017,Tammi Covolini,Color full color,Jackie Leggate,1060,52,1,COLOR,200
+662,08-01-2017,Paddy Pandie,Shampoo,Cloris Dudeney,1044,57,5,STYLE,100
+663,08-01-2017,Indira Vallentin,Hair Spa,Cloris Dudeney,1073,57,4,STYLE,200
+664,08-02-2017,Web Addionisio,Hair Cut,Dayle Pfeffle,1027,56,3,STYLE,100
+665,08-02-2017,Audrie Quickfall,Blowdry + style,Munroe Cumes,1169,55,2,STYLE,50
+666,08-02-2017,Eward Jilkes,Shaving,Dayle Pfeffle,1013,56,6,STYLE,100
+667,08-02-2017,Don Giorio,Shaving,June Pynn,1167,53,6,STYLE,100
+668,08-02-2017,Sayer McClay,Shaving,June Pynn,1019,53,6,STYLE,100
+669,08-02-2017,Claudelle Jarritt,Color full color,June Pynn,1083,53,1,COLOR,200
+670,08-03-2017,Gilburt Marchment,Blowdry + style,Munroe Cumes,1091,55,2,STYLE,50
+671,08-03-2017,Ilysa Hansen,Shampoo,Munroe Cumes,1097,55,5,STYLE,100
+672,08-03-2017,Alejandra Lapworth,Shampoo,Dayle Pfeffle,1138,56,5,STYLE,100
+673,08-04-2017,Konstantin Carillo,Hair Cut,Ralina Pollicatt,1063,54,3,STYLE,100
+674,08-04-2017,Audrie Quickfall,Blowdry + style,Cloris Dudeney,1169,57,2,STYLE,50
+675,08-04-2017,Ulrica Petti,Shampoo,June Pynn,1123,53,5,STYLE,100
+676,08-05-2017,Amity Chisholm,Hair Cut,Cristine Bosman,1139,51,3,STYLE,100
+677,08-05-2017,Ebony Izkovicz,Blowdry + style,June Pynn,1008,53,2,STYLE,50
+678,08-05-2017,Rossie Kumar,Shampoo,Munroe Cumes,1140,55,5,STYLE,100
+679,08-06-2017,Suki Ebbers,Shampoo,Ralina Pollicatt,1021,54,5,STYLE,100
+680,08-07-2017,Allan MacLeod,Shampoo,Cloris Dudeney,1011,57,5,STYLE,100
+681,08-07-2017,Perry McClurg,Shampoo,June Pynn,1163,53,5,STYLE,100
+682,08-07-2017,Lucilia Morkham,Hair Cut,Cristine Bosman,1030,51,3,STYLE,100
+683,08-07-2017,Ara Maykin,Color full color,Dayle Pfeffle,1161,56,1,COLOR,200
+684,08-07-2017,Arleta Corss,Shampoo,Ralina Pollicatt,1170,54,5,STYLE,100
+685,08-07-2017,Mei Vidler,Blowdry + style,June Pynn,1156,53,2,STYLE,50
+686,08-07-2017,Lindsay Worsell,Hair Cut,Ralina Pollicatt,1133,54,3,STYLE,100
+687,08-08-2017,Perry McClurg,Shampoo,Cristine Bosman,1163,51,5,STYLE,100
+688,08-08-2017,Hinda Duddell,Shaving,Jackie Leggate,1115,52,6,STYLE,100
+689,08-08-2017,Robinett Dawidsohn,Shampoo,Ralina Pollicatt,1072,54,5,STYLE,100
+690,08-09-2017,Dale Jonk,Color full color,Jackie Leggate,1079,52,1,COLOR,200
+691,08-09-2017,Milt Underwood,Hair Cut,Munroe Cumes,1134,55,3,STYLE,100
+692,08-09-2017,Nathanael Grigoliis,Hair Spa,Dayle Pfeffle,1136,56,4,STYLE,200
+693,08-09-2017,Ken Simonot,Color full color,Ralina Pollicatt,1075,54,1,COLOR,200
+694,08-09-2017,Sigvard Sheahan,Shaving,Cristine Bosman,1126,51,6,STYLE,100
+695,08-10-2017,Sylvia Yersin,Color full color,June Pynn,1168,53,1,COLOR,200
+696,08-10-2017,Amabel Yanez,Shaving,Cloris Dudeney,1084,57,6,STYLE,100
+697,08-10-2017,Aleece O'Fergus,Shampoo,Munroe Cumes,1020,55,5,STYLE,100
+698,08-11-2017,Oby Downey,Shaving,Munroe Cumes,1107,55,6,STYLE,100
+699,08-11-2017,Suki Ebbers,Hair Cut,Ralina Pollicatt,1021,54,3,STYLE,100
+700,08-11-2017,Kahaleel Roseaman,Shaving,Cristine Bosman,1061,51,6,STYLE,100
+701,08-11-2017,Gene Gommes,Shaving,June Pynn,1029,53,6,STYLE,100
+702,08-11-2017,Kristofer Ezzle,Hair Cut,Munroe Cumes,1045,55,3,STYLE,100
+703,08-11-2017,Gaelan Siddle,Hair Cut,Ralina Pollicatt,1009,54,3,STYLE,100
+704,08-12-2017,Amabel Yanez,Hair Spa,Cristine Bosman,1084,51,4,STYLE,200
+705,08-12-2017,Athena McClean,Blowdry + style,Dayle Pfeffle,1012,56,2,STYLE,50
+706,08-12-2017,Lindsay Worsell,Blowdry + style,Jackie Leggate,1133,52,2,STYLE,50
+707,8/13/2017,Rossie Kumar,Hair Cut,Cristine Bosman,1140,51,3,STYLE,100
+708,8/13/2017,Amity Chisholm,Hair Cut,Cristine Bosman,1139,51,3,STYLE,100
+709,8/13/2017,Allx Ogborn,Hair Cut,June Pynn,1099,53,3,STYLE,100
+710,8/13/2017,Toby Shiliton,Blowdry + style,Ralina Pollicatt,1062,54,2,STYLE,50
+711,8/14/2017,Gabbi Bagshaw,Shaving,June Pynn,1106,53,6,STYLE,100
+712,8/14/2017,Marla Ainley,Hair Cut,June Pynn,1146,53,3,STYLE,100
+713,8/15/2017,Boycey Robart,Blowdry + style,Cloris Dudeney,1077,57,2,STYLE,50
+714,8/15/2017,Conny Matveichev,Hair Spa,June Pynn,1016,53,4,STYLE,200
+715,8/15/2017,King Harsent,Shaving,June Pynn,1157,53,6,STYLE,100
+716,8/15/2017,Boycey Robart,Blowdry + style,Cloris Dudeney,1077,57,2,STYLE,50
+717,8/16/2017,Carce Francklin,Shampoo,Cloris Dudeney,1036,57,5,STYLE,100
+718,8/16/2017,Enrichetta Sircomb,Hair Cut,Cloris Dudeney,1105,57,3,STYLE,100
+719,8/16/2017,Amabel Yanez,Shaving,Ralina Pollicatt,1084,54,6,STYLE,100
+720,8/16/2017,Stacie Klaiser,Hair Cut,Dayle Pfeffle,1164,56,3,STYLE,100
+721,8/17/2017,Aurthur Bavridge,Blowdry + style,Ralina Pollicatt,1098,54,2,STYLE,50
+722,8/17/2017,Francine Kunkler,Shaving,Cristine Bosman,1089,51,6,STYLE,100
+723,8/18/2017,Rex Sturdgess,Shaving,Ralina Pollicatt,1033,54,6,STYLE,100
+724,8/18/2017,Allan MacLeod,Shampoo,Cloris Dudeney,1011,57,5,STYLE,100
+725,8/18/2017,Chiquita Benet,Color full color,Jackie Leggate,1117,52,1,COLOR,200
+726,8/19/2017,Dori Killoran,Shampoo,Munroe Cumes,1014,55,5,STYLE,100
+727,8/19/2017,Ilysa Hansen,Hair Spa,Cloris Dudeney,1097,57,4,STYLE,200
+728,8/19/2017,Marne Simanek,Color full color,Munroe Cumes,1053,55,1,COLOR,200
+729,8/19/2017,Alexandro Wheatcroft,Blowdry + style,Munroe Cumes,1130,55,2,STYLE,50
+730,8/19/2017,Mab Limb,Shampoo,Jackie Leggate,1113,52,5,STYLE,100
+731,8/20/2017,Ebony Izkovicz,Hair Spa,Munroe Cumes,1008,55,4,STYLE,200
+732,8/20/2017,Ulrica Petti,Hair Spa,Jackie Leggate,1123,52,4,STYLE,200
+733,8/20/2017,Eb Levay,Shaving,Munroe Cumes,1092,55,6,STYLE,100
+734,8/21/2017,Hephzibah Orteu,Blowdry + style,Ralina Pollicatt,1035,54,2,STYLE,50
+735,8/21/2017,Amity Chisholm,Shaving,Munroe Cumes,1139,55,6,STYLE,100
+736,8/23/2017,Allan MacLeod,Hair Cut,Jackie Leggate,1011,52,3,STYLE,100
+737,8/23/2017,Isiahi Fowgies,Blowdry + style,Dayle Pfeffle,1125,56,2,STYLE,50
+738,8/23/2017,Sylvia Yersin,Hair Cut,June Pynn,1168,53,3,STYLE,100
+739,8/23/2017,Rosabelle Merrifield,Hair Cut,Cloris Dudeney,1034,57,3,STYLE,100
+740,8/23/2017,Audrie Quickfall,Shampoo,Cloris Dudeney,1169,57,5,STYLE,100
+741,8/23/2017,Audrie Quickfall,Hair Cut,Ralina Pollicatt,1169,54,3,STYLE,100
+742,8/24/2017,Benjy Bewley,Shaving,Ralina Pollicatt,1068,54,6,STYLE,100
+743,8/24/2017,Pierce Hryskiewicz,Shampoo,Munroe Cumes,1067,55,5,STYLE,100
+744,8/24/2017,Diann Leedes,Blowdry + style,Cristine Bosman,1076,51,2,STYLE,50
+745,8/24/2017,Walton Hulse,Shampoo,Munroe Cumes,1052,55,5,STYLE,100
+746,8/24/2017,Suki Ebbers,Hair Spa,Jackie Leggate,1021,52,4,STYLE,200
+747,8/25/2017,Laney Pontain,Hair Cut,Cloris Dudeney,1124,57,3,STYLE,100
+748,8/25/2017,Ilysa Hansen,Color full color,Munroe Cumes,1097,55,1,COLOR,200
+749,8/25/2017,Lotty Danbye,Hair Spa,Cloris Dudeney,1119,57,4,STYLE,200
+750,8/25/2017,Athena McClean,Hair Cut,Ralina Pollicatt,1012,54,3,STYLE,100
+751,8/25/2017,Diann Leedes,Shaving,Ralina Pollicatt,1076,54,6,STYLE,100
+752,8/25/2017,Ewen McCaskell,Blowdry + style,Jackie Leggate,1018,52,2,STYLE,50
+753,8/26/2017,Jarid Crut,Shaving,Cloris Dudeney,1054,57,6,STYLE,100
+754,8/26/2017,Marty Creighton,Hair Spa,Cloris Dudeney,1028,57,4,STYLE,200
+755,8/26/2017,Stanley Wheelband,Color full color,Munroe Cumes,1120,55,1,COLOR,200
+756,8/26/2017,Gilburt Marchment,Color full color,Cristine Bosman,1091,51,1,COLOR,200
+757,8/27/2017,Zenia McKie,Color full color,Dayle Pfeffle,1095,56,1,COLOR,200
+758,8/27/2017,Nathanael Grigoliis,Blowdry + style,Munroe Cumes,1136,55,2,STYLE,50
+759,8/27/2017,Torie Soff,Color full color,Cloris Dudeney,1137,57,1,COLOR,200
+760,8/27/2017,Zenia McKie,Hair Cut,Munroe Cumes,1095,55,3,STYLE,100
+761,8/27/2017,Natala Hammatt,Shampoo,Munroe Cumes,1090,55,5,STYLE,100
+762,8/28/2017,Shayna Borrowman,Color full color,Ralina Pollicatt,1148,54,1,COLOR,200
+763,8/29/2017,Toby MacDwyer,Color full color,Dayle Pfeffle,1122,56,1,COLOR,200
+764,8/29/2017,Kienan O'Dwyer,Hair Cut,Jackie Leggate,1132,52,3,STYLE,100
+765,8/29/2017,Dav Uccelli,Color full color,Cristine Bosman,1149,51,1,COLOR,200
+766,8/29/2017,Bobinette Boothe,Blowdry + style,Jackie Leggate,1088,52,2,STYLE,50
+767,8/30/2017,Anton Mulcock,Blowdry + style,Cristine Bosman,1142,51,2,STYLE,50
+768,8/30/2017,Bibi Morritt,Shaving,Dayle Pfeffle,1165,56,6,STYLE,100
+769,8/30/2017,Susanetta Petzold,Shampoo,Jackie Leggate,1001,52,5,STYLE,100
+770,8/30/2017,King Harsent,Shaving,Ralina Pollicatt,1157,54,6,STYLE,100
+771,8/31/2017,Rebecka Iddins,Shaving,Munroe Cumes,1074,55,6,STYLE,100
+772,8/31/2017,Dale Jonk,Hair Spa,Cloris Dudeney,1079,57,4,STYLE,200
+773,09-01-2017,Alexandro Wheatcroft,Shaving,Jackie Leggate,1130,52,6,STYLE,100
+774,09-01-2017,Trace Larenson,Shaving,Dayle Pfeffle,1026,56,6,STYLE,100
+775,09-01-2017,Bibi Morritt,Hair Spa,Cristine Bosman,1165,51,4,STYLE,200
+776,09-01-2017,Aurthur Bavridge,Hair Spa,Cloris Dudeney,1098,57,4,STYLE,200
+777,09-01-2017,Isiahi Fowgies,Blowdry + style,June Pynn,1125,53,2,STYLE,50
+778,09-02-2017,Sibby De La Coste,Hair Spa,Munroe Cumes,1082,55,4,STYLE,200
+779,09-02-2017,Pavia Maynard,Hair Spa,Dayle Pfeffle,1166,56,4,STYLE,200
+780,09-02-2017,Ken Simonot,Hair Spa,Cristine Bosman,1075,51,4,STYLE,200
+781,09-04-2017,Dale Jonk,Shaving,Cloris Dudeney,1079,57,6,STYLE,100
+782,09-04-2017,Meir Corbyn,Shaving,Cloris Dudeney,1047,57,6,STYLE,100
+783,09-04-2017,Oby Downey,Blowdry + style,Munroe Cumes,1107,55,2,STYLE,50
+784,09-05-2017,Wheeler Human,Hair Spa,Dayle Pfeffle,1058,56,4,STYLE,200
+785,09-05-2017,Courtenay Shyre,Color full color,Cloris Dudeney,1114,57,1,COLOR,200
+786,09-05-2017,Hamnet Sacase,Shampoo,Munroe Cumes,1071,55,5,STYLE,100
+787,09-05-2017,Rubie Kremer,Blowdry + style,Ralina Pollicatt,1160,54,2,STYLE,50
+788,09-06-2017,Rossie Kumar,Hair Cut,Ralina Pollicatt,1140,54,3,STYLE,100
+789,09-06-2017,Arleta Corss,Hair Spa,Dayle Pfeffle,1170,56,4,STYLE,200
+790,09-06-2017,Heddie Chatainier,Shaving,Cloris Dudeney,1038,57,6,STYLE,100
+791,09-07-2017,Gabriell Ballham,Color full color,June Pynn,1070,53,1,COLOR,200
+792,09-07-2017,Boycey Robart,Blowdry + style,Jackie Leggate,1077,52,2,STYLE,50
+793,09-07-2017,Walliw Monelli,Shaving,Jackie Leggate,1111,52,6,STYLE,100
+794,09-07-2017,Hephzibah Orteu,Shampoo,June Pynn,1035,53,5,STYLE,100
+795,09-08-2017,Josefa Gwinnell,Shaving,Munroe Cumes,1102,55,6,STYLE,100
+796,09-08-2017,Courtenay Shyre,Shaving,Cloris Dudeney,1114,57,6,STYLE,100
+797,09-08-2017,Allx Ogborn,Hair Cut,Ralina Pollicatt,1099,54,3,STYLE,100
+798,09-09-2017,Vida Peddie,Shampoo,Munroe Cumes,1153,55,5,STYLE,100
+799,09-09-2017,Andriana Rieme,Blowdry + style,June Pynn,1006,53,2,STYLE,50
+800,09-09-2017,Feliza Salt,Color full color,Cloris Dudeney,1159,57,1,COLOR,200
+801,09-10-2017,Amity Chisholm,Hair Spa,Dayle Pfeffle,1139,56,4,STYLE,200
+802,09-10-2017,Lindsay Worsell,Hair Spa,Munroe Cumes,1133,55,4,STYLE,200
+803,09-10-2017,Archibold Woltering,Blowdry + style,Cristine Bosman,1145,51,2,STYLE,50
+804,09-10-2017,Cornelle Sodo,Shampoo,Munroe Cumes,1143,55,5,STYLE,100
+805,09-10-2017,Alisun Mityashin,Blowdry + style,June Pynn,1055,53,2,STYLE,50
+806,09-11-2017,Dav Uccelli,Color full color,Ralina Pollicatt,1149,54,1,COLOR,200
+807,09-11-2017,Ezra Dudman,Hair Spa,Munroe Cumes,1103,55,4,STYLE,200
+808,09-11-2017,Paddy Pandie,Shampoo,Dayle Pfeffle,1044,56,5,STYLE,100
+809,09-11-2017,Shayna Borrowman,Blowdry + style,Cloris Dudeney,1148,57,2,STYLE,50
+810,09-12-2017,Benton Isacq,Shampoo,Cloris Dudeney,1002,57,5,STYLE,100
+811,09-12-2017,Torie Soff,Color full color,June Pynn,1137,53,1,COLOR,200
+812,09-12-2017,Mitchell Dockwra,Hair Spa,Munroe Cumes,1141,55,4,STYLE,200
+813,09-12-2017,Gene Gommes,Shaving,June Pynn,1029,53,6,STYLE,100
+814,09-12-2017,Tammi Covolini,Hair Cut,Cloris Dudeney,1060,57,3,STYLE,100
+815,9/13/2017,Courtenay Shyre,Hair Cut,Cloris Dudeney,1114,57,3,STYLE,100
+816,9/13/2017,Ewen McCaskell,Blowdry + style,Cloris Dudeney,1018,57,2,STYLE,50
+817,9/13/2017,Indira Vallentin,Hair Cut,Munroe Cumes,1073,55,3,STYLE,100
+818,9/13/2017,Eb Levay,Hair Cut,Ralina Pollicatt,1092,54,3,STYLE,100
+819,9/14/2017,Eward Jilkes,Color full color,Cloris Dudeney,1013,57,1,COLOR,200
+820,9/14/2017,Kahaleel Roseaman,Blowdry + style,June Pynn,1061,53,2,STYLE,50
+821,9/14/2017,Rubie Kremer,Shaving,Jackie Leggate,1160,52,6,STYLE,100
+822,9/14/2017,Torie Soff,Blowdry + style,June Pynn,1137,53,2,STYLE,50
+823,9/14/2017,Natala Hammatt,Shaving,Ralina Pollicatt,1090,54,6,STYLE,100
+824,9/15/2017,Torrie Dalgarnowch,Hair Cut,June Pynn,1116,53,3,STYLE,100
+825,9/15/2017,Gilburt Marchment,Shaving,Ralina Pollicatt,1091,54,6,STYLE,100
+826,9/16/2017,Quint Flear,Hair Cut,Jackie Leggate,1050,52,3,STYLE,100
+827,9/16/2017,Konstantin Carillo,Hair Cut,Jackie Leggate,1063,52,3,STYLE,100
+828,9/16/2017,Sabine Gioan,Shampoo,Cristine Bosman,1154,51,5,STYLE,100
+829,9/16/2017,Mab Limb,Hair Spa,Jackie Leggate,1113,52,4,STYLE,200
+830,9/16/2017,Meir Corbyn,Hair Cut,June Pynn,1047,53,3,STYLE,100
+831,9/18/2017,Feliza Salt,Shampoo,Cristine Bosman,1159,51,5,STYLE,100
+832,9/19/2017,Rebecka Iddins,Shampoo,Cristine Bosman,1074,51,5,STYLE,100
+833,9/19/2017,Tammi Covolini,Shaving,Jackie Leggate,1060,52,6,STYLE,100
+834,9/19/2017,Meyer Ellcock,Shampoo,Jackie Leggate,1162,52,5,STYLE,100
+835,9/19/2017,Adamo Prudence,Shaving,Ralina Pollicatt,1085,54,6,STYLE,100
+836,9/20/2017,Jenilee Chaves,Hair Spa,Cloris Dudeney,1010,57,4,STYLE,200
+837,9/20/2017,Torie Soff,Shaving,Jackie Leggate,1137,52,6,STYLE,100
+838,9/20/2017,Meir Corbyn,Blowdry + style,Dayle Pfeffle,1047,56,2,STYLE,50
+839,9/20/2017,Leanor McAuslene,Blowdry + style,Cristine Bosman,1080,51,2,STYLE,50
+840,9/20/2017,Aleece O'Fergus,Hair Cut,Cloris Dudeney,1020,57,3,STYLE,100
+841,9/20/2017,Pavia Maynard,Hair Spa,Cloris Dudeney,1166,57,4,STYLE,200
+842,9/20/2017,Bevon Bohl,Blowdry + style,Munroe Cumes,1096,55,2,STYLE,50
+843,9/21/2017,Amabel Yanez,Hair Spa,Cristine Bosman,1084,51,4,STYLE,200
+844,9/22/2017,Indira Vallentin,Blowdry + style,Dayle Pfeffle,1073,56,2,STYLE,50
+845,9/22/2017,Meir Corbyn,Hair Spa,Cristine Bosman,1047,51,4,STYLE,200
+846,9/22/2017,Domini Kintish,Hair Cut,June Pynn,1056,53,3,STYLE,100
+847,9/23/2017,Gabbi Bagshaw,Color full color,Cloris Dudeney,1106,57,1,COLOR,200
+848,9/23/2017,Benjy Bewley,Shaving,Jackie Leggate,1068,52,6,STYLE,100
+849,9/23/2017,Maddalena Mitchell,Hair Spa,Munroe Cumes,1037,55,4,STYLE,200
+850,9/23/2017,Torie Soff,Color full color,June Pynn,1137,53,1,COLOR,200
+851,9/24/2017,Ulrica Petti,Color full color,June Pynn,1123,53,1,COLOR,200
+852,9/24/2017,Athena McClean,Blowdry + style,Cloris Dudeney,1012,57,2,STYLE,50
+853,9/24/2017,Diandra Eatherton,Shampoo,Jackie Leggate,1046,52,5,STYLE,100
+854,9/26/2017,Meir Corbyn,Hair Cut,Munroe Cumes,1047,55,3,STYLE,100
+855,9/26/2017,Belle Parley,Hair Cut,Ralina Pollicatt,1041,54,3,STYLE,100
+856,9/26/2017,Bevon Bohl,Color full color,Munroe Cumes,1096,55,1,COLOR,200
+857,9/26/2017,Gaelan Siddle,Color full color,Cloris Dudeney,1009,57,1,COLOR,200
+858,9/26/2017,Paddy Pandie,Color full color,Ralina Pollicatt,1044,54,1,COLOR,200
+859,9/26/2017,Winn Dongles,Hair Cut,Munroe Cumes,1152,55,3,STYLE,100
+860,9/27/2017,Sigvard Sheahan,Shampoo,Cloris Dudeney,1126,57,5,STYLE,100
+861,9/28/2017,Claudelle Jarritt,Hair Spa,Dayle Pfeffle,1083,56,4,STYLE,200
+862,9/28/2017,Mitchell Dockwra,Shampoo,Munroe Cumes,1141,55,5,STYLE,100
+863,9/28/2017,Gabbi Bagshaw,Hair Cut,Cristine Bosman,1106,51,3,STYLE,100
+864,9/29/2017,Hamnet Sacase,Color full color,June Pynn,1071,53,1,COLOR,200
+865,9/29/2017,Wheeler Human,Hair Cut,Munroe Cumes,1058,55,3,STYLE,100
+866,9/30/2017,Tommi Minett,Blowdry + style,Dayle Pfeffle,1087,56,2,STYLE,50
+867,9/30/2017,Ramsay Thome,Blowdry + style,Dayle Pfeffle,1015,56,2,STYLE,50
+868,9/30/2017,Claudelle Jarritt,Blowdry + style,Dayle Pfeffle,1083,56,2,STYLE,50
+869,9/30/2017,Aurthur Bavridge,Shaving,June Pynn,1098,53,6,STYLE,100
+870,9/30/2017,Jarid Crut,Blowdry + style,Jackie Leggate,1054,52,2,STYLE,50
+871,10-01-2017,Josi Masser,Shaving,Munroe Cumes,1048,55,6,STYLE,100
+872,10-01-2017,Nonah Pavinese,Hair Spa,June Pynn,1104,53,4,STYLE,200
+873,10-02-2017,Konstantin Carillo,Color full color,Cloris Dudeney,1063,57,1,COLOR,200
+874,10-02-2017,Walliw Monelli,Shaving,Ralina Pollicatt,1111,54,6,STYLE,100
+875,10-02-2017,Andras Sterre,Shampoo,Cristine Bosman,1049,51,5,STYLE,100
+876,10-02-2017,Lari Swayland,Hair Spa,Cloris Dudeney,1081,57,4,STYLE,200
+877,10-03-2017,Ken Simonot,Shampoo,Cristine Bosman,1075,51,5,STYLE,100
+878,10-03-2017,Kristofer Ezzle,Color full color,Dayle Pfeffle,1045,56,1,COLOR,200
+879,10-03-2017,Chiquita Benet,Hair Cut,Cristine Bosman,1117,51,3,STYLE,100
+880,10-03-2017,Perry McClurg,Hair Spa,Jackie Leggate,1163,52,4,STYLE,200
+881,10-03-2017,Marla Ainley,Color full color,Ralina Pollicatt,1146,54,1,COLOR,200
+882,10-04-2017,Ezra Dudman,Hair Cut,Dayle Pfeffle,1103,56,3,STYLE,100
+883,10-05-2017,Boycey Robart,Shaving,Dayle Pfeffle,1077,56,6,STYLE,100
+884,10-05-2017,Mari Clifford,Hair Cut,Cloris Dudeney,1101,57,3,STYLE,100
+885,10-06-2017,Bucky Kealey,Shaving,Dayle Pfeffle,1042,56,6,STYLE,100
+886,10-06-2017,Francine Kunkler,Hair Spa,Jackie Leggate,1089,52,4,STYLE,200
+887,10-06-2017,Trueman Eiler,Blowdry + style,Dayle Pfeffle,1024,56,2,STYLE,50
+888,10-07-2017,King Harsent,Shampoo,Jackie Leggate,1157,52,5,STYLE,100
+889,10-07-2017,Laney Pontain,Hair Cut,Dayle Pfeffle,1124,56,3,STYLE,100
+890,10-08-2017,King Harsent,Blowdry + style,Dayle Pfeffle,1157,56,2,STYLE,50
+891,10-08-2017,Ted Boshere,Shampoo,Jackie Leggate,1064,52,5,STYLE,100
+892,10-08-2017,Sigvard Sheahan,Hair Spa,Dayle Pfeffle,1126,56,4,STYLE,200
+893,10-09-2017,Bibi Morritt,Shampoo,Cristine Bosman,1165,51,5,STYLE,100
+894,10-09-2017,Gusta Guichard,Hair Cut,Cristine Bosman,1109,51,3,STYLE,100
+895,10-09-2017,Sylvia Yersin,Shaving,Cloris Dudeney,1168,57,6,STYLE,100
+896,10-09-2017,Aleksandr Branford,Shampoo,Cloris Dudeney,1022,57,5,STYLE,100
+897,10-10-2017,Hi Gregori,Hair Cut,June Pynn,1069,53,3,STYLE,100
+898,10-10-2017,Domini Kintish,Hair Spa,Cloris Dudeney,1056,57,4,STYLE,200
+899,10-10-2017,Sayer McClay,Color full color,Cristine Bosman,1019,51,1,COLOR,200
+900,10-10-2017,Ramsay Thome,Shaving,Cristine Bosman,1015,51,6,STYLE,100
+901,10-11-2017,Lindsay Worsell,Hair Cut,Cloris Dudeney,1133,57,3,STYLE,100
+902,10-11-2017,Velvet Napoli,Hair Spa,Cloris Dudeney,1051,57,4,STYLE,200
+903,10-12-2017,Maddalena Mitchell,Hair Spa,June Pynn,1037,53,4,STYLE,200
+904,10-12-2017,Nathanael Grigoliis,Color full color,Ralina Pollicatt,1136,54,1,COLOR,200
+905,10-12-2017,Jarid Crut,Blowdry + style,June Pynn,1054,53,2,STYLE,50
+906,10/13/2017,Ramsay Thome,Shampoo,Ralina Pollicatt,1015,54,5,STYLE,100
+907,10/13/2017,Marla Ainley,Hair Cut,Cloris Dudeney,1146,57,3,STYLE,100
+908,10/13/2017,Hinda Duddell,Color full color,Cloris Dudeney,1115,57,1,COLOR,200
+909,10/14/2017,Kristofer Ezzle,Hair Cut,Jackie Leggate,1045,52,3,STYLE,100
+910,10/15/2017,Meir Corbyn,Hair Cut,June Pynn,1047,53,3,STYLE,100
+911,10/15/2017,Rosabelle Merrifield,Hair Cut,Cristine Bosman,1034,51,3,STYLE,100
+912,10/15/2017,Carol-jean Blacker,Shampoo,Munroe Cumes,1057,55,5,STYLE,100
+913,10/16/2017,Kristofer Ezzle,Hair Spa,Munroe Cumes,1045,55,4,STYLE,200
+914,10/17/2017,Isiahi Fowgies,Shampoo,Jackie Leggate,1125,52,5,STYLE,100
+915,10/17/2017,Bucky Kealey,Shampoo,June Pynn,1042,53,5,STYLE,100
+916,10/17/2017,Sibby De La Coste,Blowdry + style,Munroe Cumes,1082,55,2,STYLE,50
+917,10/17/2017,Enrichetta Sircomb,Color full color,Munroe Cumes,1105,55,1,COLOR,200
+918,10/18/2017,Winn Dongles,Hair Spa,Jackie Leggate,1152,52,4,STYLE,200
+919,10/18/2017,Theda Wanderschek,Shampoo,Cristine Bosman,1065,51,5,STYLE,100
+920,10/18/2017,Eb Levay,Hair Cut,June Pynn,1092,53,3,STYLE,100
+921,10/18/2017,Alejandra Lapworth,Blowdry + style,Cristine Bosman,1138,51,2,STYLE,50
+922,10/18/2017,Nonah Pavinese,Shampoo,Cloris Dudeney,1104,57,5,STYLE,100
+923,10/18/2017,Kahaleel Roseaman,Hair Spa,June Pynn,1061,53,4,STYLE,200
+924,10/19/2017,Gene Gommes,Hair Cut,Dayle Pfeffle,1029,56,3,STYLE,100
+925,10/19/2017,Pierce Hryskiewicz,Shampoo,Munroe Cumes,1067,55,5,STYLE,100
+926,10/19/2017,Patin Crowd,Blowdry + style,Jackie Leggate,1100,52,2,STYLE,50
+927,10/19/2017,Walton Hulse,Shaving,Cristine Bosman,1052,51,6,STYLE,100
+928,10/20/2017,Meyer Ellcock,Blowdry + style,Ralina Pollicatt,1162,54,2,STYLE,50
+929,10/20/2017,Domini Kintish,Shaving,Jackie Leggate,1056,52,6,STYLE,100
+930,10/20/2017,Elroy Evered,Hair Spa,Cloris Dudeney,1150,57,4,STYLE,200
+931,10/21/2017,Egon Waistell,Hair Spa,Ralina Pollicatt,1121,54,4,STYLE,200
+932,10/21/2017,Lari Swayland,Color full color,Cloris Dudeney,1081,57,1,COLOR,200
+933,10/21/2017,Rebecka Iddins,Hair Cut,Munroe Cumes,1074,55,3,STYLE,100
+934,10/22/2017,Archibold Woltering,Hair Spa,Munroe Cumes,1145,55,4,STYLE,200
+935,10/22/2017,Domini Kintish,Blowdry + style,June Pynn,1056,53,2,STYLE,50
+936,10/22/2017,Stanley Wheelband,Shampoo,Cloris Dudeney,1120,57,5,STYLE,100
+937,10/23/2017,Bobinette Boothe,Blowdry + style,Cristine Bosman,1088,51,2,STYLE,50
+938,10/23/2017,Starlene Rubinshtein,Hair Cut,Cristine Bosman,1040,51,3,STYLE,100
+939,10/23/2017,Patin Crowd,Shaving,Dayle Pfeffle,1100,56,6,STYLE,100
+940,10/24/2017,Claudelle Jarritt,Blowdry + style,Jackie Leggate,1083,52,2,STYLE,50
+941,10/24/2017,Amabel Yanez,Hair Cut,Ralina Pollicatt,1084,54,3,STYLE,100
+942,10/24/2017,Carce Francklin,Blowdry + style,Jackie Leggate,1036,52,2,STYLE,50
+943,10/25/2017,Sylvia Yersin,Blowdry + style,June Pynn,1168,53,2,STYLE,50
+944,10/25/2017,Bevon Bohl,Hair Cut,Cloris Dudeney,1096,57,3,STYLE,100
+945,10/26/2017,Tommi Minett,Shaving,Dayle Pfeffle,1087,56,6,STYLE,100
+946,10/26/2017,Nani Gravey,Shaving,Cloris Dudeney,1094,57,6,STYLE,100
+947,10/27/2017,Shayna Borrowman,Shaving,Jackie Leggate,1148,52,6,STYLE,100
+948,10/27/2017,Ebony Izkovicz,Color full color,Munroe Cumes,1008,55,1,COLOR,200
+949,10/27/2017,Gilburt Marchment,Blowdry + style,Cristine Bosman,1091,51,2,STYLE,50
+950,10/27/2017,Diandra Eatherton,Hair Spa,June Pynn,1046,53,4,STYLE,200
+951,10/27/2017,Lonnard Hounsham,Hair Cut,Dayle Pfeffle,1078,56,3,STYLE,100
+952,10/28/2017,Rebecka Iddins,Shaving,Cristine Bosman,1074,51,6,STYLE,100
+953,10/29/2017,Toby MacDwyer,Hair Spa,Jackie Leggate,1122,52,4,STYLE,200
+954,10/29/2017,Archibold Woltering,Color full color,June Pynn,1145,53,1,COLOR,200
+955,10/30/2017,Oby Downey,Shampoo,Ralina Pollicatt,1107,54,5,STYLE,100
+956,10/31/2017,Ara Maykin,Color full color,Cristine Bosman,1161,51,1,COLOR,200
+957,10/31/2017,Feliza Salt,Blowdry + style,Ralina Pollicatt,1159,54,2,STYLE,50
+958,10/31/2017,Josefa Gwinnell,Blowdry + style,Ralina Pollicatt,1102,54,2,STYLE,50
+959,10/31/2017,Walton Hulse,Blowdry + style,Cristine Bosman,1052,51,2,STYLE,50
+960,10/31/2017,Tobe Elstub,Blowdry + style,Cloris Dudeney,1007,57,2,STYLE,50
+961,11-01-2017,Anton Mulcock,Shampoo,Dayle Pfeffle,1142,56,5,STYLE,100
+962,11-03-2017,Leanor McAuslene,Blowdry + style,June Pynn,1080,53,2,STYLE,50
+963,11-03-2017,Dale Jonk,Hair Spa,Dayle Pfeffle,1079,56,4,STYLE,200
+964,11-03-2017,Pavia Maynard,Blowdry + style,June Pynn,1166,53,2,STYLE,50
+965,11-04-2017,Annadiane Tattersdill,Hair Cut,Ralina Pollicatt,1093,54,3,STYLE,100
+966,11-04-2017,Ewen McCaskell,Color full color,Cristine Bosman,1018,51,1,COLOR,200
+967,11-05-2017,Bucky Kealey,Shampoo,Ralina Pollicatt,1042,54,5,STYLE,100
+968,11-06-2017,Benjy Bewley,Shaving,Ralina Pollicatt,1068,54,6,STYLE,100
+969,11-06-2017,Andriana Rieme,Shaving,Cloris Dudeney,1006,57,6,STYLE,100
+970,11-06-2017,Web Addionisio,Blowdry + style,Munroe Cumes,1027,55,2,STYLE,50
+971,11-07-2017,Andras Sterre,Blowdry + style,Cristine Bosman,1049,51,2,STYLE,50
+972,11-08-2017,Sibby De La Coste,Blowdry + style,Munroe Cumes,1082,55,2,STYLE,50
+973,11-09-2017,Kahaleel Roseaman,Color full color,June Pynn,1061,53,1,COLOR,200
+974,11-09-2017,King Harsent,Color full color,Ralina Pollicatt,1157,54,1,COLOR,200
+975,11-10-2017,Benjy Bewley,Blowdry + style,Cloris Dudeney,1068,57,2,STYLE,50
+976,11-10-2017,Sindee Chevins,Hair Spa,Dayle Pfeffle,1127,56,4,STYLE,200
+977,11-11-2017,Allx Ogborn,Shampoo,Cristine Bosman,1099,51,5,STYLE,100
+978,11-11-2017,Sibby De La Coste,Shaving,Cristine Bosman,1082,51,6,STYLE,100
+979,11-12-2017,Ken Simonot,Color full color,Cloris Dudeney,1075,57,1,COLOR,200
+980,11-12-2017,Lonnard Hounsham,Blowdry + style,Cloris Dudeney,1078,57,2,STYLE,50
+981,11/13/2017,Carol-jean Blacker,Hair Cut,Munroe Cumes,1057,55,3,STYLE,100
+982,11/13/2017,Sayer McClay,Hair Spa,Dayle Pfeffle,1019,56,4,STYLE,200
+983,11/13/2017,Rossie Kumar,Shampoo,June Pynn,1140,53,5,STYLE,100
+984,11/13/2017,Mab Limb,Color full color,Munroe Cumes,1113,55,1,COLOR,200
+985,11/13/2017,Diandra Eatherton,Color full color,June Pynn,1046,53,1,COLOR,200
+986,11/14/2017,Kristofer Ezzle,Hair Spa,Dayle Pfeffle,1045,56,4,STYLE,200
+987,11/14/2017,Patin Crowd,Shampoo,Ralina Pollicatt,1100,54,5,STYLE,100
+988,11/14/2017,Drusy Saurat,Hair Spa,Ralina Pollicatt,1118,54,4,STYLE,200
+989,11/15/2017,Byrle Rushman,Blowdry + style,Ralina Pollicatt,1108,54,2,STYLE,50
+990,11/16/2017,Bevon De Carolis,Hair Spa,Dayle Pfeffle,1144,56,4,STYLE,200
+991,11/16/2017,Rex Sturdgess,Shaving,June Pynn,1033,53,6,STYLE,100
+992,11/16/2017,Rosabelle Merrifield,Shaving,Munroe Cumes,1034,55,6,STYLE,100
+993,11/17/2017,Carol-jean Blacker,Blowdry + style,Cristine Bosman,1057,51,2,STYLE,50
+994,11/17/2017,Lonnard Hounsham,Blowdry + style,Munroe Cumes,1078,55,2,STYLE,50
+995,11/17/2017,Hamnet Sacase,Shampoo,June Pynn,1071,53,5,STYLE,100
+996,11/17/2017,Gabie Smalls,Hair Spa,Munroe Cumes,1086,55,4,STYLE,200
+997,11/18/2017,Theda Wanderschek,Hair Cut,Ralina Pollicatt,1065,54,3,STYLE,100
+998,11/19/2017,Jarid Crut,Hair Cut,Ralina Pollicatt,1054,54,3,STYLE,100
+999,11/19/2017,Adamo Prudence,Shampoo,Dayle Pfeffle,1085,56,5,STYLE,100
+1000,11/19/2017,Pierce Hryskiewicz,Hair Cut,Cloris Dudeney,1067,57,3,STYLE,100
+1001,11/20/2017,Egon Waistell,Hair Cut,Dayle Pfeffle,1121,56,3,STYLE,100
+1002,11/21/2017,Archibold Woltering,Shampoo,Munroe Cumes,1145,55,5,STYLE,100
+1003,11/21/2017,Umberto Gotecliffe,Color full color,Jackie Leggate,1147,52,1,COLOR,200
+1004,11/21/2017,Courtenay Shyre,Shampoo,Munroe Cumes,1114,55,5,STYLE,100
+1005,11/22/2017,Indira Vallentin,Hair Spa,Ralina Pollicatt,1073,54,4,STYLE,200
+1006,11/22/2017,Diann Leedes,Shaving,Cristine Bosman,1076,51,6,STYLE,100
+1007,11/22/2017,Mitchell Dockwra,Shaving,Jackie Leggate,1141,52,6,STYLE,100
+1008,11/23/2017,Bucky Kealey,Hair Cut,Ralina Pollicatt,1042,54,3,STYLE,100
+1009,11/23/2017,Mari Clifford,Shampoo,June Pynn,1101,53,5,STYLE,100
+1010,11/23/2017,Rossie Kumar,Hair Spa,Ralina Pollicatt,1140,54,4,STYLE,200
+1011,11/23/2017,Kienan O'Dwyer,Color full color,Munroe Cumes,1132,55,1,COLOR,200
+1012,11/24/2017,Lurlene Cristofvao,Shampoo,Cristine Bosman,1005,51,5,STYLE,100
+1013,11/24/2017,Web Addionisio,Color full color,Jackie Leggate,1027,52,1,COLOR,200
+1014,11/24/2017,Elroy Evered,Hair Spa,Ralina Pollicatt,1150,54,4,STYLE,200
+1015,11/25/2017,Gabriell Ballham,Shaving,Dayle Pfeffle,1070,56,6,STYLE,100
+1016,11/25/2017,Carol-jean Blacker,Blowdry + style,Dayle Pfeffle,1057,56,2,STYLE,50
+1017,11/26/2017,Egon Waistell,Hair Cut,Cristine Bosman,1121,51,3,STYLE,100
+1018,11/26/2017,Aurthur Bavridge,Color full color,Cloris Dudeney,1098,57,1,COLOR,200
+1019,11/26/2017,Boycey Robart,Shampoo,Munroe Cumes,1077,55,5,STYLE,100
+1020,11/26/2017,Lonnard Hounsham,Hair Cut,June Pynn,1078,53,3,STYLE,100
+1021,11/26/2017,Walton Hulse,Blowdry + style,Jackie Leggate,1052,52,2,STYLE,50
+1022,11/26/2017,Marla Ainley,Hair Cut,Cloris Dudeney,1146,57,3,STYLE,100
+1023,11/27/2017,Conny Matveichev,Color full color,Cloris Dudeney,1016,57,1,COLOR,200
+1024,11/28/2017,Torrie Dalgarnowch,Blowdry + style,Cloris Dudeney,1116,57,2,STYLE,50
+1025,11/28/2017,Vida Peddie,Blowdry + style,Jackie Leggate,1153,52,2,STYLE,50
+1026,11/29/2017,Tommi Minett,Hair Spa,Munroe Cumes,1087,55,4,STYLE,200
+1027,11/30/2017,Lotty Danbye,Hair Spa,Jackie Leggate,1119,52,4,STYLE,200
+1028,12-01-2017,Lura Stellino,Hair Cut,Jackie Leggate,1025,52,3,STYLE,100
+1029,12-03-2017,Egon Waistell,Shaving,Cloris Dudeney,1121,57,6,STYLE,100
+1030,12-03-2017,Natala Hammatt,Blowdry + style,Dayle Pfeffle,1090,56,2,STYLE,50
+1031,12-03-2017,Lonnard Hounsham,Color full color,Cloris Dudeney,1078,57,1,COLOR,200
+1032,12-03-2017,Bevon De Carolis,Color full color,Munroe Cumes,1144,55,1,COLOR,200
+1033,12-04-2017,Alisun Mityashin,Shaving,Munroe Cumes,1055,55,6,STYLE,100
+1034,12-04-2017,Aurthur Bavridge,Color full color,Munroe Cumes,1098,55,1,COLOR,200
+1035,12-04-2017,Oby Downey,Hair Cut,June Pynn,1107,53,3,STYLE,100
+1036,12-04-2017,Gabriell Ballham,Blowdry + style,Munroe Cumes,1070,55,2,STYLE,50
+1037,12-04-2017,Eb Levay,Hair Cut,Jackie Leggate,1092,52,3,STYLE,100
+1038,12-05-2017,Elroy Evered,Color full color,Cloris Dudeney,1150,57,1,COLOR,200
+1039,12-05-2017,Bevon De Carolis,Blowdry + style,Dayle Pfeffle,1144,56,2,STYLE,50
+1040,12-06-2017,Allx Ogborn,Color full color,Cristine Bosman,1099,51,1,COLOR,200
+1041,12-07-2017,Stacie Klaiser,Hair Cut,Munroe Cumes,1164,55,3,STYLE,100
+1042,12-07-2017,Nike Risborough,Shaving,Jackie Leggate,1032,52,6,STYLE,100
+1043,12-07-2017,Josefa Gwinnell,Blowdry + style,Cloris Dudeney,1102,57,2,STYLE,50
+1044,12-07-2017,Ken Simonot,Blowdry + style,Cloris Dudeney,1075,57,2,STYLE,50
+1045,12-08-2017,Andriana Rieme,Shampoo,Dayle Pfeffle,1006,56,5,STYLE,100
+1046,12-08-2017,Zenia McKie,Shaving,Munroe Cumes,1095,55,6,STYLE,100
+1047,12-08-2017,Susanetta Petzold,Color full color,Munroe Cumes,1001,55,1,COLOR,200
+1048,12-09-2017,Nonah Pavinese,Hair Spa,Jackie Leggate,1104,52,4,STYLE,200
+1049,12-09-2017,Lotty Danbye,Color full color,Dayle Pfeffle,1119,56,1,COLOR,200
+1050,12-10-2017,Tammi Covolini,Blowdry + style,Jackie Leggate,1060,52,2,STYLE,50
+1051,12-11-2017,Carce Francklin,Hair Spa,Cristine Bosman,1036,51,4,STYLE,200
+1052,12-11-2017,Benjy Bewley,Blowdry + style,Cristine Bosman,1068,51,2,STYLE,50
+1053,12-11-2017,Ilysa Hansen,Color full color,June Pynn,1097,53,1,COLOR,200
+1054,12-11-2017,Lotty Danbye,Hair Spa,June Pynn,1119,53,4,STYLE,200
+1055,12-12-2017,Eward Jilkes,Shaving,Ralina Pollicatt,1013,54,6,STYLE,100
+1056,12-12-2017,Gene Gommes,Shaving,Dayle Pfeffle,1029,56,6,STYLE,100
+1057,12-12-2017,Sindee Chevins,Blowdry + style,Cloris Dudeney,1127,57,2,STYLE,50
+1058,12-12-2017,Carol-jean Blacker,Shampoo,Cristine Bosman,1057,51,5,STYLE,100
+1059,12/13/2017,Patin Crowd,Hair Cut,Dayle Pfeffle,1100,56,3,STYLE,100
+1060,12/13/2017,Gilburt Marchment,Color full color,Munroe Cumes,1091,55,1,COLOR,200
+1061,12/14/2017,Wheeler Human,Color full color,Cristine Bosman,1058,51,1,COLOR,200
+1062,12/15/2017,Haleigh Mainland,Color full color,Dayle Pfeffle,1151,56,1,COLOR,200
+1063,12/15/2017,Jarid Crut,Blowdry + style,Jackie Leggate,1054,52,2,STYLE,50
+1064,12/15/2017,Anton Mulcock,Shaving,Dayle Pfeffle,1142,56,6,STYLE,100
+1065,12/16/2017,Meyer Ellcock,Shaving,Cloris Dudeney,1162,57,6,STYLE,100
+1066,12/17/2017,Web Addionisio,Color full color,Jackie Leggate,1027,52,1,COLOR,200
+1067,12/17/2017,Royce Bowater,Color full color,Munroe Cumes,1017,55,1,COLOR,200
+1068,12/17/2017,Meir Corbyn,Shaving,Cristine Bosman,1047,51,6,STYLE,100
+1069,12/17/2017,Florella Van den Broek,Color full color,Munroe Cumes,1023,55,1,COLOR,200
+1070,12/17/2017,Lura Stellino,Shaving,Cloris Dudeney,1025,57,6,STYLE,100
+1071,12/18/2017,Nathanael Grigoliis,Shampoo,Jackie Leggate,1136,52,5,STYLE,100
+1072,12/19/2017,Sarette Graser,Shampoo,June Pynn,1131,53,5,STYLE,100
+1073,12/19/2017,Kahaleel Roseaman,Hair Spa,Ralina Pollicatt,1061,54,4,STYLE,200
+1074,12/19/2017,Paddy Pandie,Shaving,Dayle Pfeffle,1044,56,6,STYLE,100
+1075,12/19/2017,Ezra Dudman,Hair Spa,Cristine Bosman,1103,51,4,STYLE,200
+1076,12/20/2017,Vida Peddie,Shaving,Munroe Cumes,1153,55,6,STYLE,100
+1077,12/21/2017,Audrie Quickfall,Shampoo,Jackie Leggate,1169,52,5,STYLE,100
+1078,12/21/2017,Josefa Gwinnell,Hair Cut,Dayle Pfeffle,1102,56,3,STYLE,100
+1079,12/21/2017,Lonnard Hounsham,Blowdry + style,Ralina Pollicatt,1078,54,2,STYLE,50
+1080,12/23/2017,Nathanael Grigoliis,Hair Spa,Jackie Leggate,1136,52,4,STYLE,200
+1081,12/24/2017,Enrichetta Sircomb,Hair Cut,Munroe Cumes,1105,55,3,STYLE,100
+1082,12/24/2017,Aleece O'Fergus,Blowdry + style,Munroe Cumes,1020,55,2,STYLE,50
+1083,12/24/2017,Gerta Willmetts,Hair Cut,Cristine Bosman,1158,51,3,STYLE,100
+1084,12/24/2017,Don Giorio,Blowdry + style,Munroe Cumes,1167,55,2,STYLE,50
+1085,12/25/2017,Hamnet Sacase,Blowdry + style,Cristine Bosman,1071,51,2,STYLE,50
+1086,12/25/2017,Maddalena Mitchell,Shampoo,Cloris Dudeney,1037,57,5,STYLE,100
+1087,12/26/2017,Rosabelle Merrifield,Hair Spa,Cloris Dudeney,1034,57,4,STYLE,200
+1088,12/26/2017,Arleta Corss,Hair Spa,Cloris Dudeney,1170,57,4,STYLE,200
+1089,12/27/2017,Bobinette Boothe,Hair Spa,Cloris Dudeney,1088,57,4,STYLE,200
+1090,12/27/2017,Alejandra Lapworth,Hair Spa,Ralina Pollicatt,1138,54,4,STYLE,200
+1091,12/28/2017,Patin Crowd,Hair Spa,June Pynn,1100,53,4,STYLE,200
+1092,12/28/2017,Anton Mulcock,Hair Spa,June Pynn,1142,53,4,STYLE,200
+1093,12/28/2017,Sindee Chevins,Hair Cut,Dayle Pfeffle,1127,56,3,STYLE,100
+1094,12/28/2017,Gerta Willmetts,Hair Cut,Jackie Leggate,1158,52,3,STYLE,100
+1095,12/29/2017,Diann Leedes,Color full color,Cristine Bosman,1076,51,1,COLOR,200
+1096,12/29/2017,Meyer Ellcock,Hair Cut,Jackie Leggate,1162,52,3,STYLE,100
+1097,12/29/2017,Benjy Bewley,Hair Spa,June Pynn,1068,53,4,STYLE,200
+1098,12/31/2017,Wheeler Human,Hair Cut,Jackie Leggate,1058,52,3,STYLE,100
+1099,12/31/2017,Konstantin Carillo,Hair Cut,June Pynn,1063,53,3,STYLE,100
+1100,12/31/2017,Gusta Guichard,Hair Spa,Munroe Cumes,1109,55,4,STYLE,200
+1101,01-01-2018,Rossie Kumar,Hair Spa,Ralina Pollicatt,1140,54,4,STYLE,200
+1102,01-01-2018,Sindee Chevins,Blowdry + style,June Pynn,1127,53,2,STYLE,50
+1103,01-01-2018,Ewen McCaskell,Shampoo,Ralina Pollicatt,1018,54,5,STYLE,100
+1104,01-02-2018,Starlene Rubinshtein,Blowdry + style,Cloris Dudeney,1040,57,2,STYLE,50
+1105,01-03-2018,Suki Ebbers,Color full color,Cloris Dudeney,1021,57,1,COLOR,200
+1106,01-03-2018,Dav Uccelli,Shaving,Cloris Dudeney,1149,57,6,STYLE,100
+1107,01-04-2018,Patin Crowd,Color full color,Cristine Bosman,1100,51,1,COLOR,200
+1108,01-04-2018,Feliza Salt,Shampoo,Cristine Bosman,1159,51,5,STYLE,100
+1109,01-05-2018,Eb Levay,Hair Cut,Dayle Pfeffle,1092,56,3,STYLE,100
+1110,01-05-2018,Adamo Prudence,Hair Cut,Munroe Cumes,1085,55,3,STYLE,100
+1111,01-05-2018,Diann Leedes,Shaving,Dayle Pfeffle,1076,56,6,STYLE,100
+1112,01-05-2018,Lari Swayland,Hair Cut,June Pynn,1081,53,3,STYLE,100
+1113,01-05-2018,Benjy Bewley,Hair Spa,Jackie Leggate,1068,52,4,STYLE,200
+1114,01-06-2018,Marty Creighton,Hair Cut,Ralina Pollicatt,1028,54,3,STYLE,100
+1115,01-06-2018,Tammi Covolini,Shaving,June Pynn,1060,53,6,STYLE,100
+1116,01-06-2018,Lindsay Worsell,Hair Spa,Ralina Pollicatt,1133,54,4,STYLE,200
+1117,01-07-2018,Walton Hulse,Color full color,Jackie Leggate,1052,52,1,COLOR,200
+1118,01-07-2018,Walliw Monelli,Color full color,Dayle Pfeffle,1111,56,1,COLOR,200
+1119,01-07-2018,Marty Creighton,Hair Spa,Munroe Cumes,1028,55,4,STYLE,200
+1120,01-07-2018,Jenilee Chaves,Shaving,Ralina Pollicatt,1010,54,6,STYLE,100
+1121,01-08-2018,Lurlene Cristofvao,Hair Spa,Cloris Dudeney,1005,57,4,STYLE,200
+1122,01-08-2018,Paddy Pandie,Blowdry + style,Ralina Pollicatt,1044,54,2,STYLE,50
+1123,01-08-2018,Kristofer Ezzle,Hair Cut,Cristine Bosman,1045,51,3,STYLE,100
+1124,01-09-2018,Ilysa Hansen,Color full color,Jackie Leggate,1097,52,1,COLOR,200
+1125,01-09-2018,Sigvard Sheahan,Shaving,Jackie Leggate,1126,52,6,STYLE,100
+1126,01-09-2018,Bobinette Boothe,Shaving,Cristine Bosman,1088,51,6,STYLE,100
+1127,01-10-2018,Heddie Chatainier,Hair Spa,Cristine Bosman,1038,51,4,STYLE,200
+1128,01-10-2018,Rollins Cosely,Blowdry + style,Ralina Pollicatt,1129,54,2,STYLE,50
+1129,01-10-2018,Isiahi Fowgies,Hair Cut,Cristine Bosman,1125,51,3,STYLE,100
+1130,01-10-2018,Meyer Ellcock,Color full color,Munroe Cumes,1162,55,1,COLOR,200
+1131,01-10-2018,Enrichetta Sircomb,Blowdry + style,Dayle Pfeffle,1105,56,2,STYLE,50
+1132,01-11-2018,Walton Hulse,Shampoo,Dayle Pfeffle,1052,56,5,STYLE,100
+1133,01-11-2018,Gabriell Ballham,Shampoo,June Pynn,1070,53,5,STYLE,100
+1134,01-11-2018,Dale Jonk,Hair Cut,Munroe Cumes,1079,55,3,STYLE,100
+1135,01-11-2018,Sharline Pawlicki,Color full color,June Pynn,1059,53,1,COLOR,200
+1136,01-12-2018,Amity Chisholm,Shaving,June Pynn,1139,53,6,STYLE,100
+1137,1/13/2018,Cornelle Sodo,Hair Spa,Jackie Leggate,1143,52,4,STYLE,200
+1138,1/13/2018,Stacie Klaiser,Shaving,Ralina Pollicatt,1164,54,6,STYLE,100
+1139,1/13/2018,Stanley Wheelband,Hair Spa,Ralina Pollicatt,1120,54,4,STYLE,200
+1140,1/13/2018,Kahaleel Roseaman,Shampoo,Cristine Bosman,1061,51,5,STYLE,100
+1141,1/15/2018,Quint Flear,Shampoo,Dayle Pfeffle,1050,56,5,STYLE,100
+1142,1/15/2018,Sayer McClay,Blowdry + style,Cloris Dudeney,1019,57,2,STYLE,50
+1143,1/15/2018,Annadiane Tattersdill,Hair Spa,Munroe Cumes,1093,55,4,STYLE,200
+1144,1/17/2018,Sharline Pawlicki,Shampoo,June Pynn,1059,53,5,STYLE,100
+1145,1/18/2018,Mari Clifford,Shampoo,Dayle Pfeffle,1101,56,5,STYLE,100
+1146,1/18/2018,Torrie Dalgarnowch,Hair Spa,Munroe Cumes,1116,55,4,STYLE,200
+1147,1/18/2018,Claudelle Jarritt,Hair Cut,Cristine Bosman,1083,51,3,STYLE,100
+1148,1/19/2018,Egon Waistell,Color full color,Ralina Pollicatt,1121,54,1,COLOR,200
+1149,1/19/2018,Enrichetta Sircomb,Hair Cut,Cloris Dudeney,1105,57,3,STYLE,100
+1150,1/19/2018,Sindee Chevins,Color full color,Dayle Pfeffle,1127,56,1,COLOR,200
+1151,1/20/2018,Mari Clifford,Blowdry + style,Munroe Cumes,1101,55,2,STYLE,50
+1152,1/20/2018,Ramsay Thome,Shaving,Dayle Pfeffle,1015,56,6,STYLE,100
+1153,1/21/2018,Sindee Chevins,Color full color,Jackie Leggate,1127,52,1,COLOR,200
+1154,1/21/2018,Paddy Pandie,Hair Cut,Cloris Dudeney,1044,57,3,STYLE,100
+1155,1/21/2018,Zenia McKie,Hair Spa,Munroe Cumes,1095,55,4,STYLE,200
+1156,1/22/2018,Archibold Woltering,Blowdry + style,June Pynn,1145,53,2,STYLE,50
+1157,1/22/2018,Gaelan Siddle,Shaving,Cristine Bosman,1009,51,6,STYLE,100
+1158,1/23/2018,Gregor Tolley,Hair Spa,Cristine Bosman,1039,51,4,STYLE,200
+1159,1/23/2018,Susanetta Petzold,Color full color,Munroe Cumes,1001,55,1,COLOR,200
+1160,1/23/2018,Drusy Saurat,Hair Spa,June Pynn,1118,53,4,STYLE,200
+1161,1/24/2018,Dav Uccelli,Hair Spa,June Pynn,1149,53,4,STYLE,200
+1162,1/24/2018,Bevon Bohl,Blowdry + style,Cloris Dudeney,1096,57,2,STYLE,50
+1163,1/24/2018,Audrie Quickfall,Shaving,Cristine Bosman,1169,51,6,STYLE,100
+1164,1/24/2018,Ezra Dudman,Hair Spa,Cristine Bosman,1103,51,4,STYLE,200
+1165,1/24/2018,Adamo Prudence,Color full color,Cloris Dudeney,1085,57,1,COLOR,200
+1166,1/27/2018,Florella Van den Broek,Shampoo,Dayle Pfeffle,1023,56,5,STYLE,100
+1167,1/27/2018,Shayna Borrowman,Shampoo,Munroe Cumes,1148,55,5,STYLE,100
+1168,1/27/2018,Josi Masser,Blowdry + style,Dayle Pfeffle,1048,56,2,STYLE,50
+1169,1/28/2018,Gilburt Marchment,Blowdry + style,June Pynn,1091,53,2,STYLE,50
+1170,1/28/2018,Torie Soff,Hair Cut,Jackie Leggate,1137,52,3,STYLE,100
+1171,1/28/2018,Alisun Mityashin,Shaving,Dayle Pfeffle,1055,56,6,STYLE,100
+1172,1/28/2018,Walton Hulse,Hair Cut,Cloris Dudeney,1052,57,3,STYLE,100
+1173,1/28/2018,Sayer McClay,Hair Cut,Jackie Leggate,1019,52,3,STYLE,100
+1174,1/28/2018,Marty Creighton,Hair Cut,Munroe Cumes,1028,55,3,STYLE,100
+1175,1/29/2018,Rossie Kumar,Hair Cut,Ralina Pollicatt,1140,54,3,STYLE,100
+1176,1/29/2018,Stacie Klaiser,Blowdry + style,Ralina Pollicatt,1164,54,2,STYLE,50
+1177,1/29/2018,Courtenay Shyre,Shaving,Dayle Pfeffle,1114,56,6,STYLE,100
+1178,1/29/2018,Ramsay Thome,Shampoo,Ralina Pollicatt,1015,54,5,STYLE,100
+1179,1/30/2018,Elroy Evered,Hair Cut,June Pynn,1150,53,3,STYLE,100
+1180,1/30/2018,Cornelle Sodo,Hair Spa,Cristine Bosman,1143,51,4,STYLE,200
+1181,1/30/2018,Holden Ventum,Shampoo,Munroe Cumes,1112,55,5,STYLE,100
+1182,1/30/2018,Milt Underwood,Hair Cut,Cristine Bosman,1134,51,3,STYLE,100
+1183,1/30/2018,Claudelle Jarritt,Blowdry + style,Munroe Cumes,1083,55,2,STYLE,50
+1184,1/30/2018,Athena McClean,Blowdry + style,Munroe Cumes,1012,55,2,STYLE,50
+1185,1/31/2018,Pierce Hryskiewicz,Shaving,Munroe Cumes,1067,55,6,STYLE,100
+1186,1/31/2018,Alejandra Lapworth,Hair Cut,Ralina Pollicatt,1138,54,3,STYLE,100
+1187,02-01-2018,Gabbi Bagshaw,Shampoo,Munroe Cumes,1106,55,5,STYLE,100
+1188,02-01-2018,Hephzibah Orteu,Blowdry + style,Munroe Cumes,1035,55,2,STYLE,50
+1189,02-01-2018,Konstantin Carillo,Blowdry + style,Dayle Pfeffle,1063,56,2,STYLE,50
+1190,02-02-2018,Allan MacLeod,Hair Spa,Cristine Bosman,1011,51,4,STYLE,200
+1191,02-02-2018,Hephzibah Orteu,Hair Cut,Cloris Dudeney,1035,57,3,STYLE,100
+1192,02-04-2018,Vida Peddie,Hair Cut,Cristine Bosman,1153,51,3,STYLE,100
+1193,02-04-2018,Torie Soff,Blowdry + style,Cloris Dudeney,1137,57,2,STYLE,50
+1194,02-05-2018,Eb Levay,Hair Spa,Dayle Pfeffle,1092,56,4,STYLE,200
+1195,02-05-2018,Bevon De Carolis,Hair Spa,Ralina Pollicatt,1144,54,4,STYLE,200
+1196,02-06-2018,Laney Pontain,Hair Cut,Ralina Pollicatt,1124,54,3,STYLE,100
+1197,02-06-2018,Wheeler Human,Hair Spa,Cloris Dudeney,1058,57,4,STYLE,200
+1198,02-06-2018,Perry McClurg,Shampoo,Ralina Pollicatt,1163,54,5,STYLE,100
+1199,02-06-2018,Lura Stellino,Hair Spa,June Pynn,1025,53,4,STYLE,200
+1200,02-06-2018,Boycey Robart,Shampoo,Cloris Dudeney,1077,57,5,STYLE,100
+1201,02-07-2018,Patin Crowd,Shampoo,Jackie Leggate,1100,52,5,STYLE,100
+1202,02-07-2018,Sadella Fligg,Hair Cut,Cloris Dudeney,1155,57,3,STYLE,100
+1203,02-08-2018,Dori Killoran,Shaving,Cristine Bosman,1014,51,6,STYLE,100
+1204,02-08-2018,Lura Stellino,Hair Spa,Dayle Pfeffle,1025,56,4,STYLE,200
+1205,02-08-2018,Sibby De La Coste,Shampoo,Jackie Leggate,1082,52,5,STYLE,100
+1206,02-09-2018,Torie Soff,Hair Cut,Jackie Leggate,1137,52,3,STYLE,100
+1207,02-11-2018,Haleigh Mainland,Blowdry + style,Cristine Bosman,1151,51,2,STYLE,50
+1208,02-11-2018,Ara Maykin,Blowdry + style,Munroe Cumes,1161,55,2,STYLE,50
+1209,02-11-2018,Egon Waistell,Blowdry + style,Cloris Dudeney,1121,57,2,STYLE,50
+1210,02-11-2018,Shara Garey,Hair Spa,Cloris Dudeney,1004,57,4,STYLE,200
+1211,02-11-2018,Alexandro Wheatcroft,Shampoo,Dayle Pfeffle,1130,56,5,STYLE,100
+1212,02-11-2018,Elroy Evered,Hair Cut,Ralina Pollicatt,1150,54,3,STYLE,100
+1213,02-12-2018,Royce Bowater,Color full color,Cristine Bosman,1017,51,1,COLOR,200
+1214,02-12-2018,Gene Gommes,Blowdry + style,Ralina Pollicatt,1029,54,2,STYLE,50
+1215,02-12-2018,Allx Ogborn,Hair Spa,Cristine Bosman,1099,51,4,STYLE,200
+1216,2/13/2018,Sylvia Yersin,Hair Spa,Cristine Bosman,1168,51,4,STYLE,200
+1217,2/13/2018,Ramsay Thome,Blowdry + style,Cristine Bosman,1015,51,2,STYLE,50
+1218,2/13/2018,Susanetta Petzold,Hair Cut,Ralina Pollicatt,1001,54,3,STYLE,100
+1219,2/13/2018,Jarid Crut,Color full color,Ralina Pollicatt,1054,54,1,COLOR,200
+1220,2/14/2018,Trueman Eiler,Color full color,Ralina Pollicatt,1024,54,1,COLOR,200
+1221,2/15/2018,Walton Hulse,Hair Spa,June Pynn,1052,53,4,STYLE,200
+1222,2/15/2018,Meir Corbyn,Hair Spa,Cloris Dudeney,1047,57,4,STYLE,200
+1223,2/15/2018,Indira Vallentin,Blowdry + style,Cloris Dudeney,1073,57,2,STYLE,50
+1224,2/15/2018,Mei Vidler,Color full color,June Pynn,1156,53,1,COLOR,200
+1225,2/16/2018,Josi Masser,Hair Cut,Dayle Pfeffle,1048,56,3,STYLE,100
+1226,2/16/2018,Gabriell Ballham,Color full color,Cloris Dudeney,1070,57,1,COLOR,200
+1227,2/17/2018,Gerta Willmetts,Shampoo,June Pynn,1158,53,5,STYLE,100
+1228,2/19/2018,Web Addionisio,Hair Cut,Cristine Bosman,1027,51,3,STYLE,100
+1229,2/19/2018,Kahaleel Roseaman,Color full color,Cloris Dudeney,1061,57,1,COLOR,200
+1230,2/20/2018,Tobe Elstub,Shaving,Munroe Cumes,1007,55,6,STYLE,100
+1231,2/20/2018,Aleece O'Fergus,Hair Cut,Munroe Cumes,1020,55,3,STYLE,100
+1232,2/20/2018,Marty Creighton,Hair Spa,Cloris Dudeney,1028,57,4,STYLE,200
+1233,2/20/2018,Belle Parley,Hair Cut,Cloris Dudeney,1041,57,3,STYLE,100
+1234,2/21/2018,Toby Shiliton,Shampoo,Ralina Pollicatt,1062,54,5,STYLE,100
+1235,2/21/2018,Benjy Bewley,Color full color,Jackie Leggate,1068,52,1,COLOR,200
+1236,2/21/2018,Daffy Fleischmann,Color full color,Jackie Leggate,1066,52,1,COLOR,200
+1237,2/21/2018,Sayer McClay,Hair Spa,Cloris Dudeney,1019,57,4,STYLE,200
+1238,2/22/2018,Rosabelle Merrifield,Color full color,June Pynn,1034,53,1,COLOR,200
+1239,2/22/2018,Oby Downey,Blowdry + style,Cloris Dudeney,1107,57,2,STYLE,50
+1240,2/22/2018,Sadella Fligg,Hair Cut,Cloris Dudeney,1155,57,3,STYLE,100
+1241,2/23/2018,Trace Larenson,Color full color,Cloris Dudeney,1026,57,1,COLOR,200
+1242,2/23/2018,Nonah Pavinese,Hair Spa,Ralina Pollicatt,1104,54,4,STYLE,200
+1243,2/23/2018,Rubie Kremer,Shaving,Dayle Pfeffle,1160,56,6,STYLE,100
+1244,2/23/2018,Oby Downey,Shaving,Ralina Pollicatt,1107,54,6,STYLE,100
+1245,2/24/2018,King Harsent,Shaving,Cloris Dudeney,1157,57,6,STYLE,100
+1246,2/24/2018,Walton Hulse,Blowdry + style,Cristine Bosman,1052,51,2,STYLE,50
+1247,2/24/2018,Tommi Minett,Shaving,Dayle Pfeffle,1087,56,6,STYLE,100
+1248,2/24/2018,Gilburt Marchment,Hair Cut,Munroe Cumes,1091,55,3,STYLE,100
+1249,2/24/2018,Belle Parley,Hair Spa,Dayle Pfeffle,1041,56,4,STYLE,200
+1250,2/24/2018,Diandra Eatherton,Shampoo,Jackie Leggate,1046,52,5,STYLE,100
+1251,2/25/2018,Athena McClean,Color full color,Jackie Leggate,1012,52,1,COLOR,200
+1252,2/25/2018,Claudelle Jarritt,Shampoo,June Pynn,1083,53,5,STYLE,100
+1253,2/25/2018,Hephzibah Orteu,Shampoo,Cristine Bosman,1035,51,5,STYLE,100
+1254,2/25/2018,Kienan O'Dwyer,Shampoo,Cloris Dudeney,1132,57,5,STYLE,100
+1255,2/25/2018,Marty Creighton,Hair Cut,Dayle Pfeffle,1028,56,3,STYLE,100
+1256,2/26/2018,Gregor Tolley,Blowdry + style,Cloris Dudeney,1039,57,2,STYLE,50
+1257,2/26/2018,Drusy Saurat,Shaving,Ralina Pollicatt,1118,54,6,STYLE,100
+1258,2/26/2018,Perry McClurg,Shampoo,Dayle Pfeffle,1163,56,5,STYLE,100
+1259,2/27/2018,Aleece O'Fergus,Hair Cut,Dayle Pfeffle,1020,56,3,STYLE,100
+1260,2/27/2018,Sigvard Sheahan,Blowdry + style,Jackie Leggate,1126,52,2,STYLE,50
+1261,2/28/2018,Winn Dongles,Hair Cut,Dayle Pfeffle,1152,56,3,STYLE,100
+1262,2/28/2018,Ara Maykin,Color full color,Munroe Cumes,1161,55,1,COLOR,200
+1263,2/28/2018,Susanetta Petzold,Color full color,Jackie Leggate,1001,52,1,COLOR,200
+1264,2/28/2018,Benton Isacq,Color full color,Ralina Pollicatt,1002,54,1,COLOR,200
+1265,03-01-2018,Hinda Duddell,Hair Spa,Munroe Cumes,1115,55,4,STYLE,200
+1266,03-01-2018,Charo Jermey,Shampoo,June Pynn,1128,53,5,STYLE,100
+1267,03-01-2018,Sadella Fligg,Shampoo,Cristine Bosman,1155,51,5,STYLE,100
+1268,03-01-2018,Daffy Fleischmann,Shaving,Dayle Pfeffle,1066,56,6,STYLE,100
+1269,03-02-2018,Lari Swayland,Shampoo,Munroe Cumes,1081,55,5,STYLE,100
+1270,03-02-2018,Dale Jonk,Hair Spa,Dayle Pfeffle,1079,56,4,STYLE,200
+1271,03-03-2018,Alexandro Wheatcroft,Hair Spa,June Pynn,1130,53,4,STYLE,200
+1272,03-03-2018,Josi Masser,Shampoo,Cristine Bosman,1048,51,5,STYLE,100
+1273,03-03-2018,Feliza Salt,Hair Spa,Munroe Cumes,1159,55,4,STYLE,200
+1274,03-03-2018,Audrie Quickfall,Shaving,Cristine Bosman,1169,51,6,STYLE,100
+1275,03-05-2018,Florella Van den Broek,Blowdry + style,June Pynn,1023,53,2,STYLE,50
+1276,03-05-2018,Sharline Pawlicki,Color full color,Jackie Leggate,1059,52,1,COLOR,200
+1277,03-05-2018,Shara Garey,Hair Spa,Cristine Bosman,1004,51,4,STYLE,200
+1278,03-06-2018,Allx Ogborn,Blowdry + style,Jackie Leggate,1099,52,2,STYLE,50
+1279,03-06-2018,Tommi Minett,Hair Spa,Dayle Pfeffle,1087,56,4,STYLE,200
+1280,03-06-2018,Charo Jermey,Color full color,Dayle Pfeffle,1128,56,1,COLOR,200
+1281,03-06-2018,Francine Kunkler,Shampoo,Dayle Pfeffle,1089,56,5,STYLE,100
+1282,03-06-2018,Trueman Eiler,Shaving,Cloris Dudeney,1024,57,6,STYLE,100
+1283,03-06-2018,Susanetta Petzold,Blowdry + style,Munroe Cumes,1001,55,2,STYLE,50
+1284,03-06-2018,Sharline Pawlicki,Hair Spa,Cristine Bosman,1059,51,4,STYLE,200
+1285,03-08-2018,Sindee Chevins,Shampoo,Ralina Pollicatt,1127,54,5,STYLE,100
+1286,03-08-2018,Andras Sterre,Shaving,Jackie Leggate,1049,52,6,STYLE,100
+1287,03-09-2018,Suki Ebbers,Hair Cut,Cloris Dudeney,1021,57,3,STYLE,100
+1288,03-09-2018,Gene Gommes,Shaving,Cristine Bosman,1029,51,6,STYLE,100
+1289,03-09-2018,Lotty Danbye,Shaving,Dayle Pfeffle,1119,56,6,STYLE,100
+1290,03-09-2018,Eb Levay,Shaving,June Pynn,1092,53,6,STYLE,100
+1291,03-09-2018,Wheeler Human,Shampoo,June Pynn,1058,53,5,STYLE,100
+1292,03-10-2018,Elroy Evered,Shampoo,June Pynn,1150,53,5,STYLE,100
+1293,03-10-2018,Lurlene Cristofvao,Shaving,Munroe Cumes,1005,55,6,STYLE,100
+1294,03-11-2018,Mab Limb,Hair Spa,June Pynn,1113,53,4,STYLE,200
+1295,03-11-2018,Gerta Willmetts,Hair Spa,Cristine Bosman,1158,51,4,STYLE,200
+1296,03-11-2018,Hephzibah Orteu,Hair Cut,Ralina Pollicatt,1035,54,3,STYLE,100
+1297,03-11-2018,King Harsent,Color full color,June Pynn,1157,53,1,COLOR,200
+1298,03-12-2018,Susanetta Petzold,Color full color,Cristine Bosman,1001,51,1,COLOR,200
+1299,03-12-2018,Tommi Minett,Shaving,Dayle Pfeffle,1087,56,6,STYLE,100
+1300,03-12-2018,Aleece O'Fergus,Hair Cut,June Pynn,1020,53,3,STYLE,100
+1301,03-12-2018,Sibby De La Coste,Hair Cut,June Pynn,1082,53,3,STYLE,100
+1302,3/13/2018,Dale Jonk,Shampoo,Jackie Leggate,1079,52,5,STYLE,100
+1303,3/13/2018,Umberto Gotecliffe,Hair Spa,Ralina Pollicatt,1147,54,4,STYLE,200
+1304,3/14/2018,Heddie Chatainier,Shampoo,June Pynn,1038,53,5,STYLE,100
+1305,3/14/2018,Cornelle Sodo,Shaving,Jackie Leggate,1143,52,6,STYLE,100
+1306,3/14/2018,Sylvia Yersin,Blowdry + style,Cristine Bosman,1168,51,2,STYLE,50
+1307,3/15/2018,Sylvia Yersin,Shampoo,Munroe Cumes,1168,55,5,STYLE,100
+1308,3/15/2018,Gabriell Ballham,Hair Spa,Jackie Leggate,1070,52,4,STYLE,200
+1309,3/15/2018,Angy Verdy,Color full color,Cloris Dudeney,1135,57,1,COLOR,200
+1310,3/15/2018,Lura Stellino,Shampoo,Dayle Pfeffle,1025,56,5,STYLE,100
+1311,3/15/2018,Alisun Mityashin,Color full color,Cloris Dudeney,1055,57,1,COLOR,200
+1312,3/16/2018,Byrle Rushman,Color full color,Jackie Leggate,1108,52,1,COLOR,200
+1313,3/16/2018,Rubie Kremer,Color full color,Munroe Cumes,1160,55,1,COLOR,200
+1314,3/17/2018,Alisun Mityashin,Hair Cut,June Pynn,1055,53,3,STYLE,100
+1315,3/17/2018,Cos Maryan,Blowdry + style,Ralina Pollicatt,1031,54,2,STYLE,50
+1316,3/17/2018,Umberto Gotecliffe,Hair Spa,June Pynn,1147,53,4,STYLE,200
+1317,3/17/2018,Gabbi Bagshaw,Shampoo,Jackie Leggate,1106,52,5,STYLE,100
+1318,3/17/2018,Meir Corbyn,Hair Cut,Ralina Pollicatt,1047,54,3,STYLE,100
+1319,3/19/2018,Dale Jonk,Shaving,June Pynn,1079,53,6,STYLE,100
+1320,3/19/2018,Jenilee Chaves,Shampoo,Jackie Leggate,1010,52,5,STYLE,100
+1321,3/20/2018,Jenilee Chaves,Blowdry + style,Munroe Cumes,1010,55,2,STYLE,50
+1322,3/20/2018,Daffy Fleischmann,Shaving,Jackie Leggate,1066,52,6,STYLE,100
+1323,3/21/2018,Haleigh Mainland,Shampoo,June Pynn,1151,53,5,STYLE,100
+1324,3/22/2018,Ara Maykin,Color full color,Ralina Pollicatt,1161,54,1,COLOR,200
+1325,3/22/2018,Egon Waistell,Color full color,Munroe Cumes,1121,55,1,COLOR,200
+1326,3/22/2018,Domini Kintish,Blowdry + style,Ralina Pollicatt,1056,54,2,STYLE,50
+1327,3/23/2018,Hinda Duddell,Hair Cut,Dayle Pfeffle,1115,56,3,STYLE,100
+1328,3/23/2018,Gaelan Siddle,Blowdry + style,June Pynn,1009,53,2,STYLE,50
+1329,3/23/2018,King Harsent,Hair Cut,Dayle Pfeffle,1157,56,3,STYLE,100
+1330,3/23/2018,Hi Gregori,Hair Cut,Dayle Pfeffle,1069,56,3,STYLE,100
+1331,3/23/2018,Mari Clifford,Shaving,Cloris Dudeney,1101,57,6,STYLE,100
+1332,3/23/2018,Courtenay Shyre,Hair Spa,June Pynn,1114,53,4,STYLE,200
+1333,3/24/2018,Stacie Klaiser,Shampoo,Ralina Pollicatt,1164,54,5,STYLE,100
+1334,3/24/2018,Don Giorio,Shampoo,Cristine Bosman,1167,51,5,STYLE,100
+1335,3/24/2018,Domini Kintish,Shampoo,June Pynn,1056,53,5,STYLE,100
+1336,3/24/2018,Claudelle Jarritt,Hair Cut,Dayle Pfeffle,1083,56,3,STYLE,100
+1337,3/24/2018,Eward Jilkes,Hair Cut,Cristine Bosman,1013,51,3,STYLE,100
+1338,3/25/2018,Umberto Gotecliffe,Blowdry + style,Jackie Leggate,1147,52,2,STYLE,50
+1339,3/25/2018,Susanetta Petzold,Hair Spa,Ralina Pollicatt,1001,54,4,STYLE,200
+1340,3/25/2018,Wheeler Human,Color full color,Munroe Cumes,1058,55,1,COLOR,200
+1341,3/25/2018,Perry McClurg,Color full color,Jackie Leggate,1163,52,1,COLOR,200
+1342,3/25/2018,Sadella Fligg,Hair Spa,Cristine Bosman,1155,51,4,STYLE,200
+1343,3/25/2018,Tobe Elstub,Color full color,June Pynn,1007,53,1,COLOR,200
+1344,3/26/2018,Benjy Bewley,Shaving,Cloris Dudeney,1068,57,6,STYLE,100
+1345,3/26/2018,Tommi Minett,Shampoo,Cristine Bosman,1087,51,5,STYLE,100
+1346,3/27/2018,Rollins Cosely,Blowdry + style,Dayle Pfeffle,1129,56,2,STYLE,50
+1347,3/27/2018,Bucky Kealey,Shampoo,June Pynn,1042,53,5,STYLE,100
+1348,3/27/2018,Annadiane Tattersdill,Blowdry + style,Dayle Pfeffle,1093,56,2,STYLE,50
+1349,3/28/2018,Benton Isacq,Shaving,Dayle Pfeffle,1002,56,6,STYLE,100
+1350,3/28/2018,Rollins Cosely,Color full color,Jackie Leggate,1129,52,1,COLOR,200
+1351,3/29/2018,Dori Killoran,Color full color,Dayle Pfeffle,1014,56,1,COLOR,200
+1352,3/29/2018,Sindee Chevins,Blowdry + style,June Pynn,1127,53,2,STYLE,50
+1353,3/29/2018,Gene Gommes,Blowdry + style,Cloris Dudeney,1029,57,2,STYLE,50
+1354,3/30/2018,Adamo Prudence,Blowdry + style,Ralina Pollicatt,1085,54,2,STYLE,50
+1355,3/30/2018,Marne Simanek,Color full color,Ralina Pollicatt,1053,54,1,COLOR,200
+1356,3/30/2018,Lura Stellino,Hair Spa,Munroe Cumes,1025,55,4,STYLE,200
+1357,3/30/2018,Perry McClurg,Hair Cut,Munroe Cumes,1163,55,3,STYLE,100
+1358,3/30/2018,Web Addionisio,Hair Cut,Jackie Leggate,1027,52,3,STYLE,100
+1359,3/30/2018,Natala Hammatt,Shampoo,Munroe Cumes,1090,55,5,STYLE,100
+1360,3/31/2018,Quint Flear,Blowdry + style,Jackie Leggate,1050,52,2,STYLE,50
+1361,3/31/2018,Enrichetta Sircomb,Color full color,Ralina Pollicatt,1105,54,1,COLOR,200
+1362,3/31/2018,Egon Waistell,Shaving,Munroe Cumes,1121,55,6,STYLE,100
+1363,3/31/2018,Domini Kintish,Color full color,Ralina Pollicatt,1056,54,1,COLOR,200
+1364,04-01-2018,Oby Downey,Hair Spa,June Pynn,1107,53,4,STYLE,200
+1365,04-01-2018,Andras Sterre,Hair Spa,June Pynn,1049,53,4,STYLE,200
+1366,04-01-2018,Dale Jonk,Shampoo,June Pynn,1079,53,5,STYLE,100
+1367,04-01-2018,Laney Pontain,Shaving,Jackie Leggate,1124,52,6,STYLE,100
+1368,04-02-2018,Isiahi Fowgies,Shampoo,Cloris Dudeney,1125,57,5,STYLE,100
+1369,04-02-2018,Eward Jilkes,Color full color,Dayle Pfeffle,1013,56,1,COLOR,200
+1370,04-03-2018,Daffy Fleischmann,Blowdry + style,Munroe Cumes,1066,55,2,STYLE,50
+1371,04-03-2018,Kienan O'Dwyer,Blowdry + style,Dayle Pfeffle,1132,56,2,STYLE,50
+1372,04-03-2018,Gusta Guichard,Blowdry + style,Munroe Cumes,1109,55,2,STYLE,50
+1373,04-04-2018,Starlene Rubinshtein,Blowdry + style,Jackie Leggate,1040,52,2,STYLE,50
+1374,04-04-2018,Hephzibah Orteu,Hair Spa,Dayle Pfeffle,1035,56,4,STYLE,200
+1375,04-05-2018,Mitchell Dockwra,Blowdry + style,Ralina Pollicatt,1141,54,2,STYLE,50
+1376,04-06-2018,Ezra Dudman,Hair Cut,Cristine Bosman,1103,51,3,STYLE,100
+1377,04-07-2018,Audrie Quickfall,Hair Spa,Ralina Pollicatt,1169,54,4,STYLE,200
+1378,04-07-2018,Conny Matveichev,Shampoo,Dayle Pfeffle,1016,56,5,STYLE,100
+1379,04-08-2018,Elroy Evered,Color full color,June Pynn,1150,53,1,COLOR,200
+1380,04-08-2018,Patin Crowd,Hair Cut,Ralina Pollicatt,1100,54,3,STYLE,100
+1381,04-08-2018,Andras Sterre,Shaving,Cloris Dudeney,1049,57,6,STYLE,100
+1382,04-08-2018,Ken Simonot,Hair Cut,Jackie Leggate,1075,52,3,STYLE,100
+1383,04-08-2018,Tobe Elstub,Color full color,Jackie Leggate,1007,52,1,COLOR,200
+1384,04-09-2018,Domini Kintish,Hair Spa,Ralina Pollicatt,1056,54,4,STYLE,200
+1385,04-09-2018,Zenia McKie,Hair Cut,Cristine Bosman,1095,51,3,STYLE,100
+1386,04-09-2018,Arleta Corss,Hair Spa,Cristine Bosman,1170,51,4,STYLE,200
+1387,04-10-2018,Gabie Smalls,Blowdry + style,Ralina Pollicatt,1086,54,2,STYLE,50
+1388,04-10-2018,Gene Gommes,Shampoo,Cloris Dudeney,1029,57,5,STYLE,100
+1389,04-10-2018,Sylvia Yersin,Shaving,Munroe Cumes,1168,55,6,STYLE,100
+1390,04-10-2018,Claudelle Jarritt,Color full color,Cloris Dudeney,1083,57,1,COLOR,200
+1391,04-11-2018,Gene Gommes,Shaving,Jackie Leggate,1029,52,6,STYLE,100
+1392,04-11-2018,Josefa Gwinnell,Hair Spa,Jackie Leggate,1102,52,4,STYLE,200
+1393,04-11-2018,Aleksandr Branford,Blowdry + style,Jackie Leggate,1022,52,2,STYLE,50
+1394,04-11-2018,Josi Masser,Hair Spa,Cristine Bosman,1048,51,4,STYLE,200
+1395,04-12-2018,Jarid Crut,Shampoo,Cloris Dudeney,1054,57,5,STYLE,100
+1396,04-12-2018,Alisun Mityashin,Shampoo,Cristine Bosman,1055,51,5,STYLE,100
+1397,4/13/2018,Leanor McAuslene,Hair Cut,Ralina Pollicatt,1080,54,3,STYLE,100
+1398,4/13/2018,Bevon De Carolis,Shaving,Munroe Cumes,1144,55,6,STYLE,100
+1399,4/13/2018,Byrle Rushman,Hair Spa,Munroe Cumes,1108,55,4,STYLE,200
+1400,4/13/2018,Hinda Duddell,Hair Cut,June Pynn,1115,53,3,STYLE,100
+1401,4/14/2018,Leanor McAuslene,Shaving,Cloris Dudeney,1080,57,6,STYLE,100
+1402,4/14/2018,Josefa Gwinnell,Hair Cut,Dayle Pfeffle,1102,56,3,STYLE,100
+1403,4/15/2018,Alejandra Lapworth,Blowdry + style,Ralina Pollicatt,1138,54,2,STYLE,50
+1404,4/15/2018,Web Addionisio,Hair Cut,Cloris Dudeney,1027,57,3,STYLE,100
+1405,4/15/2018,Claudelle Jarritt,Hair Cut,Cloris Dudeney,1083,57,3,STYLE,100
+1406,4/15/2018,Marla Ainley,Hair Spa,Dayle Pfeffle,1146,56,4,STYLE,200
+1407,4/17/2018,Jenilee Chaves,Shaving,Cristine Bosman,1010,51,6,STYLE,100
+1408,4/17/2018,Aleksandr Branford,Hair Spa,Cristine Bosman,1022,51,4,STYLE,200
+1409,4/17/2018,Tammi Covolini,Blowdry + style,Ralina Pollicatt,1060,54,2,STYLE,50
+1410,4/17/2018,Josi Masser,Shaving,Ralina Pollicatt,1048,54,6,STYLE,100
+1411,4/17/2018,Vida Peddie,Hair Cut,June Pynn,1153,53,3,STYLE,100
+1412,4/18/2018,Stacie Klaiser,Shaving,Dayle Pfeffle,1164,56,6,STYLE,100
+1413,4/19/2018,King Harsent,Color full color,Ralina Pollicatt,1157,54,1,COLOR,200
+1414,4/19/2018,Egon Waistell,Shampoo,Munroe Cumes,1121,55,5,STYLE,100
+1415,4/19/2018,Angy Verdy,Hair Cut,Jackie Leggate,1135,52,3,STYLE,100
+1416,4/20/2018,Francine Kunkler,Blowdry + style,Ralina Pollicatt,1089,54,2,STYLE,50
+1417,4/20/2018,Daffy Fleischmann,Color full color,Cloris Dudeney,1066,57,1,COLOR,200
+1418,4/20/2018,Nonah Pavinese,Blowdry + style,Dayle Pfeffle,1104,56,2,STYLE,50
+1419,4/20/2018,Andriana Rieme,Color full color,Dayle Pfeffle,1006,56,1,COLOR,200
+1420,4/21/2018,King Harsent,Color full color,Ralina Pollicatt,1157,54,1,COLOR,200
+1421,4/21/2018,Lari Swayland,Hair Cut,Dayle Pfeffle,1081,56,3,STYLE,100
+1422,4/22/2018,Aleece O'Fergus,Color full color,Jackie Leggate,1020,52,1,COLOR,200
+1423,4/22/2018,Oby Downey,Hair Cut,Cloris Dudeney,1107,57,3,STYLE,100
+1424,4/22/2018,Lura Stellino,Hair Cut,Cristine Bosman,1025,51,3,STYLE,100
+1425,4/23/2018,Allx Ogborn,Shaving,Cloris Dudeney,1099,57,6,STYLE,100
+1426,4/23/2018,Audrie Quickfall,Shaving,Dayle Pfeffle,1169,56,6,STYLE,100
+1427,4/23/2018,Rubie Kremer,Blowdry + style,Jackie Leggate,1160,52,2,STYLE,50
+1428,4/24/2018,Gene Gommes,Hair Cut,Dayle Pfeffle,1029,56,3,STYLE,100
+1429,4/24/2018,Nonah Pavinese,Shaving,Cristine Bosman,1104,51,6,STYLE,100
+1430,4/24/2018,Zenia McKie,Color full color,Munroe Cumes,1095,55,1,COLOR,200
+1431,4/25/2018,Byrle Rushman,Blowdry + style,Jackie Leggate,1108,52,2,STYLE,50
+1432,4/25/2018,Ezra Dudman,Shaving,Cristine Bosman,1103,51,6,STYLE,100
+1433,4/26/2018,Ewen McCaskell,Hair Spa,Munroe Cumes,1018,55,4,STYLE,200
+1434,4/26/2018,Patin Crowd,Shampoo,Cloris Dudeney,1100,57,5,STYLE,100
+1435,4/27/2018,Trace Larenson,Hair Cut,Jackie Leggate,1026,52,3,STYLE,100
+1436,4/27/2018,Pyotr Lorait,Color full color,Ralina Pollicatt,1003,54,1,COLOR,200
+1437,4/27/2018,Konstantin Carillo,Shaving,Munroe Cumes,1063,55,6,STYLE,100
+1438,4/27/2018,Ezra Dudman,Color full color,Cloris Dudeney,1103,57,1,COLOR,200
+1439,4/27/2018,Feliza Salt,Hair Spa,Cristine Bosman,1159,51,4,STYLE,200
+1440,4/28/2018,Sindee Chevins,Color full color,Jackie Leggate,1127,52,1,COLOR,200
+1441,4/28/2018,Perry McClurg,Hair Cut,Ralina Pollicatt,1163,54,3,STYLE,100
+1442,4/29/2018,Egon Waistell,Hair Cut,Cristine Bosman,1121,51,3,STYLE,100
+1443,4/29/2018,Lari Swayland,Hair Spa,Cristine Bosman,1081,51,4,STYLE,200
+1444,4/29/2018,Sharline Pawlicki,Shaving,Munroe Cumes,1059,55,6,STYLE,100
+1445,4/30/2018,Hephzibah Orteu,Color full color,Dayle Pfeffle,1035,56,1,COLOR,200
+1446,05-01-2018,Nathanael Grigoliis,Hair Cut,Jackie Leggate,1136,52,3,STYLE,100
+1447,05-01-2018,Laney Pontain,Color full color,Ralina Pollicatt,1124,54,1,COLOR,200
+1448,05-01-2018,Ted Boshere,Hair Spa,Cristine Bosman,1064,51,4,STYLE,200
+1449,05-01-2018,Starlene Rubinshtein,Shampoo,Dayle Pfeffle,1040,56,5,STYLE,100
+1450,05-02-2018,Isiahi Fowgies,Shampoo,Jackie Leggate,1125,52,5,STYLE,100
+1451,05-02-2018,Florella Van den Broek,Color full color,Jackie Leggate,1023,52,1,COLOR,200
+1452,05-02-2018,Mei Vidler,Hair Cut,Ralina Pollicatt,1156,54,3,STYLE,100
+1453,05-03-2018,Ken Simonot,Color full color,Ralina Pollicatt,1075,54,1,COLOR,200
+1454,05-03-2018,Annadiane Tattersdill,Shampoo,Ralina Pollicatt,1093,54,5,STYLE,100
+1455,05-04-2018,Tobe Elstub,Hair Spa,Dayle Pfeffle,1007,56,4,STYLE,200
+1456,05-05-2018,Starlene Rubinshtein,Shaving,Cloris Dudeney,1040,57,6,STYLE,100
+1457,05-05-2018,Jenilee Chaves,Shaving,Munroe Cumes,1010,55,6,STYLE,100
+1458,05-06-2018,Bucky Kealey,Blowdry + style,June Pynn,1042,53,2,STYLE,50
+1459,05-06-2018,Toby Shiliton,Blowdry + style,Ralina Pollicatt,1062,54,2,STYLE,50
+1460,05-06-2018,Florella Van den Broek,Hair Cut,Cristine Bosman,1023,51,3,STYLE,100
+1461,05-07-2018,Gabriell Ballham,Hair Cut,Jackie Leggate,1070,52,3,STYLE,100
+1462,05-07-2018,Marty Creighton,Hair Spa,Dayle Pfeffle,1028,56,4,STYLE,200
+1463,05-08-2018,Nani Gravey,Color full color,Munroe Cumes,1094,55,1,COLOR,200
+1464,05-08-2018,Allx Ogborn,Blowdry + style,Cristine Bosman,1099,51,2,STYLE,50
+1465,05-08-2018,Claudelle Jarritt,Blowdry + style,Dayle Pfeffle,1083,56,2,STYLE,50
+1466,05-08-2018,Sigvard Sheahan,Shampoo,Cloris Dudeney,1126,57,5,STYLE,100
+1467,05-08-2018,Carol-jean Blacker,Color full color,June Pynn,1057,53,1,COLOR,200
+1468,05-08-2018,Hinda Duddell,Shampoo,Cloris Dudeney,1115,57,5,STYLE,100
+1469,05-09-2018,Ewen McCaskell,Hair Spa,June Pynn,1018,53,4,STYLE,200
+1470,05-09-2018,Aleece O'Fergus,Blowdry + style,Dayle Pfeffle,1020,56,2,STYLE,50
+1471,05-09-2018,Indira Vallentin,Hair Cut,Munroe Cumes,1073,55,3,STYLE,100
+1472,05-09-2018,Bobinette Boothe,Shaving,Ralina Pollicatt,1088,54,6,STYLE,100
+1473,05-10-2018,Gregor Tolley,Blowdry + style,June Pynn,1039,53,2,STYLE,50
+1474,05-11-2018,Ramsay Thome,Shaving,Ralina Pollicatt,1015,54,6,STYLE,100
+1475,05-11-2018,Alexandro Wheatcroft,Hair Cut,Dayle Pfeffle,1130,56,3,STYLE,100
+1476,05-12-2018,Robinett Dawidsohn,Blowdry + style,Ralina Pollicatt,1072,54,2,STYLE,50
+1477,05-12-2018,Calhoun Cutteridge,Shaving,Cristine Bosman,1110,51,6,STYLE,100
+1478,05-12-2018,Sayer McClay,Blowdry + style,Cristine Bosman,1019,51,2,STYLE,50
+1479,5/14/2018,Holden Ventum,Hair Cut,Munroe Cumes,1112,55,3,STYLE,100
+1480,5/14/2018,Rex Sturdgess,Blowdry + style,Ralina Pollicatt,1033,54,2,STYLE,50
+1481,5/14/2018,Walliw Monelli,Hair Cut,Cristine Bosman,1111,51,3,STYLE,100
+1482,5/15/2018,Bevon De Carolis,Blowdry + style,Jackie Leggate,1144,52,2,STYLE,50
+1483,5/15/2018,Heddie Chatainier,Shaving,Cloris Dudeney,1038,57,6,STYLE,100
+1484,5/15/2018,Eward Jilkes,Shampoo,Ralina Pollicatt,1013,54,5,STYLE,100
+1485,5/15/2018,Susanetta Petzold,Hair Spa,Dayle Pfeffle,1001,56,4,STYLE,200
+1486,5/16/2018,Daffy Fleischmann,Shaving,Munroe Cumes,1066,55,6,STYLE,100
+1487,5/17/2018,Drusy Saurat,Hair Cut,Cristine Bosman,1118,51,3,STYLE,100
+1488,5/17/2018,Annadiane Tattersdill,Shaving,Ralina Pollicatt,1093,54,6,STYLE,100
+1489,5/18/2018,Archibold Woltering,Shampoo,June Pynn,1145,53,5,STYLE,100
+1490,5/19/2018,Domini Kintish,Shaving,Jackie Leggate,1056,52,6,STYLE,100
+1491,5/19/2018,Kahaleel Roseaman,Shampoo,June Pynn,1061,53,5,STYLE,100
+1492,5/20/2018,Haleigh Mainland,Hair Spa,Dayle Pfeffle,1151,56,4,STYLE,200
+1493,5/20/2018,Klement Arnaudot,Hair Cut,Munroe Cumes,1043,55,3,STYLE,100
+1494,5/20/2018,Boycey Robart,Blowdry + style,Cristine Bosman,1077,51,2,STYLE,50
+1495,5/20/2018,Drusy Saurat,Hair Cut,Dayle Pfeffle,1118,56,3,STYLE,100
+1496,5/21/2018,Sigvard Sheahan,Shaving,Jackie Leggate,1126,52,6,STYLE,100
+1497,5/21/2018,Hinda Duddell,Color full color,Ralina Pollicatt,1115,54,1,COLOR,200
+1498,5/22/2018,Meir Corbyn,Shampoo,Cloris Dudeney,1047,57,5,STYLE,100
+1499,5/22/2018,Allx Ogborn,Color full color,Ralina Pollicatt,1099,54,1,COLOR,200
+1500,5/22/2018,Klement Arnaudot,Shampoo,Cloris Dudeney,1043,57,5,STYLE,100
+1501,5/23/2018,King Harsent,Color full color,Cloris Dudeney,1157,57,1,COLOR,200
+1502,5/23/2018,Ebony Izkovicz,Hair Spa,Cristine Bosman,1008,51,4,STYLE,200
+1503,5/23/2018,Indira Vallentin,Hair Cut,June Pynn,1073,53,3,STYLE,100
+1504,5/23/2018,Belle Parley,Shampoo,Jackie Leggate,1041,52,5,STYLE,100
+1505,5/23/2018,Andriana Rieme,Hair Cut,Ralina Pollicatt,1006,54,3,STYLE,100
+1506,5/23/2018,Bevon De Carolis,Shampoo,Dayle Pfeffle,1144,56,5,STYLE,100
+1507,5/24/2018,Anton Mulcock,Hair Spa,Dayle Pfeffle,1142,56,4,STYLE,200
+1508,5/24/2018,Pavia Maynard,Shampoo,Jackie Leggate,1166,52,5,STYLE,100
+1509,5/24/2018,Walliw Monelli,Hair Spa,Cloris Dudeney,1111,57,4,STYLE,200
+1510,5/24/2018,Gilburt Marchment,Shaving,Munroe Cumes,1091,55,6,STYLE,100
+1511,5/24/2018,Allan MacLeod,Hair Cut,June Pynn,1011,53,3,STYLE,100
+1512,5/24/2018,Bucky Kealey,Color full color,Cloris Dudeney,1042,57,1,COLOR,200
+1513,5/25/2018,Sarette Graser,Blowdry + style,Ralina Pollicatt,1131,54,2,STYLE,50
+1514,5/25/2018,Bucky Kealey,Hair Spa,Cristine Bosman,1042,51,4,STYLE,200
+1515,5/25/2018,Annadiane Tattersdill,Shaving,Cloris Dudeney,1093,57,6,STYLE,100
+1516,5/26/2018,Diandra Eatherton,Shaving,Cloris Dudeney,1046,57,6,STYLE,100
+1517,5/27/2018,Conny Matveichev,Color full color,Munroe Cumes,1016,55,1,COLOR,200
+1518,5/28/2018,Mei Vidler,Shaving,Dayle Pfeffle,1156,56,6,STYLE,100
+1519,5/28/2018,Pavia Maynard,Shampoo,Cloris Dudeney,1166,57,5,STYLE,100
+1520,5/28/2018,Athena McClean,Shaving,Jackie Leggate,1012,52,6,STYLE,100
+1521,5/28/2018,Kahaleel Roseaman,Shampoo,Cloris Dudeney,1061,57,5,STYLE,100
+1522,5/29/2018,Gabriell Ballham,Shaving,Dayle Pfeffle,1070,56,6,STYLE,100
+1523,5/29/2018,Don Giorio,Hair Cut,Munroe Cumes,1167,55,3,STYLE,100
+1524,5/29/2018,Gerta Willmetts,Hair Spa,Dayle Pfeffle,1158,56,4,STYLE,200
+1525,5/29/2018,Ara Maykin,Hair Cut,Ralina Pollicatt,1161,54,3,STYLE,100
+1526,5/29/2018,Sylvia Yersin,Shaving,Cristine Bosman,1168,51,6,STYLE,100
+1527,5/30/2018,Walliw Monelli,Color full color,Cloris Dudeney,1111,57,1,COLOR,200
+1528,5/31/2018,Benton Isacq,Color full color,Cloris Dudeney,1002,57,1,COLOR,200
+1529,06-01-2018,Anton Mulcock,Color full color,Cloris Dudeney,1142,57,1,COLOR,200
+1530,06-01-2018,Archibold Woltering,Blowdry + style,Munroe Cumes,1145,55,2,STYLE,50
+1531,06-01-2018,Gaelan Siddle,Blowdry + style,Dayle Pfeffle,1009,56,2,STYLE,50
+1532,06-01-2018,Feliza Salt,Blowdry + style,Cloris Dudeney,1159,57,2,STYLE,50
+1533,06-02-2018,Ted Boshere,Hair Spa,Cristine Bosman,1064,51,4,STYLE,200
+1534,06-02-2018,Shara Garey,Blowdry + style,Ralina Pollicatt,1004,54,2,STYLE,50
+1535,06-02-2018,Sylvia Yersin,Blowdry + style,Ralina Pollicatt,1168,54,2,STYLE,50
+1536,06-03-2018,Ezra Dudman,Hair Spa,Cloris Dudeney,1103,57,4,STYLE,200
+1537,06-03-2018,Suki Ebbers,Shaving,Munroe Cumes,1021,55,6,STYLE,100
+1538,06-04-2018,Ulrica Petti,Shampoo,Jackie Leggate,1123,52,5,STYLE,100
+1539,06-04-2018,Marla Ainley,Color full color,Dayle Pfeffle,1146,56,1,COLOR,200
+1540,06-05-2018,Bibi Morritt,Hair Cut,Ralina Pollicatt,1165,54,3,STYLE,100
+1541,06-06-2018,Trace Larenson,Shaving,Cloris Dudeney,1026,57,6,STYLE,100
+1542,06-06-2018,Conny Matveichev,Color full color,Munroe Cumes,1016,55,1,COLOR,200
+1543,06-07-2018,Drusy Saurat,Shampoo,Dayle Pfeffle,1118,56,5,STYLE,100
+1544,06-08-2018,Lotty Danbye,Shampoo,Cloris Dudeney,1119,57,5,STYLE,100
+1545,06-08-2018,Ebony Izkovicz,Hair Cut,Munroe Cumes,1008,55,3,STYLE,100
+1546,06-08-2018,Aleece O'Fergus,Shampoo,Ralina Pollicatt,1020,54,5,STYLE,100
+1547,06-08-2018,Elroy Evered,Color full color,Dayle Pfeffle,1150,56,1,COLOR,200
+1548,06-09-2018,Sigvard Sheahan,Shampoo,Cristine Bosman,1126,51,5,STYLE,100
+1549,06-09-2018,Diann Leedes,Color full color,Ralina Pollicatt,1076,54,1,COLOR,200
+1550,06-10-2018,Rex Sturdgess,Color full color,Dayle Pfeffle,1033,56,1,COLOR,200
+1551,06-10-2018,Shayna Borrowman,Blowdry + style,Ralina Pollicatt,1148,54,2,STYLE,50
+1552,06-11-2018,Nathanael Grigoliis,Hair Cut,Cristine Bosman,1136,51,3,STYLE,100
+1553,06-12-2018,Carce Francklin,Hair Spa,Cristine Bosman,1036,51,4,STYLE,200
+1554,06-12-2018,Stacie Klaiser,Shampoo,Munroe Cumes,1164,55,5,STYLE,100
+1555,6/13/2018,Conny Matveichev,Hair Spa,Cloris Dudeney,1016,57,4,STYLE,200
+1556,6/13/2018,Benton Isacq,Shaving,Dayle Pfeffle,1002,56,6,STYLE,100
+1557,6/14/2018,Walliw Monelli,Shaving,Dayle Pfeffle,1111,56,6,STYLE,100
+1558,6/14/2018,Cornelle Sodo,Hair Spa,Munroe Cumes,1143,55,4,STYLE,200
+1559,6/14/2018,Sabine Gioan,Hair Cut,Cloris Dudeney,1154,57,3,STYLE,100
+1560,6/15/2018,Archibold Woltering,Shampoo,Jackie Leggate,1145,52,5,STYLE,100
+1561,6/15/2018,Angy Verdy,Color full color,Ralina Pollicatt,1135,54,1,COLOR,200
+1562,6/16/2018,Bevon De Carolis,Shampoo,Ralina Pollicatt,1144,54,5,STYLE,100
+1563,6/16/2018,Charo Jermey,Shaving,Dayle Pfeffle,1128,56,6,STYLE,100
+1564,6/18/2018,Lari Swayland,Blowdry + style,Ralina Pollicatt,1081,54,2,STYLE,50
+1565,6/18/2018,Ezra Dudman,Hair Spa,Cloris Dudeney,1103,57,4,STYLE,200
+1566,6/18/2018,Meir Corbyn,Hair Spa,Ralina Pollicatt,1047,54,4,STYLE,200
+1567,6/18/2018,Bobinette Boothe,Hair Spa,Cristine Bosman,1088,51,4,STYLE,200
+1568,6/19/2018,Toby Shiliton,Hair Spa,Jackie Leggate,1062,52,4,STYLE,200
+1569,6/19/2018,Francine Kunkler,Blowdry + style,Dayle Pfeffle,1089,56,2,STYLE,50
+1570,6/19/2018,Arleta Corss,Blowdry + style,Cristine Bosman,1170,51,2,STYLE,50
+1571,6/20/2018,Umberto Gotecliffe,Hair Spa,Ralina Pollicatt,1147,54,4,STYLE,200
+1572,6/20/2018,Isiahi Fowgies,Blowdry + style,Cloris Dudeney,1125,57,2,STYLE,50
+1573,6/20/2018,Umberto Gotecliffe,Color full color,Jackie Leggate,1147,52,1,COLOR,200
+1574,6/20/2018,Rebecka Iddins,Blowdry + style,Munroe Cumes,1074,55,2,STYLE,50
+1575,6/21/2018,Tommi Minett,Shaving,Cloris Dudeney,1087,57,6,STYLE,100
+1576,6/21/2018,Aurthur Bavridge,Shaving,June Pynn,1098,53,6,STYLE,100
+1577,6/21/2018,Mab Limb,Hair Spa,Dayle Pfeffle,1113,56,4,STYLE,200
+1578,6/21/2018,Ara Maykin,Shampoo,Dayle Pfeffle,1161,56,5,STYLE,100
+1579,6/21/2018,Pavia Maynard,Blowdry + style,Munroe Cumes,1166,55,2,STYLE,50
+1580,6/22/2018,Shayna Borrowman,Hair Cut,Munroe Cumes,1148,55,3,STYLE,100
+1581,6/23/2018,Lura Stellino,Blowdry + style,Cristine Bosman,1025,51,2,STYLE,50
+1582,6/23/2018,Shayna Borrowman,Hair Spa,Ralina Pollicatt,1148,54,4,STYLE,200
+1583,6/24/2018,Maddalena Mitchell,Shaving,Cloris Dudeney,1037,57,6,STYLE,100
+1584,6/25/2018,Ulrica Petti,Blowdry + style,Jackie Leggate,1123,52,2,STYLE,50
+1585,6/25/2018,Sarette Graser,Hair Cut,June Pynn,1131,53,3,STYLE,100
+1586,6/25/2018,Diandra Eatherton,Shampoo,Cristine Bosman,1046,51,5,STYLE,100
+1587,6/27/2018,Lotty Danbye,Color full color,Munroe Cumes,1119,55,1,COLOR,200
+1588,6/27/2018,Conny Matveichev,Blowdry + style,Cloris Dudeney,1016,57,2,STYLE,50
+1589,6/27/2018,Mari Clifford,Blowdry + style,Cloris Dudeney,1101,57,2,STYLE,50
+1590,6/28/2018,Bevon Bohl,Hair Cut,Dayle Pfeffle,1096,56,3,STYLE,100
+1591,6/29/2018,Sadella Fligg,Hair Spa,Cloris Dudeney,1155,57,4,STYLE,200
+1592,6/29/2018,Andriana Rieme,Shaving,Dayle Pfeffle,1006,56,6,STYLE,100
+1593,6/29/2018,Paddy Pandie,Shampoo,Cloris Dudeney,1044,57,5,STYLE,100
+1594,6/30/2018,Shara Garey,Hair Spa,Munroe Cumes,1004,55,4,STYLE,200
+1595,07-01-2018,Meyer Ellcock,Shaving,June Pynn,1162,53,6,STYLE,100
+1596,07-01-2018,Annadiane Tattersdill,Hair Spa,Dayle Pfeffle,1093,56,4,STYLE,200
+1597,07-01-2018,Ara Maykin,Color full color,June Pynn,1161,53,1,COLOR,200
+1598,07-02-2018,Pyotr Lorait,Color full color,Ralina Pollicatt,1003,54,1,COLOR,200
+1599,07-02-2018,Eward Jilkes,Color full color,June Pynn,1013,53,1,COLOR,200
+1600,07-02-2018,Ebony Izkovicz,Hair Cut,Ralina Pollicatt,1008,54,3,STYLE,100
+1601,07-03-2018,Gabbi Bagshaw,Color full color,Munroe Cumes,1106,55,1,COLOR,200
+1602,07-03-2018,Josi Masser,Shaving,Cloris Dudeney,1048,57,6,STYLE,100
+1603,07-04-2018,Isiahi Fowgies,Shampoo,Dayle Pfeffle,1125,56,5,STYLE,100
+1604,07-04-2018,Ewen McCaskell,Color full color,June Pynn,1018,53,1,COLOR,200
+1605,07-04-2018,Belle Parley,Hair Spa,Ralina Pollicatt,1041,54,4,STYLE,200
+1606,07-05-2018,Adamo Prudence,Hair Spa,Jackie Leggate,1085,52,4,STYLE,200
+1607,07-06-2018,Eb Levay,Shampoo,Dayle Pfeffle,1092,56,5,STYLE,100
+1608,07-06-2018,Hi Gregori,Hair Spa,June Pynn,1069,53,4,STYLE,200
+1609,07-07-2018,Calhoun Cutteridge,Hair Cut,Cloris Dudeney,1110,57,3,STYLE,100
+1610,07-07-2018,Cornelle Sodo,Shaving,Dayle Pfeffle,1143,56,6,STYLE,100
+1611,07-08-2018,Aleece O'Fergus,Hair Spa,Ralina Pollicatt,1020,54,4,STYLE,200
+1612,07-09-2018,Starlene Rubinshtein,Shampoo,Munroe Cumes,1040,55,5,STYLE,100
+1613,07-09-2018,Web Addionisio,Blowdry + style,Cristine Bosman,1027,51,2,STYLE,50
+1614,07-09-2018,Wheeler Human,Color full color,Cristine Bosman,1058,51,1,COLOR,200
+1615,07-10-2018,Allx Ogborn,Blowdry + style,Ralina Pollicatt,1099,54,2,STYLE,50
+1616,07-10-2018,Gregor Tolley,Hair Spa,June Pynn,1039,53,4,STYLE,200
+1617,07-10-2018,Eward Jilkes,Color full color,Cloris Dudeney,1013,57,1,COLOR,200
+1618,07-11-2018,Aleksandr Branford,Hair Spa,Munroe Cumes,1022,55,4,STYLE,200
+1619,07-11-2018,Gabbi Bagshaw,Color full color,Cloris Dudeney,1106,57,1,COLOR,200
+1620,07-11-2018,Hamnet Sacase,Shampoo,Cristine Bosman,1071,51,5,STYLE,100
+1621,07-11-2018,Hi Gregori,Shampoo,June Pynn,1069,53,5,STYLE,100
+1622,07-12-2018,Sarette Graser,Hair Cut,Cristine Bosman,1131,51,3,STYLE,100
+1623,07-12-2018,Cornelle Sodo,Hair Cut,Ralina Pollicatt,1143,54,3,STYLE,100
+1624,07-12-2018,Hinda Duddell,Blowdry + style,Munroe Cumes,1115,55,2,STYLE,50
+1625,7/13/2018,Dav Uccelli,Blowdry + style,Jackie Leggate,1149,52,2,STYLE,50
+1626,7/14/2018,Jenilee Chaves,Hair Spa,Cloris Dudeney,1010,57,4,STYLE,200
+1627,7/14/2018,Belle Parley,Shampoo,Ralina Pollicatt,1041,54,5,STYLE,100
+1628,7/14/2018,Trace Larenson,Shaving,Ralina Pollicatt,1026,54,6,STYLE,100
+1629,7/14/2018,Alexandro Wheatcroft,Shampoo,June Pynn,1130,53,5,STYLE,100
+1630,7/14/2018,Sayer McClay,Hair Cut,Dayle Pfeffle,1019,56,3,STYLE,100
+1631,7/15/2018,Isiahi Fowgies,Color full color,Cloris Dudeney,1125,57,1,COLOR,200
+1632,7/15/2018,Walton Hulse,Hair Cut,June Pynn,1052,53,3,STYLE,100
+1633,7/15/2018,Carce Francklin,Hair Cut,Dayle Pfeffle,1036,56,3,STYLE,100
+1634,7/15/2018,Dori Killoran,Shaving,June Pynn,1014,53,6,STYLE,100
+1635,7/16/2018,Paddy Pandie,Shaving,Dayle Pfeffle,1044,56,6,STYLE,100
+1636,7/16/2018,Diann Leedes,Color full color,Cloris Dudeney,1076,57,1,COLOR,200
+1637,7/16/2018,King Harsent,Blowdry + style,Cristine Bosman,1157,51,2,STYLE,50
+1638,7/16/2018,Cos Maryan,Hair Spa,Cristine Bosman,1031,51,4,STYLE,200
+1639,7/16/2018,Ulrica Petti,Color full color,Dayle Pfeffle,1123,56,1,COLOR,200
+1640,7/16/2018,Gaelan Siddle,Blowdry + style,Dayle Pfeffle,1009,56,2,STYLE,50
+1641,7/16/2018,Gilburt Marchment,Color full color,Cristine Bosman,1091,51,1,COLOR,200
+1642,7/16/2018,Kahaleel Roseaman,Shampoo,Dayle Pfeffle,1061,56,5,STYLE,100
+1643,7/17/2018,Bucky Kealey,Hair Cut,Jackie Leggate,1042,52,3,STYLE,100
+1644,7/17/2018,Kahaleel Roseaman,Shampoo,Cristine Bosman,1061,51,5,STYLE,100
+1645,7/17/2018,Bucky Kealey,Shaving,Cloris Dudeney,1042,57,6,STYLE,100
+1646,7/17/2018,Rubie Kremer,Blowdry + style,Jackie Leggate,1160,52,2,STYLE,50
+1647,7/18/2018,Ebony Izkovicz,Hair Spa,Dayle Pfeffle,1008,56,4,STYLE,200
+1648,7/18/2018,Cornelle Sodo,Color full color,Dayle Pfeffle,1143,56,1,COLOR,200
+1649,7/18/2018,Aurthur Bavridge,Hair Spa,Ralina Pollicatt,1098,54,4,STYLE,200
+1650,7/18/2018,Umberto Gotecliffe,Shampoo,Ralina Pollicatt,1147,54,5,STYLE,100
+1651,7/18/2018,Stacie Klaiser,Blowdry + style,Dayle Pfeffle,1164,56,2,STYLE,50
+1652,7/18/2018,Vida Peddie,Hair Spa,Cristine Bosman,1153,51,4,STYLE,200
+1653,7/19/2018,Klement Arnaudot,Color full color,June Pynn,1043,53,1,COLOR,200
+1654,7/19/2018,Cornelle Sodo,Blowdry + style,Dayle Pfeffle,1143,56,2,STYLE,50
+1655,7/19/2018,Sayer McClay,Shaving,June Pynn,1019,53,6,STYLE,100
+1656,7/20/2018,Pierce Hryskiewicz,Hair Spa,Munroe Cumes,1067,55,4,STYLE,200
+1657,7/20/2018,Egon Waistell,Hair Spa,June Pynn,1121,53,4,STYLE,200
+1658,7/20/2018,Amity Chisholm,Blowdry + style,Jackie Leggate,1139,52,2,STYLE,50
+1659,7/20/2018,Boycey Robart,Hair Cut,June Pynn,1077,53,3,STYLE,100
+1660,7/20/2018,Rubie Kremer,Blowdry + style,Cloris Dudeney,1160,57,2,STYLE,50
+1661,7/21/2018,Natala Hammatt,Hair Spa,Munroe Cumes,1090,55,4,STYLE,200
+1662,7/21/2018,Stacie Klaiser,Hair Spa,Munroe Cumes,1164,55,4,STYLE,200
+1663,7/21/2018,Konstantin Carillo,Shaving,June Pynn,1063,53,6,STYLE,100
+1664,7/22/2018,Adamo Prudence,Shaving,Cloris Dudeney,1085,57,6,STYLE,100
+1665,7/22/2018,Susanetta Petzold,Hair Cut,Ralina Pollicatt,1001,54,3,STYLE,100
+1666,7/23/2018,Rubie Kremer,Hair Cut,June Pynn,1160,53,3,STYLE,100
+1667,7/23/2018,Benjy Bewley,Hair Spa,Jackie Leggate,1068,52,4,STYLE,200
+1668,7/23/2018,King Harsent,Shampoo,Munroe Cumes,1157,55,5,STYLE,100
+1669,7/23/2018,Carol-jean Blacker,Blowdry + style,Cloris Dudeney,1057,57,2,STYLE,50
+1670,7/24/2018,Diandra Eatherton,Blowdry + style,June Pynn,1046,53,2,STYLE,50
+1671,7/24/2018,Chiquita Benet,Shampoo,Ralina Pollicatt,1117,54,5,STYLE,100
+1672,7/24/2018,Boycey Robart,Color full color,Cloris Dudeney,1077,57,1,COLOR,200
+1673,7/25/2018,Ewen McCaskell,Hair Spa,June Pynn,1018,53,4,STYLE,200
+1674,7/25/2018,Amabel Yanez,Shaving,Cristine Bosman,1084,51,6,STYLE,100
+1675,7/25/2018,Alejandra Lapworth,Color full color,June Pynn,1138,53,1,COLOR,200
+1676,7/25/2018,Sindee Chevins,Shampoo,Jackie Leggate,1127,52,5,STYLE,100
+1677,7/25/2018,Heddie Chatainier,Hair Cut,Jackie Leggate,1038,52,3,STYLE,100
+1678,7/25/2018,Maddalena Mitchell,Shaving,Ralina Pollicatt,1037,54,6,STYLE,100
+1679,7/26/2018,Sarette Graser,Shampoo,Cristine Bosman,1131,51,5,STYLE,100
+1680,7/26/2018,Gregor Tolley,Shaving,Ralina Pollicatt,1039,54,6,STYLE,100
+1681,7/26/2018,Walton Hulse,Color full color,Jackie Leggate,1052,52,1,COLOR,200
+1682,7/27/2018,Allx Ogborn,Hair Spa,Ralina Pollicatt,1099,54,4,STYLE,200
+1683,7/27/2018,Haleigh Mainland,Hair Cut,Jackie Leggate,1151,52,3,STYLE,100
+1684,7/28/2018,Torie Soff,Hair Spa,Cloris Dudeney,1137,57,4,STYLE,200
+1685,7/28/2018,Carce Francklin,Hair Cut,Cloris Dudeney,1036,57,3,STYLE,100
+1686,7/28/2018,Meyer Ellcock,Color full color,Dayle Pfeffle,1162,56,1,COLOR,200
+1687,7/28/2018,Josefa Gwinnell,Shaving,Cloris Dudeney,1102,57,6,STYLE,100
+1688,7/29/2018,Ulrica Petti,Blowdry + style,Jackie Leggate,1123,52,2,STYLE,50
+1689,7/29/2018,Nathanael Grigoliis,Blowdry + style,Cristine Bosman,1136,51,2,STYLE,50
+1690,7/30/2018,Ewen McCaskell,Shaving,Cristine Bosman,1018,51,6,STYLE,100
+1691,7/30/2018,Shara Garey,Shaving,Dayle Pfeffle,1004,56,6,STYLE,100
+1692,7/31/2018,Amabel Yanez,Blowdry + style,Munroe Cumes,1084,55,2,STYLE,50
+1693,7/31/2018,Maddalena Mitchell,Blowdry + style,Ralina Pollicatt,1037,54,2,STYLE,50
+1694,7/31/2018,Gusta Guichard,Color full color,Munroe Cumes,1109,55,1,COLOR,200
+1695,7/31/2018,Lucilia Morkham,Shaving,June Pynn,1030,53,6,STYLE,100
+1696,08-02-2018,Cos Maryan,Hair Spa,Cloris Dudeney,1031,57,4,STYLE,200
+1697,08-02-2018,Francine Kunkler,Color full color,Munroe Cumes,1089,55,1,COLOR,200
+1698,08-02-2018,Heddie Chatainier,Hair Spa,Munroe Cumes,1038,55,4,STYLE,200
+1699,08-03-2018,Sibby De La Coste,Hair Cut,Munroe Cumes,1082,55,3,STYLE,100
+1700,08-03-2018,Rebecka Iddins,Hair Spa,Cloris Dudeney,1074,57,4,STYLE,200
+1701,08-03-2018,Lurlene Cristofvao,Shampoo,Munroe Cumes,1005,55,5,STYLE,100
+1702,08-04-2018,Kienan O'Dwyer,Shampoo,Cristine Bosman,1132,51,5,STYLE,100
+1703,08-04-2018,Trace Larenson,Shampoo,Munroe Cumes,1026,55,5,STYLE,100
+1704,08-04-2018,Kristofer Ezzle,Hair Spa,Ralina Pollicatt,1045,54,4,STYLE,200
+1705,08-04-2018,Egon Waistell,Shampoo,Dayle Pfeffle,1121,56,5,STYLE,100
+1706,08-04-2018,Gabriell Ballham,Hair Cut,June Pynn,1070,53,3,STYLE,100
+1707,08-05-2018,Annadiane Tattersdill,Hair Cut,Jackie Leggate,1093,52,3,STYLE,100
+1708,08-05-2018,Cos Maryan,Color full color,Ralina Pollicatt,1031,54,1,COLOR,200
+1709,08-06-2018,Kristofer Ezzle,Blowdry + style,Cloris Dudeney,1045,57,2,STYLE,50
+1710,08-06-2018,Haleigh Mainland,Blowdry + style,Dayle Pfeffle,1151,56,2,STYLE,50
+1711,08-06-2018,Florella Van den Broek,Color full color,Cloris Dudeney,1023,57,1,COLOR,200
+1712,08-06-2018,Rossie Kumar,Hair Spa,Ralina Pollicatt,1140,54,4,STYLE,200
+1713,08-06-2018,Stacie Klaiser,Blowdry + style,Jackie Leggate,1164,52,2,STYLE,50
+1714,08-06-2018,Carce Francklin,Shampoo,Dayle Pfeffle,1036,56,5,STYLE,100
+1715,08-07-2018,Egon Waistell,Shaving,June Pynn,1121,53,6,STYLE,100
+1716,08-07-2018,Klement Arnaudot,Shampoo,Munroe Cumes,1043,55,5,STYLE,100
+1717,08-08-2018,Cornelle Sodo,Hair Spa,Ralina Pollicatt,1143,54,4,STYLE,200
+1718,08-08-2018,Isiahi Fowgies,Blowdry + style,Ralina Pollicatt,1125,54,2,STYLE,50
+1719,08-08-2018,Mitchell Dockwra,Hair Cut,Cloris Dudeney,1141,57,3,STYLE,100
+1720,08-08-2018,Gabbi Bagshaw,Hair Cut,Jackie Leggate,1106,52,3,STYLE,100
+1721,08-09-2018,Starlene Rubinshtein,Shaving,Dayle Pfeffle,1040,56,6,STYLE,100
+1722,08-09-2018,Sarette Graser,Blowdry + style,Jackie Leggate,1131,52,2,STYLE,50
+1723,08-10-2018,Hinda Duddell,Shampoo,Dayle Pfeffle,1115,56,5,STYLE,100
+1724,08-11-2018,Byrle Rushman,Color full color,Jackie Leggate,1108,52,1,COLOR,200
+1725,08-11-2018,Benjy Bewley,Color full color,Munroe Cumes,1068,55,1,COLOR,200
+1726,08-11-2018,Gerta Willmetts,Shampoo,Cloris Dudeney,1158,57,5,STYLE,100
+1727,08-11-2018,Claudelle Jarritt,Shaving,Cristine Bosman,1083,51,6,STYLE,100
+1728,08-12-2018,Benton Isacq,Hair Cut,Munroe Cumes,1002,55,3,STYLE,100
+1729,08-12-2018,Kristofer Ezzle,Shampoo,Munroe Cumes,1045,55,5,STYLE,100
+1730,08-12-2018,Umberto Gotecliffe,Shampoo,Dayle Pfeffle,1147,56,5,STYLE,100
+1731,08-12-2018,Milt Underwood,Hair Cut,Jackie Leggate,1134,52,3,STYLE,100
+1732,08-12-2018,Bucky Kealey,Blowdry + style,Jackie Leggate,1042,52,2,STYLE,50
+1733,08-12-2018,Alexandro Wheatcroft,Blowdry + style,Ralina Pollicatt,1130,54,2,STYLE,50
+1734,08-12-2018,Konstantin Carillo,Shaving,Jackie Leggate,1063,52,6,STYLE,100
+1735,8/13/2018,Feliza Salt,Hair Cut,Munroe Cumes,1159,55,3,STYLE,100
+1736,8/13/2018,Courtenay Shyre,Hair Spa,Cristine Bosman,1114,51,4,STYLE,200
+1737,8/13/2018,Ulrica Petti,Shaving,Munroe Cumes,1123,55,6,STYLE,100
+1738,8/13/2018,Ilysa Hansen,Color full color,Jackie Leggate,1097,52,1,COLOR,200
+1739,8/13/2018,Lucilia Morkham,Color full color,June Pynn,1030,53,1,COLOR,200
+1740,8/13/2018,Walton Hulse,Shaving,Dayle Pfeffle,1052,56,6,STYLE,100
+1741,8/14/2018,Ezra Dudman,Hair Cut,Cloris Dudeney,1103,57,3,STYLE,100
+1742,8/15/2018,Allx Ogborn,Shampoo,Munroe Cumes,1099,55,5,STYLE,100
+1743,8/15/2018,Rosabelle Merrifield,Hair Cut,Jackie Leggate,1034,52,3,STYLE,100
+1744,8/15/2018,Hamnet Sacase,Color full color,Cloris Dudeney,1071,57,1,COLOR,200
+1745,8/16/2018,Laney Pontain,Shampoo,Cloris Dudeney,1124,57,5,STYLE,100
+1746,8/16/2018,Athena McClean,Blowdry + style,Dayle Pfeffle,1012,56,2,STYLE,50
+1747,8/17/2018,Sarette Graser,Blowdry + style,Jackie Leggate,1131,52,2,STYLE,50
+1748,8/17/2018,Sindee Chevins,Color full color,Ralina Pollicatt,1127,54,1,COLOR,200
+1749,8/17/2018,Umberto Gotecliffe,Color full color,Dayle Pfeffle,1147,56,1,COLOR,200
+1750,8/18/2018,Conny Matveichev,Hair Spa,Ralina Pollicatt,1016,54,4,STYLE,200
+1751,8/18/2018,Mab Limb,Color full color,Cristine Bosman,1113,51,1,COLOR,200
+1752,8/18/2018,Audrie Quickfall,Hair Cut,Munroe Cumes,1169,55,3,STYLE,100
+1753,8/19/2018,Andriana Rieme,Shampoo,June Pynn,1006,53,5,STYLE,100
+1754,8/19/2018,Sayer McClay,Hair Cut,Ralina Pollicatt,1019,54,3,STYLE,100
+1755,8/19/2018,Lonnard Hounsham,Hair Spa,Dayle Pfeffle,1078,56,4,STYLE,200
+1756,8/19/2018,Egon Waistell,Shampoo,Cristine Bosman,1121,51,5,STYLE,100
+1757,8/20/2018,Marty Creighton,Shampoo,Munroe Cumes,1028,55,5,STYLE,100
+1758,8/20/2018,Mab Limb,Hair Cut,Cristine Bosman,1113,51,3,STYLE,100
+1759,8/20/2018,Domini Kintish,Shampoo,Jackie Leggate,1056,52,5,STYLE,100
+1760,8/21/2018,Holden Ventum,Shaving,Munroe Cumes,1112,55,6,STYLE,100
+1761,8/21/2018,Nike Risborough,Blowdry + style,June Pynn,1032,53,2,STYLE,50
+1762,8/23/2018,Enrichetta Sircomb,Shampoo,Cristine Bosman,1105,51,5,STYLE,100
+1763,8/24/2018,Angy Verdy,Shampoo,Jackie Leggate,1135,52,5,STYLE,100
+1764,8/24/2018,Susanetta Petzold,Hair Cut,Cloris Dudeney,1001,57,3,STYLE,100
+1765,8/25/2018,Lari Swayland,Hair Spa,Cloris Dudeney,1081,57,4,STYLE,200
+1766,8/25/2018,Florella Van den Broek,Hair Spa,Munroe Cumes,1023,55,4,STYLE,200
+1767,8/26/2018,Diann Leedes,Shampoo,June Pynn,1076,53,5,STYLE,100
+1768,8/27/2018,Andras Sterre,Shampoo,Jackie Leggate,1049,52,5,STYLE,100
+1769,8/27/2018,Gene Gommes,Color full color,Dayle Pfeffle,1029,56,1,COLOR,200
+1770,8/27/2018,Marne Simanek,Shaving,Cloris Dudeney,1053,57,6,STYLE,100
+1771,8/28/2018,Gregor Tolley,Hair Cut,Jackie Leggate,1039,52,3,STYLE,100
+1772,8/28/2018,Dale Jonk,Blowdry + style,Jackie Leggate,1079,52,2,STYLE,50
+1773,8/28/2018,Sarette Graser,Blowdry + style,Cristine Bosman,1131,51,2,STYLE,50
+1774,8/28/2018,Marty Creighton,Color full color,Dayle Pfeffle,1028,56,1,COLOR,200
+1775,8/29/2018,Hi Gregori,Hair Spa,Dayle Pfeffle,1069,56,4,STYLE,200
+1776,8/29/2018,Trueman Eiler,Hair Spa,June Pynn,1024,53,4,STYLE,200
+1777,8/30/2018,Bevon De Carolis,Shampoo,Cristine Bosman,1144,51,5,STYLE,100
+1778,8/31/2018,Tobe Elstub,Color full color,Munroe Cumes,1007,55,1,COLOR,200
+1779,8/31/2018,Carol-jean Blacker,Hair Spa,June Pynn,1057,53,4,STYLE,200
+1780,8/31/2018,Lucilia Morkham,Hair Spa,Dayle Pfeffle,1030,56,4,STYLE,200
+1781,8/31/2018,Lucilia Morkham,Hair Cut,Munroe Cumes,1030,55,3,STYLE,100
+1782,8/31/2018,Gerta Willmetts,Shaving,Jackie Leggate,1158,52,6,STYLE,100
+1783,09-01-2018,Natala Hammatt,Hair Cut,Dayle Pfeffle,1090,56,3,STYLE,100
+1784,09-03-2018,Rossie Kumar,Hair Cut,Cristine Bosman,1140,51,3,STYLE,100
+1785,09-03-2018,Arleta Corss,Shaving,Ralina Pollicatt,1170,54,6,STYLE,100
+1786,09-03-2018,Domini Kintish,Shaving,Cloris Dudeney,1056,57,6,STYLE,100
+1787,09-03-2018,Nonah Pavinese,Shaving,Jackie Leggate,1104,52,6,STYLE,100
+1788,09-04-2018,Chiquita Benet,Blowdry + style,Cloris Dudeney,1117,57,2,STYLE,50
+1789,09-04-2018,Sayer McClay,Shaving,Cloris Dudeney,1019,57,6,STYLE,100
+1790,09-04-2018,Gene Gommes,Hair Cut,Cristine Bosman,1029,51,3,STYLE,100
+1791,09-04-2018,Holden Ventum,Blowdry + style,June Pynn,1112,53,2,STYLE,50
+1792,09-05-2018,Patin Crowd,Shaving,Dayle Pfeffle,1100,56,6,STYLE,100
+1793,09-05-2018,Laney Pontain,Shaving,Ralina Pollicatt,1124,54,6,STYLE,100
+1794,09-05-2018,Carce Francklin,Hair Cut,Cristine Bosman,1036,51,3,STYLE,100
+1795,09-05-2018,Theda Wanderschek,Color full color,June Pynn,1065,53,1,COLOR,200
+1796,09-06-2018,Lurlene Cristofvao,Color full color,Cristine Bosman,1005,51,1,COLOR,200
+1797,09-06-2018,Gusta Guichard,Hair Spa,Ralina Pollicatt,1109,54,4,STYLE,200
+1798,09-06-2018,Isiahi Fowgies,Blowdry + style,Dayle Pfeffle,1125,56,2,STYLE,50
+1799,09-06-2018,Rossie Kumar,Shampoo,Dayle Pfeffle,1140,56,5,STYLE,100
+1800,09-06-2018,Kristofer Ezzle,Shampoo,Cloris Dudeney,1045,57,5,STYLE,100
+1801,09-06-2018,Pavia Maynard,Hair Cut,Cristine Bosman,1166,51,3,STYLE,100
+1802,09-07-2018,Jarid Crut,Hair Cut,Dayle Pfeffle,1054,56,3,STYLE,100
+1803,09-07-2018,Annadiane Tattersdill,Hair Spa,Jackie Leggate,1093,52,4,STYLE,200
+1804,09-07-2018,Walton Hulse,Shaving,June Pynn,1052,53,6,STYLE,100
+1805,09-07-2018,Florella Van den Broek,Hair Cut,June Pynn,1023,53,3,STYLE,100
+1806,09-08-2018,Hephzibah Orteu,Hair Spa,Ralina Pollicatt,1035,54,4,STYLE,200
+1807,09-08-2018,Vida Peddie,Color full color,Jackie Leggate,1153,52,1,COLOR,200
+1808,09-08-2018,Hinda Duddell,Color full color,Ralina Pollicatt,1115,54,1,COLOR,200
+1809,09-08-2018,Eward Jilkes,Shampoo,June Pynn,1013,53,5,STYLE,100
+1810,09-08-2018,Alexandro Wheatcroft,Shaving,June Pynn,1130,53,6,STYLE,100
+1811,09-08-2018,Stacie Klaiser,Color full color,Munroe Cumes,1164,55,1,COLOR,200
+1812,09-08-2018,Feliza Salt,Hair Spa,Cristine Bosman,1159,51,4,STYLE,200
+1813,09-09-2018,Ara Maykin,Shampoo,Dayle Pfeffle,1161,56,5,STYLE,100
+1814,09-10-2018,Alisun Mityashin,Hair Spa,Jackie Leggate,1055,52,4,STYLE,200
+1815,09-10-2018,Diandra Eatherton,Color full color,June Pynn,1046,53,1,COLOR,200
+1816,09-10-2018,Royce Bowater,Hair Cut,Munroe Cumes,1017,55,3,STYLE,100
+1817,09-11-2018,Alexandro Wheatcroft,Blowdry + style,Cristine Bosman,1130,51,2,STYLE,50
+1818,09-11-2018,Aleksandr Branford,Shampoo,Munroe Cumes,1022,55,5,STYLE,100
+1819,09-11-2018,Feliza Salt,Color full color,Dayle Pfeffle,1159,56,1,COLOR,200
+1820,09-12-2018,Ewen McCaskell,Shaving,Dayle Pfeffle,1018,56,6,STYLE,100
+1821,09-12-2018,Indira Vallentin,Blowdry + style,June Pynn,1073,53,2,STYLE,50
+1822,09-12-2018,Florella Van den Broek,Shaving,June Pynn,1023,53,6,STYLE,100
+1823,09-12-2018,Gene Gommes,Shaving,Cristine Bosman,1029,51,6,STYLE,100
+1824,09-12-2018,Hinda Duddell,Color full color,Dayle Pfeffle,1115,56,1,COLOR,200
+1825,9/13/2018,Amity Chisholm,Shampoo,June Pynn,1139,53,5,STYLE,100
+1826,9/13/2018,Andras Sterre,Color full color,Munroe Cumes,1049,55,1,COLOR,200
+1827,9/14/2018,Calhoun Cutteridge,Hair Cut,June Pynn,1110,53,3,STYLE,100
+1828,9/16/2018,Theda Wanderschek,Blowdry + style,Ralina Pollicatt,1065,54,2,STYLE,50
+1829,9/17/2018,Ezra Dudman,Shampoo,Jackie Leggate,1103,52,5,STYLE,100
+1830,9/18/2018,Leanor McAuslene,Color full color,Dayle Pfeffle,1080,56,1,COLOR,200
+1831,9/18/2018,Dav Uccelli,Hair Spa,Munroe Cumes,1149,55,4,STYLE,200
+1832,9/19/2018,Nathanael Grigoliis,Shaving,Cloris Dudeney,1136,57,6,STYLE,100
+1833,9/19/2018,Tommi Minett,Color full color,Ralina Pollicatt,1087,54,1,COLOR,200
+1834,9/19/2018,Pierce Hryskiewicz,Hair Cut,Jackie Leggate,1067,52,3,STYLE,100
+1835,9/20/2018,Meir Corbyn,Shampoo,Cloris Dudeney,1047,57,5,STYLE,100
+1836,9/21/2018,Cornelle Sodo,Hair Spa,Cloris Dudeney,1143,57,4,STYLE,200
+1837,9/21/2018,Don Giorio,Shaving,Cristine Bosman,1167,51,6,STYLE,100
+1838,9/21/2018,Daffy Fleischmann,Shampoo,June Pynn,1066,53,5,STYLE,100
+1839,9/21/2018,Ilysa Hansen,Hair Cut,June Pynn,1097,53,3,STYLE,100
+1840,9/21/2018,Drusy Saurat,Color full color,Munroe Cumes,1118,55,1,COLOR,200
+1841,9/22/2018,Hephzibah Orteu,Hair Cut,Jackie Leggate,1035,52,3,STYLE,100
+1842,9/22/2018,Lucilia Morkham,Blowdry + style,June Pynn,1030,53,2,STYLE,50
+1843,9/22/2018,Patin Crowd,Shaving,June Pynn,1100,53,6,STYLE,100
+1844,9/22/2018,Byrle Rushman,Hair Cut,Cristine Bosman,1108,51,3,STYLE,100
+1845,9/24/2018,Josi Masser,Hair Cut,Cloris Dudeney,1048,57,3,STYLE,100
+1846,9/25/2018,Charo Jermey,Hair Spa,Jackie Leggate,1128,52,4,STYLE,200
+1847,9/25/2018,Patin Crowd,Hair Spa,Jackie Leggate,1100,52,4,STYLE,200
+1848,9/25/2018,Allan MacLeod,Shampoo,Munroe Cumes,1011,55,5,STYLE,100
+1849,9/25/2018,Sadella Fligg,Hair Cut,Jackie Leggate,1155,52,3,STYLE,100
+1850,9/25/2018,Starlene Rubinshtein,Hair Cut,Jackie Leggate,1040,52,3,STYLE,100
+1851,9/26/2018,Dav Uccelli,Shaving,Dayle Pfeffle,1149,56,6,STYLE,100
+1852,9/26/2018,Lucilia Morkham,Hair Cut,Dayle Pfeffle,1030,56,3,STYLE,100
+1853,9/27/2018,Bobinette Boothe,Shampoo,Munroe Cumes,1088,55,5,STYLE,100
+1854,9/27/2018,Belle Parley,Shampoo,Dayle Pfeffle,1041,56,5,STYLE,100
+1855,9/27/2018,Leanor McAuslene,Shampoo,Ralina Pollicatt,1080,54,5,STYLE,100
+1856,9/28/2018,Lurlene Cristofvao,Hair Cut,Cristine Bosman,1005,51,3,STYLE,100
+1857,9/28/2018,Starlene Rubinshtein,Blowdry + style,Cloris Dudeney,1040,57,2,STYLE,50
+1858,9/29/2018,Lonnard Hounsham,Hair Cut,Cristine Bosman,1078,51,3,STYLE,100
+1859,9/30/2018,Sadella Fligg,Color full color,Dayle Pfeffle,1155,56,1,COLOR,200
+1860,9/30/2018,Gregor Tolley,Color full color,Ralina Pollicatt,1039,54,1,COLOR,200
+1861,9/30/2018,Lari Swayland,Hair Cut,Dayle Pfeffle,1081,56,3,STYLE,100
+1862,10-01-2018,Byrle Rushman,Shaving,June Pynn,1108,53,6,STYLE,100
+1863,10-01-2018,Ezra Dudman,Blowdry + style,Cristine Bosman,1103,51,2,STYLE,50
+1864,10-01-2018,Kahaleel Roseaman,Hair Spa,June Pynn,1061,53,4,STYLE,200
+1865,10-01-2018,Ken Simonot,Shaving,Cristine Bosman,1075,51,6,STYLE,100
+1866,10-02-2018,Isiahi Fowgies,Shaving,Munroe Cumes,1125,55,6,STYLE,100
+1867,10-02-2018,Josi Masser,Blowdry + style,Jackie Leggate,1048,52,2,STYLE,50
+1868,10-02-2018,Pavia Maynard,Shampoo,June Pynn,1166,53,5,STYLE,100
+1869,10-03-2018,Enrichetta Sircomb,Hair Cut,Cloris Dudeney,1105,57,3,STYLE,100
+1870,10-03-2018,Hephzibah Orteu,Color full color,Jackie Leggate,1035,52,1,COLOR,200
+1871,10-04-2018,Shayna Borrowman,Shampoo,Jackie Leggate,1148,52,5,STYLE,100
+1872,10-04-2018,Lucilia Morkham,Shaving,June Pynn,1030,53,6,STYLE,100
+1873,10-04-2018,Stanley Wheelband,Hair Cut,Ralina Pollicatt,1120,54,3,STYLE,100
+1874,10-05-2018,Athena McClean,Blowdry + style,June Pynn,1012,53,2,STYLE,50
+1875,10-05-2018,Rubie Kremer,Hair Cut,June Pynn,1160,53,3,STYLE,100
+1876,10-05-2018,Alisun Mityashin,Color full color,June Pynn,1055,53,1,COLOR,200
+1877,10-06-2018,Chiquita Benet,Hair Spa,June Pynn,1117,53,4,STYLE,200
+1878,10-06-2018,Conny Matveichev,Hair Spa,Dayle Pfeffle,1016,56,4,STYLE,200
+1879,10-06-2018,Lari Swayland,Color full color,Jackie Leggate,1081,52,1,COLOR,200
+1880,10-06-2018,Allan MacLeod,Color full color,June Pynn,1011,53,1,COLOR,200
+1881,10-08-2018,Carce Francklin,Blowdry + style,Cristine Bosman,1036,51,2,STYLE,50
+1882,10-09-2018,Ilysa Hansen,Shaving,Cristine Bosman,1097,51,6,STYLE,100
+1883,10-09-2018,Cornelle Sodo,Hair Spa,Munroe Cumes,1143,55,4,STYLE,200
+1884,10-10-2018,Heddie Chatainier,Shampoo,Dayle Pfeffle,1038,56,5,STYLE,100
+1885,10-10-2018,Alejandra Lapworth,Hair Spa,Ralina Pollicatt,1138,54,4,STYLE,200
+1886,10-10-2018,Haleigh Mainland,Color full color,Ralina Pollicatt,1151,54,1,COLOR,200
+1887,10-10-2018,Gaelan Siddle,Hair Spa,Ralina Pollicatt,1009,54,4,STYLE,200
+1888,10-11-2018,Isiahi Fowgies,Blowdry + style,Dayle Pfeffle,1125,56,2,STYLE,50
+1889,10-11-2018,Meyer Ellcock,Shampoo,Ralina Pollicatt,1162,54,5,STYLE,100
+1890,10-11-2018,Natala Hammatt,Hair Cut,Ralina Pollicatt,1090,54,3,STYLE,100
+1891,10-12-2018,Jenilee Chaves,Shampoo,Cloris Dudeney,1010,57,5,STYLE,100
+1892,10-12-2018,Bibi Morritt,Blowdry + style,Dayle Pfeffle,1165,56,2,STYLE,50
+1893,10/13/2018,Gabriell Ballham,Hair Cut,Munroe Cumes,1070,55,3,STYLE,100
+1894,10/13/2018,Carce Francklin,Shampoo,Jackie Leggate,1036,52,5,STYLE,100
+1895,10/13/2018,Mari Clifford,Shaving,Cloris Dudeney,1101,57,6,STYLE,100
+1896,10/14/2018,Gabie Smalls,Blowdry + style,Jackie Leggate,1086,52,2,STYLE,50
+1897,10/14/2018,Ted Boshere,Hair Cut,Cloris Dudeney,1064,57,3,STYLE,100
+1898,10/14/2018,Daffy Fleischmann,Hair Spa,Jackie Leggate,1066,52,4,STYLE,200
+1899,10/14/2018,Francine Kunkler,Shaving,Ralina Pollicatt,1089,54,6,STYLE,100
+1900,10/15/2018,Torrie Dalgarnowch,Hair Cut,Cristine Bosman,1116,51,3,STYLE,100
+1901,10/15/2018,Stacie Klaiser,Blowdry + style,Dayle Pfeffle,1164,56,2,STYLE,50
+1902,10/15/2018,Archibold Woltering,Shaving,Jackie Leggate,1145,52,6,STYLE,100
+1903,10/16/2018,Robinett Dawidsohn,Shaving,Cristine Bosman,1072,51,6,STYLE,100
+1904,10/18/2018,Alisun Mityashin,Blowdry + style,Cristine Bosman,1055,51,2,STYLE,50
+1905,10/18/2018,Florella Van den Broek,Blowdry + style,Dayle Pfeffle,1023,56,2,STYLE,50
+1906,10/18/2018,Sindee Chevins,Shaving,Dayle Pfeffle,1127,56,6,STYLE,100
+1907,10/20/2018,Athena McClean,Shampoo,Dayle Pfeffle,1012,56,5,STYLE,100
+1908,10/20/2018,Sibby De La Coste,Hair Spa,Cristine Bosman,1082,51,4,STYLE,200
+1909,10/21/2018,Bevon Bohl,Color full color,Ralina Pollicatt,1096,54,1,COLOR,200
+1910,10/21/2018,Rollins Cosely,Shaving,June Pynn,1129,53,6,STYLE,100
+1911,10/21/2018,Jenilee Chaves,Hair Cut,Cristine Bosman,1010,51,3,STYLE,100
+1912,10/22/2018,Dav Uccelli,Shaving,Jackie Leggate,1149,52,6,STYLE,100
+1913,10/22/2018,Gaelan Siddle,Shaving,Cloris Dudeney,1009,57,6,STYLE,100
+1914,10/22/2018,Drusy Saurat,Shaving,Munroe Cumes,1118,55,6,STYLE,100
+1915,10/23/2018,Drusy Saurat,Color full color,Dayle Pfeffle,1118,56,1,COLOR,200
+1916,10/24/2018,Hinda Duddell,Hair Spa,Cloris Dudeney,1115,57,4,STYLE,200
+1917,10/25/2018,Rubie Kremer,Blowdry + style,Munroe Cumes,1160,55,2,STYLE,50
+1918,10/25/2018,Courtenay Shyre,Hair Cut,Munroe Cumes,1114,55,3,STYLE,100
+1919,10/25/2018,Alexandro Wheatcroft,Hair Cut,Dayle Pfeffle,1130,56,3,STYLE,100
+1920,10/25/2018,Trueman Eiler,Hair Cut,Dayle Pfeffle,1024,56,3,STYLE,100
+1921,10/26/2018,Indira Vallentin,Color full color,Ralina Pollicatt,1073,54,1,COLOR,200
+1922,10/26/2018,Audrie Quickfall,Color full color,Dayle Pfeffle,1169,56,1,COLOR,200
+1923,10/26/2018,Rossie Kumar,Blowdry + style,Ralina Pollicatt,1140,54,2,STYLE,50
+1924,10/26/2018,Quint Flear,Shaving,Cristine Bosman,1050,51,6,STYLE,100
+1925,10/27/2018,Nani Gravey,Hair Spa,Ralina Pollicatt,1094,54,4,STYLE,200
+1926,10/28/2018,Eward Jilkes,Hair Spa,Cristine Bosman,1013,51,4,STYLE,200
+1927,10/29/2018,Rossie Kumar,Shampoo,Cristine Bosman,1140,51,5,STYLE,100
+1928,10/29/2018,Patin Crowd,Hair Cut,Jackie Leggate,1100,52,3,STYLE,100
+1929,10/29/2018,Mei Vidler,Shaving,Ralina Pollicatt,1156,54,6,STYLE,100
+1930,10/29/2018,Claudelle Jarritt,Hair Cut,Munroe Cumes,1083,55,3,STYLE,100
+1931,10/29/2018,Jenilee Chaves,Shaving,Ralina Pollicatt,1010,54,6,STYLE,100
+1932,10/30/2018,Gusta Guichard,Color full color,Jackie Leggate,1109,52,1,COLOR,200
+1933,10/31/2018,Andras Sterre,Blowdry + style,June Pynn,1049,53,2,STYLE,50
+1934,10/31/2018,Aleksandr Branford,Color full color,Jackie Leggate,1022,52,1,COLOR,200
+1935,11-01-2018,Dale Jonk,Hair Cut,Cristine Bosman,1079,51,3,STYLE,100
+1936,11-01-2018,Sarette Graser,Shaving,Jackie Leggate,1131,52,6,STYLE,100
+1937,11-02-2018,Lurlene Cristofvao,Shaving,Cloris Dudeney,1005,57,6,STYLE,100
+1938,11-02-2018,Aleksandr Branford,Shaving,Cloris Dudeney,1022,57,6,STYLE,100
+1939,11-02-2018,Natala Hammatt,Blowdry + style,Jackie Leggate,1090,52,2,STYLE,50
+1940,11-03-2018,Belle Parley,Color full color,June Pynn,1041,53,1,COLOR,200
+1941,11-04-2018,Mitchell Dockwra,Shaving,Cloris Dudeney,1141,57,6,STYLE,100
+1942,11-04-2018,Nathanael Grigoliis,Shaving,Munroe Cumes,1136,55,6,STYLE,100
+1943,11-05-2018,Susanetta Petzold,Hair Cut,Dayle Pfeffle,1001,56,3,STYLE,100
+1944,11-05-2018,Umberto Gotecliffe,Hair Cut,Cloris Dudeney,1147,57,3,STYLE,100
+1945,11-05-2018,Torrie Dalgarnowch,Shampoo,Cristine Bosman,1116,51,5,STYLE,100
+1946,11-05-2018,Marla Ainley,Hair Spa,Ralina Pollicatt,1146,54,4,STYLE,200
+1947,11-05-2018,Sarette Graser,Shampoo,Dayle Pfeffle,1131,56,5,STYLE,100
+1948,11-05-2018,Starlene Rubinshtein,Color full color,Munroe Cumes,1040,55,1,COLOR,200
+1949,11-06-2018,Velvet Napoli,Shampoo,Cloris Dudeney,1051,57,5,STYLE,100
+1950,11-06-2018,Torie Soff,Hair Cut,Cloris Dudeney,1137,57,3,STYLE,100
+1951,11-06-2018,Natala Hammatt,Shaving,June Pynn,1090,53,6,STYLE,100
+1952,11-06-2018,Marla Ainley,Hair Cut,June Pynn,1146,53,3,STYLE,100
+1953,11-06-2018,Andriana Rieme,Hair Cut,Dayle Pfeffle,1006,56,3,STYLE,100
+1954,11-07-2018,Lari Swayland,Hair Cut,Dayle Pfeffle,1081,56,3,STYLE,100
+1955,11-07-2018,Susanetta Petzold,Shampoo,Cristine Bosman,1001,51,5,STYLE,100
+1956,11-10-2018,Quint Flear,Color full color,Dayle Pfeffle,1050,56,1,COLOR,200
+1957,11-10-2018,Alexandro Wheatcroft,Hair Cut,Jackie Leggate,1130,52,3,STYLE,100
+1958,11-10-2018,Perry McClurg,Shampoo,Munroe Cumes,1163,55,5,STYLE,100
+1959,11-11-2018,Lindsay Worsell,Shaving,Munroe Cumes,1133,55,6,STYLE,100
+1960,11-11-2018,Kristofer Ezzle,Hair Spa,Munroe Cumes,1045,55,4,STYLE,200
+1961,11-11-2018,Alisun Mityashin,Color full color,Dayle Pfeffle,1055,56,1,COLOR,200
+1962,11-12-2018,Lonnard Hounsham,Shaving,Cristine Bosman,1078,51,6,STYLE,100
+1963,11/13/2018,Theda Wanderschek,Hair Cut,Dayle Pfeffle,1065,56,3,STYLE,100
+1964,11/13/2018,Rebecka Iddins,Color full color,June Pynn,1074,53,1,COLOR,200
+1965,11/13/2018,Quint Flear,Color full color,Cristine Bosman,1050,51,1,COLOR,200
+1966,11/13/2018,Hi Gregori,Shampoo,Jackie Leggate,1069,52,5,STYLE,100
+1967,11/13/2018,Bobinette Boothe,Hair Spa,Ralina Pollicatt,1088,54,4,STYLE,200
+1968,11/13/2018,Ara Maykin,Hair Spa,Cristine Bosman,1161,51,4,STYLE,200
+1969,11/14/2018,Charo Jermey,Shampoo,June Pynn,1128,53,5,STYLE,100
+1970,11/14/2018,Eward Jilkes,Shampoo,Jackie Leggate,1013,52,5,STYLE,100
+1971,11/14/2018,Bevon De Carolis,Color full color,Munroe Cumes,1144,55,1,COLOR,200
+1972,11/14/2018,Jenilee Chaves,Hair Spa,Munroe Cumes,1010,55,4,STYLE,200
+1973,11/15/2018,Dale Jonk,Shampoo,Jackie Leggate,1079,52,5,STYLE,100
+1974,11/16/2018,Ewen McCaskell,Shampoo,Cristine Bosman,1018,51,5,STYLE,100
+1975,11/17/2018,Royce Bowater,Hair Spa,Munroe Cumes,1017,55,4,STYLE,200
+1976,11/17/2018,Ewen McCaskell,Blowdry + style,Jackie Leggate,1018,52,2,STYLE,50
+1977,11/18/2018,Audrie Quickfall,Shaving,Jackie Leggate,1169,52,6,STYLE,100
+1978,11/18/2018,Carol-jean Blacker,Hair Cut,Ralina Pollicatt,1057,54,3,STYLE,100
+1979,11/18/2018,Domini Kintish,Blowdry + style,June Pynn,1056,53,2,STYLE,50
+1980,11/19/2018,Audrie Quickfall,Hair Spa,Dayle Pfeffle,1169,56,4,STYLE,200
+1981,11/19/2018,Hi Gregori,Color full color,Dayle Pfeffle,1069,56,1,COLOR,200
+1982,11/19/2018,Nike Risborough,Shampoo,Dayle Pfeffle,1032,56,5,STYLE,100
+1983,11/19/2018,Bevon Bohl,Hair Cut,Jackie Leggate,1096,52,3,STYLE,100
+1984,11/20/2018,Mei Vidler,Hair Cut,Ralina Pollicatt,1156,54,3,STYLE,100
+1985,11/21/2018,Lotty Danbye,Shampoo,Ralina Pollicatt,1119,54,5,STYLE,100
+1986,11/21/2018,Toby Shiliton,Hair Spa,Cristine Bosman,1062,51,4,STYLE,200
+1987,11/21/2018,Athena McClean,Hair Cut,Dayle Pfeffle,1012,56,3,STYLE,100
+1988,11/22/2018,Bevon Bohl,Color full color,Cristine Bosman,1096,51,1,COLOR,200
+1989,11/22/2018,Dav Uccelli,Shampoo,Cristine Bosman,1149,51,5,STYLE,100
+1990,11/23/2018,Rex Sturdgess,Shaving,Ralina Pollicatt,1033,54,6,STYLE,100
+1991,11/24/2018,Drusy Saurat,Shaving,Cristine Bosman,1118,51,6,STYLE,100
+1992,11/24/2018,Marla Ainley,Hair Cut,Dayle Pfeffle,1146,56,3,STYLE,100
+1993,11/24/2018,King Harsent,Blowdry + style,Ralina Pollicatt,1157,54,2,STYLE,50
+1994,11/25/2018,Sharline Pawlicki,Color full color,Ralina Pollicatt,1059,54,1,COLOR,200
+1995,11/26/2018,Mab Limb,Shampoo,Ralina Pollicatt,1113,54,5,STYLE,100
+1996,11/27/2018,Tobe Elstub,Blowdry + style,Ralina Pollicatt,1007,54,2,STYLE,50
+1997,11/27/2018,Egon Waistell,Color full color,June Pynn,1121,53,1,COLOR,200
+1998,11/28/2018,Hi Gregori,Shaving,Munroe Cumes,1069,55,6,STYLE,100
+1999,11/28/2018,Alexandro Wheatcroft,Color full color,Ralina Pollicatt,1130,54,1,COLOR,200
+2000,11/28/2018,Theda Wanderschek,Shaving,Cristine Bosman,1065,51,6,STYLE,100
+2001,11/28/2018,Mei Vidler,Hair Cut,June Pynn,1156,53,3,STYLE,100
+2002,11/28/2018,Lucilia Morkham,Hair Cut,Dayle Pfeffle,1030,56,3,STYLE,100
+2003,11/28/2018,Ara Maykin,Hair Cut,Dayle Pfeffle,1161,56,3,STYLE,100
+2004,11/29/2018,Josi Masser,Color full color,Jackie Leggate,1048,52,1,COLOR,200
+2005,11/29/2018,Audrie Quickfall,Shampoo,Munroe Cumes,1169,55,5,STYLE,100
+2006,11/30/2018,Benton Isacq,Hair Spa,Dayle Pfeffle,1002,56,4,STYLE,200
+2007,11/30/2018,Florella Van den Broek,Shampoo,Jackie Leggate,1023,52,5,STYLE,100
+2008,11/30/2018,Benjy Bewley,Hair Spa,June Pynn,1068,53,4,STYLE,200
+2009,12-01-2018,Carol-jean Blacker,Shampoo,Munroe Cumes,1057,55,5,STYLE,100
+2010,12-01-2018,Athena McClean,Color full color,June Pynn,1012,53,1,COLOR,200
+2011,12-01-2018,Isiahi Fowgies,Hair Spa,Cristine Bosman,1125,51,4,STYLE,200
+2012,12-02-2018,Courtenay Shyre,Shaving,Dayle Pfeffle,1114,56,6,STYLE,100
+2013,12-02-2018,Kienan O'Dwyer,Shaving,June Pynn,1132,53,6,STYLE,100
+2014,12-02-2018,Mitchell Dockwra,Hair Spa,Ralina Pollicatt,1141,54,4,STYLE,200
+2015,12-03-2018,Bobinette Boothe,Hair Cut,Cloris Dudeney,1088,57,3,STYLE,100
+2016,12-03-2018,Sigvard Sheahan,Shampoo,Munroe Cumes,1126,55,5,STYLE,100
+2017,12-03-2018,Ken Simonot,Shaving,June Pynn,1075,53,6,STYLE,100
+2018,12-03-2018,Gene Gommes,Color full color,Ralina Pollicatt,1029,54,1,COLOR,200
+2019,12-04-2018,Belle Parley,Blowdry + style,Dayle Pfeffle,1041,56,2,STYLE,50
+2020,12-04-2018,Ewen McCaskell,Blowdry + style,Cristine Bosman,1018,51,2,STYLE,50
+2021,12-04-2018,Jarid Crut,Shampoo,June Pynn,1054,53,5,STYLE,100
+2022,12-05-2018,Cos Maryan,Shampoo,Cristine Bosman,1031,51,5,STYLE,100
+2023,12-05-2018,Zenia McKie,Blowdry + style,June Pynn,1095,53,2,STYLE,50
+2024,12-06-2018,Daffy Fleischmann,Shaving,Ralina Pollicatt,1066,54,6,STYLE,100
+2025,12-06-2018,Haleigh Mainland,Hair Spa,Cristine Bosman,1151,51,4,STYLE,200
+2026,12-07-2018,Elroy Evered,Blowdry + style,Dayle Pfeffle,1150,56,2,STYLE,50
+2027,12-07-2018,Angy Verdy,Color full color,Dayle Pfeffle,1135,56,1,COLOR,200
+2028,12-07-2018,Boycey Robart,Blowdry + style,Jackie Leggate,1077,52,2,STYLE,50
+2029,12-07-2018,Aleksandr Branford,Color full color,June Pynn,1022,53,1,COLOR,200
+2030,12-07-2018,Ramsay Thome,Blowdry + style,Cloris Dudeney,1015,57,2,STYLE,50
+2031,12-08-2018,Aleece O'Fergus,Shaving,Cristine Bosman,1020,51,6,STYLE,100
+2032,12-08-2018,Bibi Morritt,Hair Spa,Cloris Dudeney,1165,57,4,STYLE,200
+2033,12-09-2018,Alejandra Lapworth,Color full color,June Pynn,1138,53,1,COLOR,200
+2034,12-09-2018,Calhoun Cutteridge,Color full color,Cristine Bosman,1110,51,1,COLOR,200
+2035,12-09-2018,Laney Pontain,Hair Cut,Cristine Bosman,1124,51,3,STYLE,100
+2036,12-09-2018,Calhoun Cutteridge,Shampoo,Cloris Dudeney,1110,57,5,STYLE,100
+2037,12-10-2018,Bevon Bohl,Hair Spa,June Pynn,1096,53,4,STYLE,200
+2038,12-10-2018,Ted Boshere,Shaving,Munroe Cumes,1064,55,6,STYLE,100
+2039,12-10-2018,Patin Crowd,Hair Cut,Cristine Bosman,1100,51,3,STYLE,100
+2040,12-10-2018,Ewen McCaskell,Hair Cut,Ralina Pollicatt,1018,54,3,STYLE,100
+2041,12-10-2018,Andriana Rieme,Blowdry + style,Cloris Dudeney,1006,57,2,STYLE,50
+2042,12-10-2018,Ewen McCaskell,Shaving,June Pynn,1018,53,6,STYLE,100
+2043,12-11-2018,Tammi Covolini,Hair Spa,Cloris Dudeney,1060,57,4,STYLE,200
+2044,12-11-2018,Milt Underwood,Shampoo,Jackie Leggate,1134,52,5,STYLE,100
+2045,12-11-2018,Isiahi Fowgies,Hair Cut,Ralina Pollicatt,1125,54,3,STYLE,100
+2046,12-11-2018,Hamnet Sacase,Blowdry + style,Dayle Pfeffle,1071,56,2,STYLE,50
+2047,12-11-2018,Konstantin Carillo,Color full color,Munroe Cumes,1063,55,1,COLOR,200
+2048,12-12-2018,Sigvard Sheahan,Blowdry + style,Dayle Pfeffle,1126,56,2,STYLE,50
+2049,12-12-2018,Rubie Kremer,Shampoo,June Pynn,1160,53,5,STYLE,100
+2050,12-12-2018,Kristofer Ezzle,Color full color,Dayle Pfeffle,1045,56,1,COLOR,200
+2051,12/13/2018,Elroy Evered,Color full color,Jackie Leggate,1150,52,1,COLOR,200
+2052,12/14/2018,Ara Maykin,Shampoo,Jackie Leggate,1161,52,5,STYLE,100
+2053,12/15/2018,Cornelle Sodo,Color full color,Jackie Leggate,1143,52,1,COLOR,200
+2054,12/15/2018,Vida Peddie,Shaving,Cloris Dudeney,1153,57,6,STYLE,100
+2055,12/15/2018,Bobinette Boothe,Hair Spa,Ralina Pollicatt,1088,54,4,STYLE,200
+2056,12/15/2018,Courtenay Shyre,Color full color,Cristine Bosman,1114,51,1,COLOR,200
+2057,12/16/2018,Sibby De La Coste,Hair Spa,Cloris Dudeney,1082,57,4,STYLE,200
+2058,12/16/2018,Suki Ebbers,Hair Cut,Cristine Bosman,1021,51,3,STYLE,100
+2059,12/16/2018,Diandra Eatherton,Blowdry + style,Ralina Pollicatt,1046,54,2,STYLE,50
+2060,12/17/2018,Bevon Bohl,Color full color,Cloris Dudeney,1096,57,1,COLOR,200
+2061,12/18/2018,Trueman Eiler,Shaving,Dayle Pfeffle,1024,56,6,STYLE,100
+2062,12/19/2018,Audrie Quickfall,Blowdry + style,Cloris Dudeney,1169,57,2,STYLE,50
+2063,12/19/2018,Aurthur Bavridge,Blowdry + style,Cristine Bosman,1098,51,2,STYLE,50
+2064,12/19/2018,Amity Chisholm,Shampoo,June Pynn,1139,53,5,STYLE,100
+2065,12/19/2018,Sharline Pawlicki,Shaving,Jackie Leggate,1059,52,6,STYLE,100
+2066,12/19/2018,Web Addionisio,Color full color,June Pynn,1027,53,1,COLOR,200
+2067,12/19/2018,Quint Flear,Shampoo,Ralina Pollicatt,1050,54,5,STYLE,100
+2068,12/20/2018,Alexandro Wheatcroft,Hair Spa,June Pynn,1130,53,4,STYLE,200
+2069,12/20/2018,Royce Bowater,Shampoo,Dayle Pfeffle,1017,56,5,STYLE,100
+2070,12/20/2018,Royce Bowater,Hair Cut,Cloris Dudeney,1017,57,3,STYLE,100
+2071,12/20/2018,Sibby De La Coste,Hair Cut,Cloris Dudeney,1082,57,3,STYLE,100
+2072,12/20/2018,Nathanael Grigoliis,Hair Spa,Jackie Leggate,1136,52,4,STYLE,200
+2073,12/21/2018,Meyer Ellcock,Hair Cut,June Pynn,1162,53,3,STYLE,100
+2074,12/21/2018,Theda Wanderschek,Color full color,Jackie Leggate,1065,52,1,COLOR,200
+2075,12/21/2018,Royce Bowater,Shaving,Ralina Pollicatt,1017,54,6,STYLE,100
+2076,12/21/2018,Lari Swayland,Color full color,Dayle Pfeffle,1081,56,1,COLOR,200
+2077,12/21/2018,Gaelan Siddle,Shaving,June Pynn,1009,53,6,STYLE,100
+2078,12/21/2018,Belle Parley,Blowdry + style,Jackie Leggate,1041,52,2,STYLE,50
+2079,12/22/2018,Patin Crowd,Color full color,Ralina Pollicatt,1100,54,1,COLOR,200
+2080,12/23/2018,Aleksandr Branford,Hair Cut,Cristine Bosman,1022,51,3,STYLE,100
+2081,12/23/2018,Tammi Covolini,Shaving,June Pynn,1060,53,6,STYLE,100
+2082,12/24/2018,Eb Levay,Color full color,Jackie Leggate,1092,52,1,COLOR,200
+2083,12/25/2018,Courtenay Shyre,Shaving,June Pynn,1114,53,6,STYLE,100
+2084,12/25/2018,Gilburt Marchment,Color full color,Ralina Pollicatt,1091,54,1,COLOR,200
+2085,12/26/2018,Eward Jilkes,Shaving,Cloris Dudeney,1013,57,6,STYLE,100
+2086,12/26/2018,Hephzibah Orteu,Blowdry + style,Jackie Leggate,1035,52,2,STYLE,50
+2087,12/27/2018,Conny Matveichev,Shaving,Dayle Pfeffle,1016,56,6,STYLE,100
+2088,12/27/2018,Angy Verdy,Blowdry + style,Dayle Pfeffle,1135,56,2,STYLE,50
+2089,12/27/2018,Amabel Yanez,Hair Spa,Dayle Pfeffle,1084,56,4,STYLE,200
+2090,12/28/2018,Natala Hammatt,Hair Cut,Cristine Bosman,1090,51,3,STYLE,100
+2091,12/28/2018,Benjy Bewley,Shampoo,Ralina Pollicatt,1068,54,5,STYLE,100
+2092,12/29/2018,Torie Soff,Shaving,Dayle Pfeffle,1137,56,6,STYLE,100
+2093,12/29/2018,Anton Mulcock,Color full color,Jackie Leggate,1142,52,1,COLOR,200
+2094,12/30/2018,Archibold Woltering,Shaving,Cloris Dudeney,1145,57,6,STYLE,100
+2095,12/30/2018,Sadella Fligg,Color full color,June Pynn,1155,53,1,COLOR,200
+2096,12/30/2018,Pavia Maynard,Shaving,Cloris Dudeney,1166,57,6,STYLE,100
+2097,12/30/2018,Elroy Evered,Shaving,June Pynn,1150,53,6,STYLE,100
+2098,12/30/2018,Trueman Eiler,Shaving,June Pynn,1024,53,6,STYLE,100
+2099,12/31/2018,Winn Dongles,Shaving,Ralina Pollicatt,1152,54,6,STYLE,100

@@ -1,0 +1,7 @@
+service_id,service_name,service_category,service_cost
+1,Color full color,COLOR,200
+2,Blowdry + style,STYLE,50
+3,Hair Cut,STYLE,100
+4,Hair Spa,STYLE,200
+5,Shampoo,STYLE,100
+6,Shaving,STYLE,100
